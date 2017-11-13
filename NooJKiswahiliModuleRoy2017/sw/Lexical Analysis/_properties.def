@@ -1,0 +1,60 @@
+# NooJ V3
+# Dictionary properties' definition
+#
+# Language is: sw
+#
+# Special Characters: '_' '=' '|' ';' '#'
+#
+# Starting with V3, there is only ONE Dictionary Properties' Definition File per language;
+# it should always be named _properties.def and be saved in the "Lexical Analysis" folder
+#
+# List categories and properties associated with features
+#   Example: N_Number = singular | plural;
+# Special keyword: INFLECTION lists all inflectional features (used by variables $x$ALLF)
+#   Example: INFLECTION = masc | fem | Present | Futur;
+
+INFLECTION = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 15 | 16 | 17 | 18 | sg1 | sg2 | sg3 | pl1 | pl2 | pl3 | An | Ca | Loc;
+
+A_Class = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 15 | 16 | 17 | 18 | Invar;
+A_Sem= An | Loc;
+A_Pers = sg1 | sg2 | sg3 | pl1 | pl2 | pl3;
+A_Type = Possessive | Interrogative | Quantifier | Numeral | Dem1 | Dem2 | Anaphoric ;
+
+N_Class = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 15 | 16 | 17 | 18 ;
+N_Pers = sg1 | sg2 | sg3 | pl1 | pl2 | pl3;
+N_Sem = An | Loc | Abstract ;
+N_Form = Neg; 
+N_Type = Inf;
+N_SubClass = Ca;
+
+SP_Class = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 15 | 16 | 17 | 18 ;
+SP_Pers = sg1 | sg2 | sg3 | pl1 | pl2 | pl3 | aps ;
+SP_Sem = An | Loc ;
+SP_Type = ASP;
+SP_Form = Neg;
+
+RA_Class = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 15 | 16 | 17 | 18 ;
+RA_Pers = sg3 | pl3;
+RA_Sem = An | Loc ;
+
+OA_Class = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 15 | 16 | 17 | 18 ;
+OA_Pers = sg1 | sg2 | sg3 | pl1 | pl2 | pl3;
+OA_Sem = An | Loc | REFL;
+
+TI_Tense = PAST|NPAST|FUTURE|FUTREL|PRESENT|NPRESENT|PRINDEF|PRINDEFREL|NPRINDEFREL|COND|NCOND|CONDPAST|NCONDPAST|SUBJ|NSUBJ|IMP|RES|RESR|CONS|CONC|INA|HAB ;
+
+V_Extension = CAUS | APP | REC | PAS | INV | STA | POT | REFL | ASSO | CONV | CONTACT | INTENS;
+V_Conjugation = Conjugated | sg2IMP | pl2IMP ;
+V_Morpho = THEMA | Neg ;
+V_Syntax = Transitive | Intransitive;
+V_Type = Extended  ;
+V_End = EBA;
+V_Beg = MS | SBK ;
+
+EDP_Class = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 15 | 16 | 17 | 18 ;
+EDP_Sem = An | Loc ;
+EDP_Type = Inf;
+
+PRO_Class = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 15 | 16 | 17 | 18 ;
+PRO_Sem = An | Loc ;
+PRO_Type = Inf;

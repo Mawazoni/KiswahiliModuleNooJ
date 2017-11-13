@@ -1,0 +1,447 @@
+# NooJ V5
+# Inflectional/Derivational description
+#
+# Language is: sw
+#
+# Generic Commands:
+# <B>: keyboard Backspace
+# <C>: change Case
+# <D>: Duplicate current char
+# <E>: Empty string
+# <L>: keyboard Left arrow
+# <N>: go to end of Next word form
+# <P>: go to end of Previous word form
+# <R>: keyboard Right arrow
+# <S>: delete/Suppress current char
+# Arguments for commands <B>, <L>, <N>, <P>, <R>, <S>:
+# xx number: repeat xx times
+# W: whole word
+# Examples
+# <R3>: go right 3 times
+# <LW>: go to beg. of word
+#
+# Language-Specific Commands:
+# (None)
+#
+# Special Characters: '=' '<' '>' '\' '"' ':' '|' '+' '-' '/' '$' '_' ';' '#'
+#
+
+###########
+# CLASSES 1/2  #
+###########
+
+# MTU
+MTU = <E>/N+1+An | <LW><S1>wa/N+2+An ;
+MTUX = <E>/N+1+An | <PW><LW><S1>wa/N+2+An ;
+MTUXX = <E>/N+1+An | <LW><S1>wa<PW><LW><S1>wa/N+2+An ;
+
+# MTOTOWAMEZA
+MTOTOWAMEZA = <E>/N+1| <PW><LW><S1>wa/N+2 ;
+
+# MLINZIMWEUSI
+MLINZIMWEUSI = <E>/N+1+An | <LW><S1><PW><LW><S1>wa/N+2+An ;
+
+# MPASUAMBEGU
+MPASUAMBEGU = <E>/N+1+An | <P><P><LW><S1><PW><LW><S1>wa/N+2+An ;
+MPASUAMBEGUMDOGO = <E>/N+1+An | <LW><S1>wa<P><LW><S1><P><LW><S1>wa/N+2+An ;
+
+# MWAFRIKA
+MWAFRIKA = <E>/N+1+An | <LW><S2>wa/N+2+An ;
+
+# MWANA 
+MWANA = <E>/N+1+An | <LW><S2>w/N+2+An ;
+MWANAX = <E>/N+1+An | <PW><LW><S1>/N+2+An ;
+MWANAXX = <E>/N+1+An | <LW><S1>wa<PW><LW><S1>/N+2+An ;
+MWANAXXX = <E>/N+1+An | <LW><S1><PW><LW><S1>/N+2+An ;
+
+# MWAKILISHI 
+MWAKILISHI = <E>/N+1+An | <LW><S1>wa/N+2+An ;
+
+# MWANAMCHEZO 
+MWANAMCHEZO = <E>/N+1+An | <LW><S2>w<R4><B1>mi/N+2+An ;
+
+# MWANAMKE 
+MWANAMKE = <E>/N+1+An | <LW><S2>w<R4><B1>wa/N+2+An ;
+MWANAMKEX = <E>/N+1+An | <LW><S2>w<R4><B1>wa<PW><LW><S1>wa/N+2+An ;
+
+# MWANAMUME
+MWANAMUME = <E>/N+1+An | <LW><S2>w<R4><B1>/N+2+An ;
+MWANAMUMEX = <E>/N+1+An | <LW><S2>w<R4><B1><PW><LW><S1>wa/N+2+An ;
+
+# MWENZI 
+MWENZI = <E>/N+1+An | <LW><S1>/N+2+An ;
+
+# MWELEWA
+MWELEWA = <E>/N+1+An | <LW><S2>wa/N+2+An ;
+
+# MWEKEZAJI
+MWEKEZAJI = <E>/N+1+An | <LW><S1>wa/N+2+An ;
+
+# MWIGA 
+MWIGA = <E>/N+1+An | <LW><S2>wa/N+2+An ;
+
+# MWINYI
+MWINYI = <E>/N+1+An | <LW><S1>/N+2+An ;
+
+# MWINDA
+MWINDA = <E>/N+1+An | <LW><S1>wa/N+2+An ;
+
+# MWINGINE
+MWINGINE = <E>/N+1+An | <LW><S3>we/N+2+An ;
+
+# MWOKA
+MWOKA = <E>/N+1+An | <LW><S2>wa/N+2+An ;
+
+# MWUMBA
+MWUMBA = <E>/N+1+An | <LW><S2>wa/N+2+An ;
+
+# MWUMINI
+MWUMINI = <E>/N+1+An | <LW><S3>waa/N+2+An ;
+
+# MALENGA
+MALENGA = <E>/N+1+An | <LW><S2>wa/N+2+An ;
+
+# MACHINGA
+MACHINGA = <E>/N+1+An | <LW>wa/N+2+An ;
+
+# MAKAMU
+MAKAMU = <E>/N+1+An | <E>/N+2+An ;
+
+# MAZEKA
+MAZEKA = <E>/N+1+An | <LW><S2>mi/N+4+An ;
+
+# MUUZAJI
+MUUZAJI = <E>/N+1+An | <LW><S2>wa/N+2+An ;
+MUUZAJIX = <E>/N+1+An | <PW><LW><S2>wa/N+2+An ;
+
+# MUME
+MUME = <E>/N+1+An | <LW><S1>wa/N+2+An ;
+
+###########
+# CLASSES 3/4  #
+###########
+
+# MTI
+MTI = <E>/N+3 | <PW><LW><S1>mi/N+4 ; 
+
+# MWAKA MIAKA
+MWAKA = <E>/N+3 | <PW><LW><S2>mi/N+4 ; 
+
+# MWALAMU MIWALAMU 
+MWALAMU = <E>/N+3 | <PW><LW><S2>miw/N+4 ;
+
+# MWANGATI MINGATI 
+MWANGATI = <E>/N+3 | <PW><LW><S3>mi/N+4 ;
+
+# MWARIDI MAARIDI 
+MWARIDI = <E>/N+3 | <PW><LW><S2>ma/N+6 ;
+
+# MWENGE MI KI VI
+MWENGE = <E>/N+3 | <PW><LW><S2>mi/N+4 | <PW><LW><S2>ki/N+7 | <PW><LW><S2>vi/N+8 ;
+
+# MWITU MITU
+MWITU = <E>/N+3 | <PW><LW><S2>m/N+4 ;
+
+# MWONGONI Loc
+MWONGONI = <E>/N+3 | <PW><LW><S2>mi/N+16+Loc | <PW><LW><S2>mi/N+17+Loc | <PW><LW><S2>mi/N+18+Loc ;
+
+# MOSHI
+MOSHI = <E>/N+3 | <PW><LW>mi/N+4 ;
+
+# MOYO
+MOYO = <E>/N+3 | <PW><LW><S1>mi/N+4 ;
+
+# NYOYO
+NYOYO = <E>/N+3 | <PW><LW><S1>ny/N+10 ;
+
+# MKEKA WA / MIKEKA YA
+MKEKA = <E>/N+3| <PW><LW><S1>mi<N><LW><S1>y/N+4 ;
+
+# MWANDIKO WA / MIANDIKO YA
+MWANDIKO = <E>/N+3| <PW><LW><S2>mi<N><LW><S1>y/N+4;
+
+# MHIMILI WA TAWI / MIHIMILI YA MATAWI
+MHIMILI = <E>/N+3| <PW><LW><S1>mi<N><LW><S1>y<N><LW>ma/N+4;
+
+# MJI MKUU / MIJI MIKUU
+MTIX = <E>/N+3| <PW><LW><S1>mi<N><LW><S1>mi/N+4;
+
+# MKOKO MWEKUNDU / MIKOKO MIEKUNDU
+MTIXX = <E>/N+3| <PW><LW><S1>mi<N><LW><S2>mi/N+4;
+ 
+# MKOPO MDOGO MDOGO / MIKOPO MIDOGO MIDOGO
+MTIXXX = <E>/N+3| <PW><LW><S1>mi<N><LW><S1>mi<N><LW><S1>mi/N+4;
+
+# MOYO WA MNAZI / MIOYO YA MINAZI
+MOYOWAMNAZI = <E>/N+3| <PW><LW><S1>mi<N><LW><S1>y<N><LW><S1>mi/N+4;
+
+# MWEZI MWANDAMO / MIEZI MIANDAMO
+MWEZIMWANDAMO = <E>/N+3| <PW><LW><S2>mi<N><LW><S2>mi/N+4;
+
+# MWEZI MKUBWA / MIEZI MIKUBWA
+MWEZIMKUBWA = <E>/N+3| <PW><LW><S2>mi<N><LW><S1>mi/N+4;
+
+# MUNGU
+MUNGU = <E>/N+3+An | <PW><LW><S1>mi/N+4+An ;
+
+# MWAMBA
+MWAMBA = <E>/N+3+An | <PW><LW><S2>mi/N+4+An ;
+
+# MKESHA MWEKUNDU / MIKESHA WEKUNDU
+MKESHAMWEKUNDU = <E>/N+3+An| <PW><LW><S1>mi<N><LW><S1>/N+4+An;
+
+# MNANA MKUBWA / MINANA WAKUBWA
+MNANAMKUBWA = <E>/N+3+An| <PW><LW><S1>mi<N><LW><S1>wa/N+4+An;
+
+###########
+# CLASSES 7/8  #
+###########
+# KITU / VITU
+KITU = <E>/N+7| <PW><LW><S1>v/N+8;
+
+# CHANZO / VYANZO
+CHANZO = <E>/N+7| <PW><LW><S2>vy/N+8;
+
+# KITI CHA / VITI VYA
+KITICHA = <E>/N+7| <PW><LW><S1>v<N><LW><S2>vy/N+8;
+
+# KIAMBISHI AWALI CHA / VIAMBISHI AWALI CHA
+KIAMBISHI = <E>/N+7| <PW><LW><S1>v<N2><LW><S2>vy/N+8;
+
+# KIAZI KINDORO / VIAZI VINDORO
+KIAZIKINDORO = <E>/N+7| <PW><LW><S1>v<N><LW><S1>v/N+8;
+
+# CHAMA CHA / VYAMA VYA
+CHAMACHA = <E>/N+7| <PW><LW><S2>vy<N><LW><S2>vy/N+8;
+
+# CHUO KIKUU / VYUO VIKUU
+CHUOKIKUU = <E>/N+7| <PW><LW><S2>vy<N><LW><S1>v/N+8;
+
+###########
+# CLASSES 5/6   #
+###########
+# AASI
+AASI = <E>/N+5| <PW><LW>m/N+6;
+
+# BAWA / MABAWA
+BAWA = <E>/N+5| <PW><LW>ma/N+6;
+
+# JAMBO / MAMBO
+JAMBO = <E>/N+5| <PW><LW><S1>m/N+6;
+
+# JICHO / MACHO
+JICHO = <E>/N+5| <PW><LW><S2>ma/N+6;
+
+# JIKO / MEKO
+JIKO = <E>/N+5| <PW><LW><S2>me/N+6;
+
+# COMPOUND NAMES IN CLASSES 5/6
+# ANGA LA / MAANGA YA
+ANGALA = <E>/N+5| <PW><LW>ma<N><LW><S1>y/N+6;
+
+# BOMA KUBWA / MABOMA MAKUBWA
+BOMAKUBWA = <E>/N+5| <PW><LW>ma<N><LW>ma/N+6;
+
+# JIWE LA / MAWE YA
+JIWELA = <E>/N+5| <PW><LW><S2>ma<N><LW><S1>y/N+6;
+
+# JINO LA / MENO LA
+JINOLA = <E>/N+5| <PW><LW><S2>me<N><LW><S1>y/N+6;
+
+# JAMBO LA / MAMBO YA
+JAMBOLA = <E>/N+5| <PW><LW><S1>m<N><LW><S1>y/N+6;
+
+############
+# CLASSES 5/6An #
+############
+# BWANA / MABWANA
+BWANA = <E>/N+5+An| <PW><LW>ma/N+6+An;
+
+# COMPOUND NAMES IN CLASSES 5/6An
+# BIBI MKUBWA / MABIBI WAKUBWA
+BIBIMKUBWA = <E>/N+5+An| <PW><LW>ma<N><LW><S1>wa/N+6+An;
+
+# BATA MWEUSI / MABATA WEUSI
+BATAMWEUSI = <E>/N+5+An| <PW><LW>ma<N><LW><S1>/N+6+An;
+
+# PANDE LA / MAPANDE YA
+PANDELA = <E>/N+5+An| <PW><LW>ma<N><LW><S1>y/N+6+An;
+
+
+############
+# CLASSES 5/6Ca #
+############
+# RAFIKI / MARAFIKI
+RAFIKI = <E>/N+5+An+Ca| <PW><LW>ma/N+6+An+Ca;
+
+#############
+# CLASSES 7/8An  #
+#############
+# KIZUKA / VIZUKA
+KIZUKA = <E>/N+7+An| <PW><LW><S1>v/N+8+An;
+
+# CHURA / VYURA
+CHURA = <E>/N+7+An| <PW><LW><S2>vy/N+8+An;
+
+# COMPOUND NAMES IN CLASSES 7/8An
+# KICHWA KIGUMU / VICHWA VIGUMU
+KICHWAKIGUMU = <E>/N+7+An| <PW><LW><S1>v<N><LW><S1>v/N+8+An;
+
+# KIDENENDA MDOGO / VIDENENDA WADOGO
+KIDENENDAMDOGO = <E>/N+7+An| <PW><LW><S1>v<N><LW><S1>wa/N+8+An;
+
+# KIDENENDA MWEKUNDU / VIDENENDA WEKUNDU
+KIDENENDAMWEKUNDU = <E>/N+7+An| <PW><LW><S1>v<N><LW><S1>/N+8+An;
+
+# KIDENENDA MWIMBAJI / VIDENENDA WAIMBAJI
+KIDENENDAMWIMBAJI = <E>/N+7+An| <PW><LW><S1>v<N><LW><S2>wa/N+8+An;
+
+# KITI CHA PWEZA / VITI VYA PWEZA
+KITICHAPWEZA = <E>/N+7+An| <PW><LW><S1>v<N><LW><S2>vy/N+8+An;
+
+#############
+# CLASSES 9/10       #
+#############
+# MEZA
+MEZA = <E>/N+9 | <E>/N+10;
+
+# NJIA YA / NJIA ZA
+NJIAYA = <E>/N+9 | <PW><N><LW><S1>z/N+10;
+
+#############
+# CLASSES 9/10An  #
+#############
+# TEMBO
+TEMBO = <E>/N+9+An | <E>/N+10+An;
+
+# CHIRIKU MDOGO / CHIRIKU WADOGO 
+CHIRIKUMDOGO = <E>/N+9+An | <LW><S1>wa/N+10+An;
+
+# TIKISA MWEUPE / TIKISA WEUPE
+TIKISAMWEUPE = <E>/N+9+An | <LW><S1>/N+10+An;
+
+# FISI YA NKOLE / FISI ZA NKOLE
+FISIYANKOLE = <E>/N+9+An | <PW><N><LW><S1>z/N+10+An;
+
+#############
+# CLASSES 9/10Ca   #
+#############
+# DADA
+DADA = <E>/N+9+An+Ca | <E>/N+10+An+Ca;
+
+#########
+# CLASS 11/4 #
+#########
+# UJALI / MIJALI
+UJALI = <E>/N+11| <PW><LW><S1>mi/N+4;
+
+# UJARI / MINJARI
+UJARI = <E>/N+11| <PW><LW><S1>min/N+4;
+
+#########
+# CLASS 11/6 #
+#########
+# USIA / MAUSIA
+USIA = <E>/N+11| <PW><LW>ma/N+6;
+
+# UAMUZI / MAAMUZI
+UAMUZI = <E>/N+11| <PW><LW><S1>ma/N+6;
+
+# UTE WA / MATE YA
+UTEWA = <E>/N+11| <PW><LW><S1>ma<N><LW><S1>y/N+6;
+
+# UWAMBO / MAMBO
+UWAMBO = <E>/N+11| <PW><LW><S2>m/N+6;
+
+# UWASI / MAWASI
+UWASI = <E>/N+11| <PW><LW><S1>ma/N+6;
+
+# UWELE / MAWELE / NYELE
+NYELE = <E>/N+11| <PW><LW><S1>ma/N+6 | <PW><LW><S2>ny/N+10;
+
+# UWONGO / MAONGO
+UWONGO = <E>/N+11| <PW><LW><S2>ma/N+6;
+
+# WASI / MAASI
+WASI = <E>/N+11| <PW><LW><S1>ma/N+6;
+
+# WAZO / MAWAZO
+WAZO = <E>/N+11| <PW><LW>ma/N+6;
+
+###########
+# CLASS 11/6an  #
+###########
+# UGOMVI / MAGOMVI
+UGOMVI = <E>/N+11+An| <PW><LW><S1>ma/N+6+An;
+
+# WAKALA / MAKALA
+WAKALA = <E>/N+11+An| <PW><LW><S2>ma/N+6+An;
+
+##########
+# CLASS 11/10  #
+##########
+# UFUO / FUO
+UFUO = <E>/N+11| <PW><LW><S1>/N+10;
+
+# UZI WA / NYUZI ZA 
+UZIWA = <E>/N+11| <PW><LW>ny<N><LW><S1>z/N+10;
+
+# UA / NYUA 
+UA = <E>/N+11| <PW><LW>ny/N+10;
+
+# UATI / MBATI
+UATI = <E>/N+11| <PW><LW><S1>mb/N+10;
+
+# UBALE/ MBALE 
+UBALE = <E>/N+11| <PW><LW><S1>m/N+10;
+
+# UWANJA / NYANJA 
+UWANJA = <E>/N+11| <PW><LW><S2>ny/N+10;
+
+# UDEVU / NDEVU
+UDEVU = <E>/N+11| <PW><LW><S1>n/N+10;
+ 
+# UELE / NDWELE 
+UELE = <E>/N+11| <PW><LW><S1>ndw/N+10;
+
+# ULIMI / NDIMI
+ULIMI = <E>/N+11| <PW><LW><S2>nd/N+10;
+
+# ULIMI WA / NDIMI ZA
+ULIMIWA = <E>/N+11| <PW><LW><S2>nd<N><LW><S1>z/N+10;
+
+# UPINDE WA / PINDE ZA 
+UPINDEWA = <E>/N+11| <PW><LW><S1><N><LW><S1>z/N+10;
+
+# UWANJA WA / NYANJA ZA 
+UWANJAWA = <E>/N+11| <PW><LW><S2>ny<N><LW><S1>z/N+10;
+
+# UWATI / MBATI 
+UWATI = <E>/N+11| <PW><LW><S2>mb/N+10;
+
+# UWELE / NDWELE
+UWELE = <E>/N+11| <PW><LW><S1>nd/N+10;
+
+# WAKATI WA / NYAKATI ZA
+WAKATIWA = <E>/N+11| <PW><LW><S1>ny<N><LW><S1>z/N+10;
+
+# WAKATI / NYAKATI 
+WAKATI = <E>/N+11| <PW><LW><S1>ny/N+10;
+
+# WAKF / WAKF
+WAKF = <E>/N+11| <E>/N+10;
+
+############
+# CLASS 11/10An   #
+############
+# UCHANGO / CHANGO 
+UCHANGO = <E>/N+11+An| <PW><LW><S1>/N+10+An; 
+
+# UDOLE / NDOLE
+UDOLE = <E>/N+11+An| <PW><LW><S1>n/N+10+An;
+
+####################
+# LOCATIVE CLASSES 16/17/18  #
+####################
+# MAHALI
+MAHALI = <E>/N+16+Loc | <E>/N+17+Loc | <E>/N+18+Loc;

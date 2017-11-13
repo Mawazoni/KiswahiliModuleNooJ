@@ -1,0 +1,136 @@
+# NooJ V5
+# Inflectional/Derivational description
+#
+# Language is: sw
+#
+# Generic Commands:
+# <B>: keyboard Backspace
+# <C>: change Case
+# <D>: Duplicate current char
+# <E>: Empty string
+# <L>: keyboard Left arrow
+# <N>: go to end of Next word form
+# <P>: go to end of Previous word form
+# <R>: keyboard Right arrow
+# <S>: delete/Suppress current char
+# Arguments for commands <B>, <L>, <N>, <P>, <R>, <S>:
+# xx number: repeat xx times
+# W: whole word
+# Examples
+# <R3>: go right 3 times
+# <LW>: go to beg. of word
+#
+# Language-Specific Commands:
+# (None)
+#
+# Special Characters: '=' '<' '>' '\' '"' ':' '|' '+' '-' '/' '$' '_' ';' '#'
+#
+
+###################
+# VOWELS INITIALS #
+###################
+
+ANGAVU=<LW>mw/1+An | <LW>wa/2+An |<LW>mw/3 | <LW>mi/4 | <E>/5 | <LW>ma/6 | <LW>ch/7 | <LW>vy/8 |
+      <LW>ny/9 | <LW>ny/10 |<LW>mw/11 | <LW>kw/15 | <LW>p/16+Loc |<LW>kw/17+Loc |<LW>mw/18+Loc;
+
+EUPE=<LW>mw/1+An | <LW>w/2+An |<LW>mw/3 | <LW>mi/4 | <LW>j/5 | <LW>m/6 | <LW>ch/7 | <LW>vy/8 |
+    <LW>ny/9 | <LW>ny/10 |<LW>mw/11 | <LW>kw/15 | <LW>p/16+Loc |<LW>kw/17+Loc |<LW>mw/18+Loc;
+
+EMA=<LW>mw/1+An | <LW>w/2+An |<LW>mw/3 | <LW>mi/4 | <LW>j/5 | <LW>m/6 | <LW>ch/7 | <LW>vy/8 |
+     <LW>nj/9 | <LW>nj/10 |<LW>mw/11 | <LW>kw/15 | <LW>p/16+Loc |<LW>kw/17+Loc |<LW>mw/18+Loc;
+
+ENYE=<PW><LW>mw/1+An | <PW><LW>w/2+An |<PW><LW>w/3 | <PW><LW>y/4 | <PW><LW>l/5 | <PW><LW>y/6 | <PW><LW>ch/7 | <PW><LW>vy/8 |
+           <PW><LW>y/9 | <PW><LW>z/10 |<PW><LW>mw/11 | <PW><LW>kw/15 | <PW><LW>p/16+Loc |<PW><LW>kw/17+Loc |<PW><LW>mw/18+Loc;
+
+ETU=<LW>w/1+An | <LW>w/2+An |<LW>w/3 | <LW>y/4 | <LW>l/5 | <LW>y/6 | <LW>ch/7 | <LW>vy/8 |
+    <LW>y/9 | <LW>z/10 |<LW>w/11 | <LW>kw/15 | <LW>p/16+Loc |<LW>kw/17+Loc |<LW>mw/18+Loc;
+
+INGI=<LW>mw/1+An | <LW><S1>we/2+An |<LW>mw/3 | <LW>m/4 | <LW>j/5 | <LW><S1>me/6 | <LW>k/7 | <LW>v/8 |
+     <LW>ny/9 | <LW>ny/10 |<LW>mw/11 | <LW>kw/15 | <LW><S1>pe/16+Loc |<LW>kw/17+Loc |<LW>mw/18+Loc;
+
+ORORO=<LW>mw/1+An | <LW>wa/2+An |<LW>mw/3 | <LW>mi/4 | <E>/5 | <LW>ma/6 | <LW>ch/7 | <LW>vy/8 |
+      <LW>ny/9 | <LW>ny/10 |<LW>mw/11 | <LW>kw/15 | <LW>p/16+Loc |<LW>kw/17+Loc |<LW>mw/18+Loc;
+
+OTE=<LW>mw/1+An | <LW>w/2+An |<LW>s/2+An+pl1 | <LW>ny/2+An+pl2 |<LW>w/3 | <LW>y/4 | <LW>l/5 | <LW>y/6 | <LW>ch/7 | <LW>vy/8 |
+           <LW>y/9 | <LW>z/10 |<LW>mw/11 | <LW>kw/15 | <LW>p/16+Loc |<LW>kw/17+Loc |<LW>mw/18+Loc;
+
+2OTE=<LW><S1>wow/1+An | <LW><S1>wow/2+An |<LW><S1>sos/2+An+pl1 |<LW><S1>nyony/2+An+pl2 |<LW><S1>wow/3 | <LW><S1>yoy/4 | <LW><S1>lol/5 | <LW><S1>yoy/6 | <LW><S1>choch/7 | <LW><S1>vyovy/8 |
+      <LW><S1>yoy/9 | <LW><S1>zoz/10 |<LW><S1>wow/11 | <LW><S1>kok/15 | <LW><S1>pop/16+Loc |<LW><S1>kok/17+Loc |<LW><S1>mom/18+Loc;
+
+#######################
+# CONSONANTS INITIALS #
+#######################
+
+# D G J Z
+DOGO=<LW>m/1+An | <LW>wa/2+An |<LW>m/3 | <LW>mi/4 | <E>/5 | <LW>ma/6 | <LW>ki/7 | <LW>vi/8 |
+     <LW>n/9 | <LW>n/10 |<LW>m/11 | <LW>ku/15 | <LW>pa/16+Loc |<LW>ku/17+Loc |<LW>m/18+Loc;
+
+# B V
+BAYA=<LW>m/1+An | <LW>wa/2+An |<LW>m/3 | <LW>mi/4 | <E>/5 | <LW>ma/6 | <LW>ki/7 | <LW>vi/8 |
+     <LW>m/9 | <LW>m/10 |<LW>m/11 | <LW>ku/15 | <LW>pa/16+Loc |<LW>ku/17+Loc |<LW>m/18+Loc;
+
+# R
+REFU=<LW>m/1+An | <LW>wa/2+An |<LW>m/3 | <LW>mi/4 | <E>/5 | <LW>ma/6 | <LW>ki/7 | <LW>vi/8 |
+     <LW><S1>nd/9 | <LW><S1>nd/10 |<LW>m/11 | <LW>ku/15 | <LW>pa/16+Loc |<LW>ku/17+Loc |<LW>m/18+Loc;
+
+# W
+WILI=<LW>wa/2+An |<LW>mi/4 | <LW>ma/6 | <LW>vi/8 |
+     <LW><S1>mb/10 | <LW>ku/15 | <LW>pa/16+Loc |<LW>ku/17+Loc |<LW>m/18+Loc;
+
+# ALL OTHER CONSONANTS
+KALI=<LW>m/1+An | <LW>wa/2+An |<LW>m/3 | <LW>mi/4 | <E>/5 | <LW>ma/6 | <LW>ki/7 | <LW>vi/8 |
+     <E>/9 | <E>/10 |<LW>m/11 | <LW>ku/15 | <LW>pa/16+Loc |<LW>ku/17+Loc |<LW>m/18+Loc;
+
+# MONOSYLLABIC
+PYA=<LW>m/1+An | <LW>wa/2+An |<LW>m/3 | <LW>mi/4 | <LW>ji/5 | <LW>ma/6 | <LW>ki/7 | <LW>vi/8 |
+    <LW>m/9 | <LW>m/10 |<LW>m/11 | <LW>ku/15 | <LW>pa/16+Loc |<LW>ku/17+Loc |<LW>m/18+Loc;
+
+# NUMERALS
+TATU=<LW>wa/2+An |<LW>mi/4 | <LW>ma/6 | <LW>vi/8 |
+     <E>/10 | <LW>ku/15 | <LW>pa/16+Loc |<LW>ku/17+Loc |<LW>m/18+Loc;
+
+# EDP CONCORD FOR EDP+WORD COMPOUNDS
+A=<PW><LW>w/1+An | <PW><LW>w/2+An |<PW><LW>w/3 | <PW><LW>y/4 | <PW><LW>l/5 | <PW><LW>y/6 | <PW><LW>ch/7 | <PW><LW>vy/8 |
+         <PW><LW>y/9 | <PW><LW>z/10 |<PW><LW>w/11 | <PW><LW>kw/15 | <PW><LW>p/16+Loc |<PW><LW>kw/17+Loc |<PW><LW>mw/18+Loc;
+
+# INTERROGATIVE
+PI=<LW>yu/1+An+sg3 | <LW>wa/2+An+pl3 | <LW>we/2+An+pl3 | <LW>u/3 | <LW>i/4 | <LW>li/5 | <LW>ya/6 | <LW>ki/7 | <LW>vi/8 |
+    <LW>i/9 | <LW>zi/10 |<LW>u/11 | <LW>ku/15 | <LW>pa/16+Loc |<LW>ku/17+Loc |<LW>m/18+Loc;
+
+# DEMONSTRATIVE GENERATION RULES
+HUYU=<E>/1+An+sg3+Dem1+EN=this | <LW><S2><RW>le/1+An+sg3+Dem2+EN=that | <B1>o/1+An+sg3+Anaphoric+EN=that ;
+
+HAWA=<E>/2+An+sg3+Dem1+EN=this | <LW><S2><RW>le/2+An+sg3+Dem2+EN=that | <B2>o/2+An+sg3+Anaphoric+EN=that ;
+
+HUU=<E>/3+Dem1+EN=this | <LW><S2><RW>le/3+Dem2+EN=that | <B1>o/+3+Anaphoric+EN=that ;
+
+HII=<E>/4+Dem1+EN=this | <LW><S2><RW>le/4+Dem2+EN=that | <B1>yo/4+Anaphoric+EN=that |
+    <E>/9+Dem1+EN=this | <LW><S2><RW>le/9+Dem2+EN=that | <B1>yo/9+Anaphoric+EN=that ;
+
+HILI=<E>/5+Dem1+EN=this | <LW><S2><RW>le/5+Dem2+EN=that | <B1>o/5+Anaphoric+EN=that ;
+
+HAYA=<E>/6+Dem1+EN=this | <LW><S2><RW>le/6+Dem2+EN=that | <B1>o/6+Anaphoric+EN=that ;
+
+HIKI=<E>/7+Dem1+EN=this | <LW><S2><RW>le/7+Dem2+EN=that | <B2>cho/7+Anaphoric+EN=that ;
+
+HIVI=<E>/8+Dem1+EN=this | <LW><S2><RW>le/8+Dem2+EN=that | <B2>vyo/8+Anaphoric+EN=that ;
+
+HIZI=<E>/10+Dem1+EN=this | <LW><S2><RW>le/10+Dem2+EN=that | <B1>o/10+Anaphoric+EN=that ;
+
+HUKU=<E>/15+Dem1+EN=this | <LW><S2><RW>le/15+Dem2+EN=that |  <B1>o/15+Anaphoric+EN=that |
+     <E>/17+Loc+Dem1+EN=this | <LW><S2><RW>le/17+Loc+Dem2+EN=that |  <B1>o/17+Loc+Anaphoric+EN=that ;
+
+HAPA=<E>/16+Loc+Dem1+EN=this | <LW><S2><RW>le/16+Loc+Dem2+EN=that |  <B1>o/16+Loc+Anaphoric+EN=that ;
+
+HUMU=<E>/18+Loc+Dem1+EN=this | <B1><LW><S2><RW>le/18+Loc+Dem2+EN=that |  <B1>o/18+Loc+Anaphoric+EN=that ;
+
+
+
+
+
+
+
+
+
+
+

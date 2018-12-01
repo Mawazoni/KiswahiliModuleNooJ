@@ -73,12 +73,12 @@
 </a1:Preferences>
 <a2:ArrayList id="ref-6" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
 <_items href="#ref-18"/>
-<_size>18</_size>
+<_size>1</_size>
 <_version>1</_version>
 </a2:ArrayList>
 <a2:Hashtable id="ref-7" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
 <LoadFactor>0.72</LoadFactor>
-<Version>762</Version>
+<Version>768</Version>
 <Comparer xsi:null="1"/>
 <HashCodeProvider xsi:null="1"/>
 <HashSize>47</HashSize>
@@ -87,53 +87,71 @@
 </a2:Hashtable>
 <a2:Hashtable id="ref-8" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
 <LoadFactor>0.72</LoadFactor>
-<Version>761</Version>
+<Version>767</Version>
 <Comparer xsi:null="1"/>
 <HashCodeProvider xsi:null="1"/>
 <HashSize>47</HashSize>
 <Keys href="#ref-21"/>
 <Values href="#ref-22"/>
 </a2:Hashtable>
-<SOAP-ENC:Array id="ref-18" SOAP-ENC:arrayType="xsd:anyType[18]">
-<item id="ref-23" xsi:type="SOAP-ENC:string">ac</item>
-<item id="ref-24" xsi:type="SOAP-ENC:string">ar</item>
-<item id="ref-25" xsi:type="SOAP-ENC:string">bg</item>
-<item id="ref-26" xsi:type="SOAP-ENC:string">ca</item>
-<item id="ref-27" xsi:type="SOAP-ENC:string">da</item>
-<item id="ref-28" xsi:type="SOAP-ENC:string">en</item>
-<item id="ref-29" xsi:type="SOAP-ENC:string">fr</item>
-<item id="ref-30" xsi:type="SOAP-ENC:string">he</item>
-<item id="ref-31" xsi:type="SOAP-ENC:string">hu</item>
-<item id="ref-32" xsi:type="SOAP-ENC:string">hy</item>
-<item id="ref-33" xsi:type="SOAP-ENC:string">it</item>
-<item id="ref-34" xsi:type="SOAP-ENC:string">ko</item>
-<item id="ref-35" xsi:type="SOAP-ENC:string">pt</item>
-<item id="ref-36" xsi:type="SOAP-ENC:string">ro</item>
-<item id="ref-37" xsi:type="SOAP-ENC:string">sp</item>
-<item id="ref-38" xsi:type="SOAP-ENC:string">sq</item>
-<item id="ref-39" xsi:type="SOAP-ENC:string">sr</item>
-<item id="ref-40" xsi:type="SOAP-ENC:string">zh</item>
+<SOAP-ENC:Array id="ref-18" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item id="ref-23" xsi:type="SOAP-ENC:string">sw</item>
 </SOAP-ENC:Array>
 <SOAP-ENC:Array id="ref-19" SOAP-ENC:arrayType="xsd:anyType[16]">
-<item id="ref-41" xsi:type="SOAP-ENC:string">it</item>
-<item id="ref-42" xsi:type="SOAP-ENC:string">he</item>
-<item id="ref-43" xsi:type="SOAP-ENC:string">sw</item>
-<item id="ref-44" xsi:type="SOAP-ENC:string">zh</item>
-<item id="ref-45" xsi:type="SOAP-ENC:string">pl</item>
-<item id="ref-46" xsi:type="SOAP-ENC:string">sp</item>
-<item id="ref-47" xsi:type="SOAP-ENC:string">hy</item>
-<item id="ref-48" xsi:type="SOAP-ENC:string">tr</item>
-<item id="ref-49" xsi:type="SOAP-ENC:string">ru</item>
-<item id="ref-50" xsi:type="SOAP-ENC:string">qu</item>
-<item id="ref-51" xsi:type="SOAP-ENC:string">pt</item>
-<item id="ref-52" xsi:type="SOAP-ENC:string">ma</item>
-<item id="ref-53" xsi:type="SOAP-ENC:string">el</item>
-<item id="ref-54" xsi:type="SOAP-ENC:string">ar</item>
-<item href="#ref-29"/>
-<item href="#ref-28"/>
+<item id="ref-24" xsi:type="SOAP-ENC:string">it</item>
+<item id="ref-25" xsi:type="SOAP-ENC:string">he</item>
+<item id="ref-26" xsi:type="SOAP-ENC:string">sw</item>
+<item id="ref-27" xsi:type="SOAP-ENC:string">zh</item>
+<item id="ref-28" xsi:type="SOAP-ENC:string">pl</item>
+<item id="ref-29" xsi:type="SOAP-ENC:string">sp</item>
+<item id="ref-30" xsi:type="SOAP-ENC:string">hy</item>
+<item id="ref-31" xsi:type="SOAP-ENC:string">tr</item>
+<item id="ref-32" xsi:type="SOAP-ENC:string">ru</item>
+<item id="ref-33" xsi:type="SOAP-ENC:string">qu</item>
+<item id="ref-34" xsi:type="SOAP-ENC:string">pt</item>
+<item id="ref-35" xsi:type="SOAP-ENC:string">ma</item>
+<item id="ref-36" xsi:type="SOAP-ENC:string">el</item>
+<item id="ref-37" xsi:type="SOAP-ENC:string">ar</item>
+<item id="ref-38" xsi:type="SOAP-ENC:string">fr</item>
+<item id="ref-39" xsi:type="SOAP-ENC:string">en</item>
 </SOAP-ENC:Array>
 <SOAP-ENC:Array id="ref-20" SOAP-ENC:arrayType="xsd:anyType[16]">
+<item href="#ref-40"/>
+<item href="#ref-41"/>
+<item href="#ref-42"/>
+<item href="#ref-43"/>
+<item href="#ref-44"/>
+<item href="#ref-45"/>
+<item href="#ref-46"/>
+<item href="#ref-47"/>
+<item href="#ref-48"/>
+<item href="#ref-49"/>
+<item href="#ref-50"/>
+<item href="#ref-51"/>
+<item href="#ref-52"/>
+<item href="#ref-53"/>
+<item href="#ref-54"/>
 <item href="#ref-55"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-21" SOAP-ENC:arrayType="xsd:anyType[16]">
+<item href="#ref-24"/>
+<item href="#ref-25"/>
+<item href="#ref-26"/>
+<item href="#ref-27"/>
+<item href="#ref-28"/>
+<item href="#ref-29"/>
+<item href="#ref-30"/>
+<item href="#ref-31"/>
+<item href="#ref-32"/>
+<item href="#ref-33"/>
+<item href="#ref-34"/>
+<item href="#ref-35"/>
+<item href="#ref-36"/>
+<item href="#ref-37"/>
+<item href="#ref-38"/>
+<item href="#ref-39"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-22" SOAP-ENC:arrayType="xsd:anyType[16]">
 <item href="#ref-56"/>
 <item href="#ref-57"/>
 <item href="#ref-58"/>
@@ -149,72 +167,112 @@
 <item href="#ref-68"/>
 <item href="#ref-69"/>
 <item href="#ref-70"/>
-</SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-21" SOAP-ENC:arrayType="xsd:anyType[16]">
-<item href="#ref-41"/>
-<item href="#ref-42"/>
-<item href="#ref-43"/>
-<item href="#ref-44"/>
-<item href="#ref-45"/>
-<item href="#ref-46"/>
-<item href="#ref-47"/>
-<item href="#ref-48"/>
-<item href="#ref-49"/>
-<item href="#ref-50"/>
-<item href="#ref-51"/>
-<item href="#ref-52"/>
-<item href="#ref-53"/>
-<item href="#ref-54"/>
-<item href="#ref-29"/>
-<item href="#ref-28"/>
-</SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-22" SOAP-ENC:arrayType="xsd:anyType[16]">
 <item href="#ref-71"/>
-<item href="#ref-72"/>
-<item href="#ref-73"/>
-<item href="#ref-74"/>
-<item href="#ref-75"/>
-<item href="#ref-76"/>
-<item href="#ref-77"/>
-<item href="#ref-78"/>
-<item href="#ref-79"/>
-<item href="#ref-80"/>
-<item href="#ref-81"/>
-<item href="#ref-82"/>
-<item href="#ref-83"/>
-<item href="#ref-84"/>
-<item href="#ref-85"/>
-<item href="#ref-86"/>
 </SOAP-ENC:Array>
-<a2:ArrayList id="ref-55" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-87"/>
+<a2:ArrayList id="ref-40" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-72"/>
 <_size>1</_size>
 <_version>1</_version>
 </a2:ArrayList>
-<a2:ArrayList id="ref-56" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-88"/>
+<a2:ArrayList id="ref-41" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-73"/>
 <_size>23</_size>
 <_version>23</_version>
 </a2:ArrayList>
-<a2:ArrayList id="ref-57" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-89"/>
+<a2:ArrayList id="ref-42" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-74"/>
 <_size>64</_size>
 <_version>64</_version>
 </a2:ArrayList>
-<a2:ArrayList id="ref-58" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-90"/>
+<a2:ArrayList id="ref-43" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-75"/>
 <_size>4</_size>
 <_version>4</_version>
 </a2:ArrayList>
-<a2:ArrayList id="ref-59" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-91"/>
+<a2:ArrayList id="ref-44" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-76"/>
 <_size>1</_size>
 <_version>1</_version>
 </a2:ArrayList>
-<a2:ArrayList id="ref-60" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-92"/>
+<a2:ArrayList id="ref-45" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-77"/>
 <_size>1</_size>
 <_version>1</_version>
+</a2:ArrayList>
+<a2:ArrayList id="ref-46" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-78"/>
+<_size>0</_size>
+<_version>0</_version>
+</a2:ArrayList>
+<a2:ArrayList id="ref-47" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-79"/>
+<_size>5</_size>
+<_version>5</_version>
+</a2:ArrayList>
+<a2:ArrayList id="ref-48" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-80"/>
+<_size>1</_size>
+<_version>1</_version>
+</a2:ArrayList>
+<a2:ArrayList id="ref-49" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-81"/>
+<_size>1</_size>
+<_version>1</_version>
+</a2:ArrayList>
+<a2:ArrayList id="ref-50" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-82"/>
+<_size>1</_size>
+<_version>1</_version>
+</a2:ArrayList>
+<a2:ArrayList id="ref-51" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-83"/>
+<_size>1</_size>
+<_version>1</_version>
+</a2:ArrayList>
+<a2:ArrayList id="ref-52" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-84"/>
+<_size>4</_size>
+<_version>4</_version>
+</a2:ArrayList>
+<a2:ArrayList id="ref-53" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-85"/>
+<_size>2</_size>
+<_version>2</_version>
+</a2:ArrayList>
+<a2:ArrayList id="ref-54" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-86"/>
+<_size>5</_size>
+<_version>5</_version>
+</a2:ArrayList>
+<a2:ArrayList id="ref-55" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-87"/>
+<_size>4</_size>
+<_version>4</_version>
+</a2:ArrayList>
+<a2:ArrayList id="ref-56" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-88"/>
+<_size>0</_size>
+<_version>0</_version>
+</a2:ArrayList>
+<a2:ArrayList id="ref-57" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-89"/>
+<_size>0</_size>
+<_version>0</_version>
+</a2:ArrayList>
+<a2:ArrayList id="ref-58" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-90"/>
+<_size>0</_size>
+<_version>0</_version>
+</a2:ArrayList>
+<a2:ArrayList id="ref-59" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-91"/>
+<_size>0</_size>
+<_version>0</_version>
+</a2:ArrayList>
+<a2:ArrayList id="ref-60" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-92"/>
+<_size>0</_size>
+<_version>0</_version>
 </a2:ArrayList>
 <a2:ArrayList id="ref-61" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
 <_items href="#ref-93"/>
@@ -222,312 +280,237 @@
 <_version>0</_version>
 </a2:ArrayList>
 <a2:ArrayList id="ref-62" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-94"/>
-<_size>5</_size>
-<_version>5</_version>
+<_items href="#ref-78"/>
+<_size>0</_size>
+<_version>0</_version>
 </a2:ArrayList>
 <a2:ArrayList id="ref-63" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-95"/>
-<_size>1</_size>
-<_version>1</_version>
+<_items href="#ref-94"/>
+<_size>0</_size>
+<_version>0</_version>
 </a2:ArrayList>
 <a2:ArrayList id="ref-64" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-96"/>
-<_size>1</_size>
-<_version>1</_version>
+<_items href="#ref-95"/>
+<_size>0</_size>
+<_version>0</_version>
 </a2:ArrayList>
 <a2:ArrayList id="ref-65" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-96"/>
+<_size>0</_size>
+<_version>0</_version>
+</a2:ArrayList>
+<a2:ArrayList id="ref-66" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
 <_items href="#ref-97"/>
 <_size>1</_size>
 <_version>1</_version>
 </a2:ArrayList>
-<a2:ArrayList id="ref-66" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-98"/>
-<_size>1</_size>
-<_version>1</_version>
-</a2:ArrayList>
 <a2:ArrayList id="ref-67" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-99"/>
-<_size>4</_size>
-<_version>4</_version>
+<_items href="#ref-98"/>
+<_size>0</_size>
+<_version>0</_version>
 </a2:ArrayList>
 <a2:ArrayList id="ref-68" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-100"/>
-<_size>2</_size>
-<_version>2</_version>
+<_items href="#ref-99"/>
+<_size>0</_size>
+<_version>0</_version>
 </a2:ArrayList>
 <a2:ArrayList id="ref-69" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-101"/>
-<_size>5</_size>
-<_version>5</_version>
+<_items href="#ref-100"/>
+<_size>0</_size>
+<_version>0</_version>
 </a2:ArrayList>
 <a2:ArrayList id="ref-70" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-102"/>
-<_size>4</_size>
-<_version>4</_version>
+<_items href="#ref-101"/>
+<_size>1</_size>
+<_version>1</_version>
 </a2:ArrayList>
 <a2:ArrayList id="ref-71" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-103"/>
-<_size>0</_size>
-<_version>0</_version>
-</a2:ArrayList>
-<a2:ArrayList id="ref-72" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-104"/>
-<_size>0</_size>
-<_version>0</_version>
-</a2:ArrayList>
-<a2:ArrayList id="ref-73" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-105"/>
-<_size>0</_size>
-<_version>0</_version>
-</a2:ArrayList>
-<a2:ArrayList id="ref-74" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-106"/>
-<_size>0</_size>
-<_version>0</_version>
-</a2:ArrayList>
-<a2:ArrayList id="ref-75" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-107"/>
-<_size>0</_size>
-<_version>0</_version>
-</a2:ArrayList>
-<a2:ArrayList id="ref-76" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-108"/>
-<_size>0</_size>
-<_version>0</_version>
-</a2:ArrayList>
-<a2:ArrayList id="ref-77" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-93"/>
-<_size>0</_size>
-<_version>0</_version>
-</a2:ArrayList>
-<a2:ArrayList id="ref-78" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-109"/>
-<_size>0</_size>
-<_version>0</_version>
-</a2:ArrayList>
-<a2:ArrayList id="ref-79" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-110"/>
-<_size>0</_size>
-<_version>0</_version>
-</a2:ArrayList>
-<a2:ArrayList id="ref-80" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-111"/>
-<_size>0</_size>
-<_version>0</_version>
-</a2:ArrayList>
-<a2:ArrayList id="ref-81" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-112"/>
+<_items href="#ref-102"/>
 <_size>1</_size>
 <_version>1</_version>
 </a2:ArrayList>
-<a2:ArrayList id="ref-82" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-113"/>
-<_size>0</_size>
-<_version>0</_version>
-</a2:ArrayList>
-<a2:ArrayList id="ref-83" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-114"/>
-<_size>0</_size>
-<_version>0</_version>
-</a2:ArrayList>
-<a2:ArrayList id="ref-84" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-115"/>
-<_size>0</_size>
-<_version>0</_version>
-</a2:ArrayList>
-<a2:ArrayList id="ref-85" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-116"/>
-<_size>1</_size>
-<_version>1</_version>
-</a2:ArrayList>
-<a2:ArrayList id="ref-86" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
-<_items href="#ref-117"/>
-<_size>1</_size>
-<_version>1</_version>
-</a2:ArrayList>
+<SOAP-ENC:Array id="ref-72" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item id="ref-103" xsi:type="SOAP-ENC:string">00AcronimiOld.nod</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-73" SOAP-ENC:arrayType="xsd:anyType[32]">
+<item id="ref-104" xsi:type="SOAP-ENC:string">MINE\00_DicNis.nod</item>
+<item id="ref-105" xsi:type="SOAP-ENC:string">MINE\00_HebNonVoy.nod</item>
+<item id="ref-106" xsi:type="SOAP-ENC:string">MINE\00_Begedkefet.nom</item>
+<item id="ref-107" xsi:type="SOAP-ENC:string">MINE\00_BGDKPT.nom</item>
+<item id="ref-108" xsi:type="SOAP-ENC:string">MINE\00_DtVrb.nom</item>
+<item id="ref-109" xsi:type="SOAP-ENC:string">MINE\00_Eytan.nom</item>
+<item id="ref-110" xsi:type="SOAP-ENC:string">MINE\00_KolHaniqqud.nom</item>
+<item id="ref-111" xsi:type="SOAP-ENC:string">MINE\00_NomsIM.nom</item>
+<item id="ref-112" xsi:type="SOAP-ENC:string">MINE\00_NomsOT.nom</item>
+<item id="ref-113" xsi:type="SOAP-ENC:string">MINE\00_NqEtan.nom</item>
+<item id="ref-114" xsi:type="SOAP-ENC:string">MINE\00_NYYIM.nom</item>
+<item id="ref-115" xsi:type="SOAP-ENC:string">MINE\00_PrDtSansV.nom</item>
+<item id="ref-116" xsi:type="SOAP-ENC:string">MINE\00_PrDtVrb.nom</item>
+<item id="ref-117" xsi:type="SOAP-ENC:string">MINE\00_PrSansV.nom</item>
+<item id="ref-118" xsi:type="SOAP-ENC:string">MINE\00_PrVrb.nom</item>
+<item id="ref-119" xsi:type="SOAP-ENC:string">MINE\00_QASH.nom</item>
+<item id="ref-120" xsi:type="SOAP-ENC:string">MINE\00_QFSH.nom</item>
+<item id="ref-121" xsi:type="SOAP-ENC:string">MINE\00_QHSH.nom</item>
+<item id="ref-122" xsi:type="SOAP-ENC:string">MINE\00_QZSH.nom</item>
+<item id="ref-123" xsi:type="SOAP-ENC:string">MINE\00_SheVrb.nom</item>
+<item id="ref-124" xsi:type="SOAP-ENC:string">MINE\00_SufAtid.nom</item>
+<item id="ref-125" xsi:type="SOAP-ENC:string">MINE\00_VeDtVrb.nom</item>
+<item id="ref-126" xsi:type="SOAP-ENC:string">MINE\00_VrbKX.nom</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-74" SOAP-ENC:arrayType="xsd:anyType[64]">
+<item id="ref-127" xsi:type="SOAP-ENC:string">-1swahili_verbs_NPRINDEFREL.nom</item>
+<item id="ref-128" xsi:type="SOAP-ENC:string">-1swahili_verbs_sl145NPRESENTZeroExt.nom</item>
+<item id="ref-129" xsi:type="SOAP-ENC:string">-1swahili_verbs_lililomo.nom</item>
+<item id="ref-130" xsi:type="SOAP-ENC:string">-1swahili_verbs_zisizomo.nom</item>
+<item id="ref-131" xsi:type="SOAP-ENC:string">-2swahili_nouns_locativeSuffix.nom</item>
+<item id="ref-132" xsi:type="SOAP-ENC:string">-2swahili_verbs_sl5IMPZeroExt.nom</item>
+<item id="ref-133" xsi:type="SOAP-ENC:string">-2swahili_verbs_hujamboSijambo.nom</item>
+<item id="ref-134" xsi:type="SOAP-ENC:string">-2swahili_verbs_nipoSipo.nom</item>
+<item id="ref-135" xsi:type="SOAP-ENC:string">-2swahili_verbs_ninaSina.nom</item>
+<item id="ref-136" xsi:type="SOAP-ENC:string">-2swahili_verbs_panapo.nom</item>
+<item id="ref-137" xsi:type="SOAP-ENC:string">-2swahili_verbs_predicative_SP.nom</item>
+<item id="ref-138" xsi:type="SOAP-ENC:string">-3swahili_verbs_sl15NPRESENTZeroExt.nom</item>
+<item id="ref-139" xsi:type="SOAP-ENC:string">-3swahili_verbs_sl25PRINDEFsg3ZeroExt.nom</item>
+<item id="ref-140" xsi:type="SOAP-ENC:string">-3swahili_verbs_sl125PRINDEFZeroExt.nom</item>
+<item id="ref-141" xsi:type="SOAP-ENC:string">-4swahili_other_categories.nod</item>
+<item id="ref-142" xsi:type="SOAP-ENC:string">-4swahili_verbs.nod</item>
+<item id="ref-143" xsi:type="SOAP-ENC:string">-4swahili_adjectives.nod</item>
+<item id="ref-144" xsi:type="SOAP-ENC:string">-4swahili_nouns.nod</item>
+<item id="ref-145" xsi:type="SOAP-ENC:string">01swahili_verbs_PREPRA.nom</item>
+<item id="ref-146" xsi:type="SOAP-ENC:string">01swahili_verbs_sl15PRINDEFRELZeroExt.nom</item>
+<item id="ref-147" xsi:type="SOAP-ENC:string">01swahili_verbs_sl25ZeroExt.nom</item>
+<item id="ref-148" xsi:type="SOAP-ENC:string">01swahili_verbs_sl125ZeroExt.nom</item>
+<item id="ref-149" xsi:type="SOAP-ENC:string">01swahili_verbs_sl15SUBJZeroExt.nom</item>
+<item id="ref-150" xsi:type="SOAP-ENC:string">02swahili_verbs_sl5INF.nom</item>
+<item id="ref-151" xsi:type="SOAP-ENC:string">02swahili_verbs_sl5NINF.nom</item>
+<item id="ref-152" xsi:type="SOAP-ENC:string">02swahili_verbs_sl145PRINDEFRELZeroExt.nom</item>
+<item id="ref-153" xsi:type="SOAP-ENC:string">02swahili_verbs_sl45IMPZeroExt.nom</item>
+<item id="ref-154" xsi:type="SOAP-ENC:string">02swahili_verbs_sl125NSUBJZeroExt.nom</item>
+<item id="ref-155" xsi:type="SOAP-ENC:string">02swahili_verbs_sl145SUBJZeroExt.nom</item>
+<item id="ref-156" xsi:type="SOAP-ENC:string">03swahili_verbs_sl45INFZeroExt.nom</item>
+<item id="ref-157" xsi:type="SOAP-ENC:string">03swahili_verbs_sl45NINFZeroExt.nom</item>
+<item id="ref-158" xsi:type="SOAP-ENC:string">03swahili_verbs_sl15PRINDEFREL.nom</item>
+<item id="ref-159" xsi:type="SOAP-ENC:string">03swahili_verbs_sl5IMP.nom</item>
+<item id="ref-160" xsi:type="SOAP-ENC:string">03swahili_verbs_sl25.nom</item>
+<item id="ref-161" xsi:type="SOAP-ENC:string">03swahili_verbs_sl25PRINDEFsg3.nom</item>
+<item id="ref-162" xsi:type="SOAP-ENC:string">03swahili_verbs_sl245PRINDEFsg3ZeroExt.nom</item>
+<item id="ref-163" xsi:type="SOAP-ENC:string">03swahili_verbs_sl245ZeroExt.nom</item>
+<item id="ref-164" xsi:type="SOAP-ENC:string">03swahili_verbs_sl125NSUBJ.nom</item>
+<item id="ref-165" xsi:type="SOAP-ENC:string">03swahili_verbs_sl125.nom</item>
+<item id="ref-166" xsi:type="SOAP-ENC:string">03swahili_verbs_sl145NPRESENT.nom</item>
+<item id="ref-167" xsi:type="SOAP-ENC:string">03swahili_verbs_sl145SUBJ.nom</item>
+<item id="ref-168" xsi:type="SOAP-ENC:string">03swahili_verbs_sl15NPRESENT.nom</item>
+<item id="ref-169" xsi:type="SOAP-ENC:string">03swahili_verbs_sl15SUBJ.nom</item>
+<item id="ref-170" xsi:type="SOAP-ENC:string">03swahili_verbs_sl45IMP.nom</item>
+<item id="ref-171" xsi:type="SOAP-ENC:string">04swahili_verbs_sl145PRINDEFREL.nom</item>
+<item id="ref-172" xsi:type="SOAP-ENC:string">04swahili_verbs_sl1245NSUBJ.nom</item>
+<item id="ref-173" xsi:type="SOAP-ENC:string">05swahili_verbs_sl45INF.nom</item>
+<item id="ref-174" xsi:type="SOAP-ENC:string">05swahili_verbs_sl45NINF.nom</item>
+<item id="ref-175" xsi:type="SOAP-ENC:string">05swahili_verbs_sl125PRINDEF.nom</item>
+<item id="ref-176" xsi:type="SOAP-ENC:string">05swahili_verbs_sl245.nom</item>
+<item id="ref-177" xsi:type="SOAP-ENC:string">05swahili_verbs_sl245PRINDEFsg3.nom</item>
+<item id="ref-178" xsi:type="SOAP-ENC:string">05swahili_verbs_sl1245PRINDEFZeroExt.nom</item>
+<item id="ref-179" xsi:type="SOAP-ENC:string">05swahili_verbs_sl1235NSUBJZeroExt.nom</item>
+<item id="ref-180" xsi:type="SOAP-ENC:string">05swahili_verbs_sl1245NSUBJZeroExt.nom</item>
+<item id="ref-181" xsi:type="SOAP-ENC:string">05swahili_verbs_sl1235ZeroExt.nom</item>
+<item id="ref-182" xsi:type="SOAP-ENC:string">05swahili_verbs_sl1245ZeroExt.nom</item>
+<item id="ref-183" xsi:type="SOAP-ENC:string">06swahili_verbs_sl1245PRINDEF.nom</item>
+<item id="ref-184" xsi:type="SOAP-ENC:string">06swahili_verbs_sl1235NSUBJ.nom</item>
+<item id="ref-185" xsi:type="SOAP-ENC:string">06swahili_verbs_sl1235.nom</item>
+<item id="ref-186" xsi:type="SOAP-ENC:string">06swahili_verbs_sl1245.nom</item>
+<item id="ref-187" xsi:type="SOAP-ENC:string">08swahili_verbs_all_slotsNSUBJZeroExt.nom</item>
+<item id="ref-188" xsi:type="SOAP-ENC:string">08swahili_verbs_all_slotsZeroExt.nom</item>
+<item id="ref-189" xsi:type="SOAP-ENC:string">09swahili_verbs_all_slots.nom</item>
+<item id="ref-190" xsi:type="SOAP-ENC:string">09swahili_verbs_all_slotsNSUBJ.nom</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-75" SOAP-ENC:arrayType="xsd:anyType[16]">
+<item id="ref-191" xsi:type="SOAP-ENC:string">MINE\00_DICTIONNAIRE.nod</item>
+<item id="ref-192" xsi:type="SOAP-ENC:string">MINE\00_GEO.nod</item>
+<item id="ref-193" xsi:type="SOAP-ENC:string">MINE\-1_NPR.nod</item>
+<item id="ref-194" xsi:type="SOAP-ENC:string">MINE\-1_NPRR.nod</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-76" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item id="ref-195" xsi:type="SOAP-ENC:string">00MorfoPol.nod</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-77" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item id="ref-196" xsi:type="SOAP-ENC:string">00diccionario.nod</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-78" SOAP-ENC:arrayType="xsd:anyType[0]">
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-79" SOAP-ENC:arrayType="xsd:anyType[8]">
+<item id="ref-197" xsi:type="SOAP-ENC:string">00turkish_tdk.nod</item>
+<item id="ref-198" xsi:type="SOAP-ENC:string">00Acronym.nom</item>
+<item id="ref-199" xsi:type="SOAP-ENC:string">00Noun+NFVerbInflex.nom</item>
+<item id="ref-200" xsi:type="SOAP-ENC:string">00ProperNoun.nom</item>
+<item id="ref-201" xsi:type="SOAP-ENC:string">00VerbInflex.nom</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-80" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item id="ref-202" xsi:type="SOAP-ENC:string">00dico.nod</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-81" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item id="ref-203" xsi:type="SOAP-ENC:string">00zz.nod</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-82" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item id="ref-204" xsi:type="SOAP-ENC:string">00teste.nod</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-83" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item id="ref-205" xsi:type="SOAP-ENC:string">00MMC_dico.nod</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-84" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item id="ref-206" xsi:type="SOAP-ENC:string">00flexsemgrs.nod</item>
+<item id="ref-207" xsi:type="SOAP-ENC:string">+3proper names foreign.nom</item>
+<item id="ref-208" xsi:type="SOAP-ENC:string">+1proper names.nom</item>
+<item id="ref-209" xsi:type="SOAP-ENC:string">00roman numerals.nom</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-85" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item id="ref-210" xsi:type="SOAP-ENC:string">00dic.nod</item>
+<item id="ref-211" xsi:type="SOAP-ENC:string">00tokenisation.nom</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-86" SOAP-ENC:arrayType="xsd:anyType[8]">
+<item id="ref-212" xsi:type="SOAP-ENC:string">00_dm.nod</item>
+<item id="ref-213" xsi:type="SOAP-ENC:string">00_delacfn.nod</item>
+<item id="ref-214" xsi:type="SOAP-ENC:string">00_Elisions.nod</item>
+<item id="ref-215" xsi:type="SOAP-ENC:string">00_Prenoms.nod</item>
+<item id="ref-216" xsi:type="SOAP-ENC:string">00_Contractions.nod</item>
+</SOAP-ENC:Array>
 <SOAP-ENC:Array id="ref-87" SOAP-ENC:arrayType="xsd:anyType[4]">
-<item id="ref-118" xsi:type="SOAP-ENC:string">00AcronimiOld.nod</item>
+<item id="ref-217" xsi:type="SOAP-ENC:string">00_sdic.nod</item>
+<item id="ref-218" xsi:type="SOAP-ENC:string">00_Firstnames.nod</item>
+<item id="ref-219" xsi:type="SOAP-ENC:string">00_Contractions.nod</item>
+<item id="ref-220" xsi:type="SOAP-ENC:string">01_Roman Numerals.mft</item>
 </SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-88" SOAP-ENC:arrayType="xsd:anyType[32]">
-<item id="ref-119" xsi:type="SOAP-ENC:string">MINE\00_DicNis.nod</item>
-<item id="ref-120" xsi:type="SOAP-ENC:string">MINE\00_HebNonVoy.nod</item>
-<item id="ref-121" xsi:type="SOAP-ENC:string">MINE\00_Begedkefet.nom</item>
-<item id="ref-122" xsi:type="SOAP-ENC:string">MINE\00_BGDKPT.nom</item>
-<item id="ref-123" xsi:type="SOAP-ENC:string">MINE\00_DtVrb.nom</item>
-<item id="ref-124" xsi:type="SOAP-ENC:string">MINE\00_Eytan.nom</item>
-<item id="ref-125" xsi:type="SOAP-ENC:string">MINE\00_KolHaniqqud.nom</item>
-<item id="ref-126" xsi:type="SOAP-ENC:string">MINE\00_NomsIM.nom</item>
-<item id="ref-127" xsi:type="SOAP-ENC:string">MINE\00_NomsOT.nom</item>
-<item id="ref-128" xsi:type="SOAP-ENC:string">MINE\00_NqEtan.nom</item>
-<item id="ref-129" xsi:type="SOAP-ENC:string">MINE\00_NYYIM.nom</item>
-<item id="ref-130" xsi:type="SOAP-ENC:string">MINE\00_PrDtSansV.nom</item>
-<item id="ref-131" xsi:type="SOAP-ENC:string">MINE\00_PrDtVrb.nom</item>
-<item id="ref-132" xsi:type="SOAP-ENC:string">MINE\00_PrSansV.nom</item>
-<item id="ref-133" xsi:type="SOAP-ENC:string">MINE\00_PrVrb.nom</item>
-<item id="ref-134" xsi:type="SOAP-ENC:string">MINE\00_QASH.nom</item>
-<item id="ref-135" xsi:type="SOAP-ENC:string">MINE\00_QFSH.nom</item>
-<item id="ref-136" xsi:type="SOAP-ENC:string">MINE\00_QHSH.nom</item>
-<item id="ref-137" xsi:type="SOAP-ENC:string">MINE\00_QZSH.nom</item>
-<item id="ref-138" xsi:type="SOAP-ENC:string">MINE\00_SheVrb.nom</item>
-<item id="ref-139" xsi:type="SOAP-ENC:string">MINE\00_SufAtid.nom</item>
-<item id="ref-140" xsi:type="SOAP-ENC:string">MINE\00_VeDtVrb.nom</item>
-<item id="ref-141" xsi:type="SOAP-ENC:string">MINE\00_VrbKX.nom</item>
+<SOAP-ENC:Array id="ref-88" SOAP-ENC:arrayType="xsd:anyType[0]">
 </SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-89" SOAP-ENC:arrayType="xsd:anyType[64]">
-<item id="ref-142" xsi:type="SOAP-ENC:string">-1swahili_verbs_NPRINDEFREL.nom</item>
-<item id="ref-143" xsi:type="SOAP-ENC:string">-1swahili_verbs_sl145NPRESENTZeroExt.nom</item>
-<item id="ref-144" xsi:type="SOAP-ENC:string">-1swahili_verbs_lililomo.nom</item>
-<item id="ref-145" xsi:type="SOAP-ENC:string">-1swahili_verbs_zisizomo.nom</item>
-<item id="ref-146" xsi:type="SOAP-ENC:string">-2swahili_nouns_locativeSuffix.nom</item>
-<item id="ref-147" xsi:type="SOAP-ENC:string">-2swahili_verbs_sl5IMPZeroExt.nom</item>
-<item id="ref-148" xsi:type="SOAP-ENC:string">-2swahili_verbs_hujamboSijambo.nom</item>
-<item id="ref-149" xsi:type="SOAP-ENC:string">-2swahili_verbs_nipoSipo.nom</item>
-<item id="ref-150" xsi:type="SOAP-ENC:string">-2swahili_verbs_ninaSina.nom</item>
-<item id="ref-151" xsi:type="SOAP-ENC:string">-2swahili_verbs_panapo.nom</item>
-<item id="ref-152" xsi:type="SOAP-ENC:string">-2swahili_verbs_predicative_SP.nom</item>
-<item id="ref-153" xsi:type="SOAP-ENC:string">-3swahili_verbs_sl15NPRESENTZeroExt.nom</item>
-<item id="ref-154" xsi:type="SOAP-ENC:string">-3swahili_verbs_sl25PRINDEFsg3ZeroExt.nom</item>
-<item id="ref-155" xsi:type="SOAP-ENC:string">-3swahili_verbs_sl125PRINDEFZeroExt.nom</item>
-<item id="ref-156" xsi:type="SOAP-ENC:string">-4swahili_other_categories.nod</item>
-<item id="ref-157" xsi:type="SOAP-ENC:string">-4swahili_verbs.nod</item>
-<item id="ref-158" xsi:type="SOAP-ENC:string">-4swahili_adjectives.nod</item>
-<item id="ref-159" xsi:type="SOAP-ENC:string">-4swahili_nouns.nod</item>
-<item id="ref-160" xsi:type="SOAP-ENC:string">01swahili_verbs_PREPRA.nom</item>
-<item id="ref-161" xsi:type="SOAP-ENC:string">01swahili_verbs_sl15PRINDEFRELZeroExt.nom</item>
-<item id="ref-162" xsi:type="SOAP-ENC:string">01swahili_verbs_sl25ZeroExt.nom</item>
-<item id="ref-163" xsi:type="SOAP-ENC:string">01swahili_verbs_sl125ZeroExt.nom</item>
-<item id="ref-164" xsi:type="SOAP-ENC:string">01swahili_verbs_sl15SUBJZeroExt.nom</item>
-<item id="ref-165" xsi:type="SOAP-ENC:string">02swahili_verbs_sl5INF.nom</item>
-<item id="ref-166" xsi:type="SOAP-ENC:string">02swahili_verbs_sl5NINF.nom</item>
-<item id="ref-167" xsi:type="SOAP-ENC:string">02swahili_verbs_sl145PRINDEFRELZeroExt.nom</item>
-<item id="ref-168" xsi:type="SOAP-ENC:string">02swahili_verbs_sl45IMPZeroExt.nom</item>
-<item id="ref-169" xsi:type="SOAP-ENC:string">02swahili_verbs_sl125NSUBJZeroExt.nom</item>
-<item id="ref-170" xsi:type="SOAP-ENC:string">02swahili_verbs_sl145SUBJZeroExt.nom</item>
-<item id="ref-171" xsi:type="SOAP-ENC:string">03swahili_verbs_sl45INFZeroExt.nom</item>
-<item id="ref-172" xsi:type="SOAP-ENC:string">03swahili_verbs_sl45NINFZeroExt.nom</item>
-<item id="ref-173" xsi:type="SOAP-ENC:string">03swahili_verbs_sl15PRINDEFREL.nom</item>
-<item id="ref-174" xsi:type="SOAP-ENC:string">03swahili_verbs_sl5IMP.nom</item>
-<item id="ref-175" xsi:type="SOAP-ENC:string">03swahili_verbs_sl25.nom</item>
-<item id="ref-176" xsi:type="SOAP-ENC:string">03swahili_verbs_sl25PRINDEFsg3.nom</item>
-<item id="ref-177" xsi:type="SOAP-ENC:string">03swahili_verbs_sl245PRINDEFsg3ZeroExt.nom</item>
-<item id="ref-178" xsi:type="SOAP-ENC:string">03swahili_verbs_sl245ZeroExt.nom</item>
-<item id="ref-179" xsi:type="SOAP-ENC:string">03swahili_verbs_sl125NSUBJ.nom</item>
-<item id="ref-180" xsi:type="SOAP-ENC:string">03swahili_verbs_sl125.nom</item>
-<item id="ref-181" xsi:type="SOAP-ENC:string">03swahili_verbs_sl145NPRESENT.nom</item>
-<item id="ref-182" xsi:type="SOAP-ENC:string">03swahili_verbs_sl145SUBJ.nom</item>
-<item id="ref-183" xsi:type="SOAP-ENC:string">03swahili_verbs_sl15NPRESENT.nom</item>
-<item id="ref-184" xsi:type="SOAP-ENC:string">03swahili_verbs_sl15SUBJ.nom</item>
-<item id="ref-185" xsi:type="SOAP-ENC:string">03swahili_verbs_sl45IMP.nom</item>
-<item id="ref-186" xsi:type="SOAP-ENC:string">04swahili_verbs_sl145PRINDEFREL.nom</item>
-<item id="ref-187" xsi:type="SOAP-ENC:string">04swahili_verbs_sl1245NSUBJ.nom</item>
-<item id="ref-188" xsi:type="SOAP-ENC:string">05swahili_verbs_sl45INF.nom</item>
-<item id="ref-189" xsi:type="SOAP-ENC:string">05swahili_verbs_sl45NINF.nom</item>
-<item id="ref-190" xsi:type="SOAP-ENC:string">05swahili_verbs_sl125PRINDEF.nom</item>
-<item id="ref-191" xsi:type="SOAP-ENC:string">05swahili_verbs_sl245.nom</item>
-<item id="ref-192" xsi:type="SOAP-ENC:string">05swahili_verbs_sl245PRINDEFsg3.nom</item>
-<item id="ref-193" xsi:type="SOAP-ENC:string">05swahili_verbs_sl1245PRINDEFZeroExt.nom</item>
-<item id="ref-194" xsi:type="SOAP-ENC:string">05swahili_verbs_sl1235NSUBJZeroExt.nom</item>
-<item id="ref-195" xsi:type="SOAP-ENC:string">05swahili_verbs_sl1245NSUBJZeroExt.nom</item>
-<item id="ref-196" xsi:type="SOAP-ENC:string">05swahili_verbs_sl1235ZeroExt.nom</item>
-<item id="ref-197" xsi:type="SOAP-ENC:string">05swahili_verbs_sl1245ZeroExt.nom</item>
-<item id="ref-198" xsi:type="SOAP-ENC:string">06swahili_verbs_sl1245PRINDEF.nom</item>
-<item id="ref-199" xsi:type="SOAP-ENC:string">06swahili_verbs_sl1235NSUBJ.nom</item>
-<item id="ref-200" xsi:type="SOAP-ENC:string">06swahili_verbs_sl1235.nom</item>
-<item id="ref-201" xsi:type="SOAP-ENC:string">06swahili_verbs_sl1245.nom</item>
-<item id="ref-202" xsi:type="SOAP-ENC:string">08swahili_verbs_all_slotsNSUBJZeroExt.nom</item>
-<item id="ref-203" xsi:type="SOAP-ENC:string">08swahili_verbs_all_slotsZeroExt.nom</item>
-<item id="ref-204" xsi:type="SOAP-ENC:string">09swahili_verbs_all_slots.nom</item>
-<item id="ref-205" xsi:type="SOAP-ENC:string">09swahili_verbs_all_slotsNSUBJ.nom</item>
+<SOAP-ENC:Array id="ref-89" SOAP-ENC:arrayType="xsd:anyType[16]">
 </SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-90" SOAP-ENC:arrayType="xsd:anyType[16]">
-<item id="ref-206" xsi:type="SOAP-ENC:string">MINE\00_DICTIONNAIRE.nod</item>
-<item id="ref-207" xsi:type="SOAP-ENC:string">MINE\00_GEO.nod</item>
-<item id="ref-208" xsi:type="SOAP-ENC:string">MINE\-1_NPR.nod</item>
-<item id="ref-209" xsi:type="SOAP-ENC:string">MINE\-1_NPRR.nod</item>
+<SOAP-ENC:Array id="ref-90" SOAP-ENC:arrayType="xsd:anyType[0]">
 </SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-91" SOAP-ENC:arrayType="xsd:anyType[4]">
-<item id="ref-210" xsi:type="SOAP-ENC:string">00MorfoPol.nod</item>
+<SOAP-ENC:Array id="ref-91" SOAP-ENC:arrayType="xsd:anyType[16]">
 </SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-92" SOAP-ENC:arrayType="xsd:anyType[4]">
-<item id="ref-211" xsi:type="SOAP-ENC:string">00diccionario.nod</item>
+<SOAP-ENC:Array id="ref-92" SOAP-ENC:arrayType="xsd:anyType[0]">
 </SOAP-ENC:Array>
 <SOAP-ENC:Array id="ref-93" SOAP-ENC:arrayType="xsd:anyType[0]">
 </SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-94" SOAP-ENC:arrayType="xsd:anyType[8]">
-<item id="ref-212" xsi:type="SOAP-ENC:string">00turkish_tdk.nod</item>
-<item id="ref-213" xsi:type="SOAP-ENC:string">00Acronym.nom</item>
-<item id="ref-214" xsi:type="SOAP-ENC:string">00Noun+NFVerbInflex.nom</item>
-<item id="ref-215" xsi:type="SOAP-ENC:string">00ProperNoun.nom</item>
-<item id="ref-216" xsi:type="SOAP-ENC:string">00VerbInflex.nom</item>
+<SOAP-ENC:Array id="ref-94" SOAP-ENC:arrayType="xsd:anyType[0]">
 </SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-95" SOAP-ENC:arrayType="xsd:anyType[4]">
-<item id="ref-217" xsi:type="SOAP-ENC:string">00dico.nod</item>
+<SOAP-ENC:Array id="ref-95" SOAP-ENC:arrayType="xsd:anyType[0]">
 </SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-96" SOAP-ENC:arrayType="xsd:anyType[4]">
-<item id="ref-218" xsi:type="SOAP-ENC:string">00zz.nod</item>
+<SOAP-ENC:Array id="ref-96" SOAP-ENC:arrayType="xsd:anyType[0]">
 </SOAP-ENC:Array>
 <SOAP-ENC:Array id="ref-97" SOAP-ENC:arrayType="xsd:anyType[4]">
-<item id="ref-219" xsi:type="SOAP-ENC:string">00teste.nod</item>
+<item id="ref-221" xsi:type="SOAP-ENC:string">01_PARA_PASS2ACT.nog</item>
 </SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-98" SOAP-ENC:arrayType="xsd:anyType[4]">
-<item id="ref-220" xsi:type="SOAP-ENC:string">00MMC_dico.nod</item>
+<SOAP-ENC:Array id="ref-98" SOAP-ENC:arrayType="xsd:anyType[0]">
 </SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-99" SOAP-ENC:arrayType="xsd:anyType[4]">
-<item id="ref-221" xsi:type="SOAP-ENC:string">00flexsemgrs.nod</item>
-<item id="ref-222" xsi:type="SOAP-ENC:string">+3proper names foreign.nom</item>
-<item id="ref-223" xsi:type="SOAP-ENC:string">+1proper names.nom</item>
-<item id="ref-224" xsi:type="SOAP-ENC:string">00roman numerals.nom</item>
+<SOAP-ENC:Array id="ref-99" SOAP-ENC:arrayType="xsd:anyType[0]">
 </SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-100" SOAP-ENC:arrayType="xsd:anyType[4]">
-<item id="ref-225" xsi:type="SOAP-ENC:string">00dic.nod</item>
-<item id="ref-226" xsi:type="SOAP-ENC:string">00tokenisation.nom</item>
+<SOAP-ENC:Array id="ref-100" SOAP-ENC:arrayType="xsd:anyType[0]">
 </SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-101" SOAP-ENC:arrayType="xsd:anyType[8]">
-<item id="ref-227" xsi:type="SOAP-ENC:string">00_dm.nod</item>
-<item id="ref-228" xsi:type="SOAP-ENC:string">00_delacfn.nod</item>
-<item id="ref-229" xsi:type="SOAP-ENC:string">00_Elisions.nod</item>
-<item id="ref-230" xsi:type="SOAP-ENC:string">00_Prenoms.nod</item>
-<item id="ref-231" xsi:type="SOAP-ENC:string">00_Contractions.nod</item>
+<SOAP-ENC:Array id="ref-101" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item id="ref-222" xsi:type="SOAP-ENC:string">01_Date.sft</item>
 </SOAP-ENC:Array>
 <SOAP-ENC:Array id="ref-102" SOAP-ENC:arrayType="xsd:anyType[4]">
-<item id="ref-232" xsi:type="SOAP-ENC:string">00_sdic.nod</item>
-<item id="ref-233" xsi:type="SOAP-ENC:string">00_Firstnames.nod</item>
-<item id="ref-234" xsi:type="SOAP-ENC:string">00_Contractions.nod</item>
-<item id="ref-235" xsi:type="SOAP-ENC:string">01_Roman Numerals.mft</item>
-</SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-103" SOAP-ENC:arrayType="xsd:anyType[0]">
-</SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-104" SOAP-ENC:arrayType="xsd:anyType[16]">
-</SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-105" SOAP-ENC:arrayType="xsd:anyType[0]">
-</SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-106" SOAP-ENC:arrayType="xsd:anyType[16]">
-</SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-107" SOAP-ENC:arrayType="xsd:anyType[0]">
-</SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-108" SOAP-ENC:arrayType="xsd:anyType[0]">
-</SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-109" SOAP-ENC:arrayType="xsd:anyType[0]">
-</SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-110" SOAP-ENC:arrayType="xsd:anyType[0]">
-</SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-111" SOAP-ENC:arrayType="xsd:anyType[0]">
-</SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-112" SOAP-ENC:arrayType="xsd:anyType[4]">
-<item id="ref-236" xsi:type="SOAP-ENC:string">01_PARA_PASS2ACT.nog</item>
-</SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-113" SOAP-ENC:arrayType="xsd:anyType[0]">
-</SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-114" SOAP-ENC:arrayType="xsd:anyType[0]">
-</SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-115" SOAP-ENC:arrayType="xsd:anyType[0]">
-</SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-116" SOAP-ENC:arrayType="xsd:anyType[4]">
-<item id="ref-237" xsi:type="SOAP-ENC:string">01_Date.sft</item>
-</SOAP-ENC:Array>
-<SOAP-ENC:Array id="ref-117" SOAP-ENC:arrayType="xsd:anyType[4]">
-<item id="ref-238" xsi:type="SOAP-ENC:string">01_Date.sft</item>
+<item id="ref-223" xsi:type="SOAP-ENC:string">01_Date.sft</item>
 </SOAP-ENC:Array>
 </SOAP-ENV:Body>
 </SOAP-ENV:Envelope>

@@ -1,0 +1,85 @@
+# NooJ V5
+# Inflectional/Derivational description
+#
+# Language is: sw
+#
+# Generic Commands:
+# <B>: keyboard Backspace
+# <C>: change Case
+# <D>: Duplicate current char
+# <E>: Empty string
+# <L>: keyboard Left arrow
+# <N>: go to end of Next word form
+# <P>: go to end of Previous word form
+# <R>: keyboard Right arrow
+# <S>: delete/Suppress current char
+# Arguments for commands <B>, <L>, <N>, <P>, <R>, <S>:
+# xx number: repeat xx times
+# W: whole word
+# Examples
+# <R3>: go right 3 times
+# <LW>: go to beg. of word
+#
+# Language-Specific Commands:
+# (None)
+#
+# Special Characters: '=' '<' '>' '\' '"' ':' '|' '+' '-' '/' '$' '_' ';' '#'
+#
+
+###############
+# SUBJECT PREFIXES  #
+###############
+
+# ASSIMILATION TO THE TI > ASP
+NI= <B1>/SP+ASP;
+U=<B1>w/SP+ASP;
+M= <RW>w/SP+ASP ;
+I=<B1>y/SP+ASP;
+KI=<B2>ch/SP+ASP;
+VI=<B2>vy/SP+ASP;
+
+##############
+# RELATIVE AFFIXES #
+##############
+YO= <B1>ye/RA+1+An+NW | <B1>e/RA+1+An+NW | <E>/RA+2+An+NW |
+        <LW>w/RA+3+NW | <LW>y/RA+4+NW | 
+        <LW>l/RA+5+NW | <LW>y/RA+6+NW | 
+        <LW>ch/RA+7+NW | <LW>vy/RA+8+NW | 
+        <LW>y/RA+9+NW | <LW>z/RA+10+NW | 
+        <LW>w/RA+11+NW | 
+        <LW>k/RA+15+NW | 
+        <LW>p/RA+16+Loc+NW | <LW>k/RA+17+Loc+NW | <LW>m/RA+18+Loc+NW;
+        
+######################
+# MONOSYLLABIC VERBAL ROOTS #
+######################
+# KULA
+LA = <LW>ku/N+15+Inf | <LW>kutoku/N+15+Inf+Neg | <B1>/V+MS+NW+THEMA+EBA | <B1><LW>ku/V+NW+SBK+THEMA+EBA |
+         <LW>ku/V+sg2IMP | <B1><LW>ku<RW>eni/V+pl2IMP;
+# KUWA
+WA = <LW>ku/N+15+Inf | <LW>kutoku/N+15+Inf+Neg | <B1>/V+MS+NW+THEMA+EBA | <B1><LW>ku/V+NW+SBK+THEMA+EBA |
+          <LW>ku<RW>po/N+15+Inf+Loc | <B1><LW>ku<RW>epo/N+15+Inf+Loc |
+          <LW>ku<RW>ko/N+15+Inf+Loc | <B1><LW>ku<RW>eko/N+15+Inf+Loc |
+          <LW>ku<RW>mo/N+15+Inf+Loc | <B1><LW>ku<RW>emo/N+15+Inf+Loc |
+          <LW>kutoku<RW>po/N+15+Inf+Loc+Neg | <B1><LW>kutoku<RW>epo/N+15+Inf+Loc+Neg |
+          <LW>kutoku<RW>ko/N+15+Inf+Loc+Neg | <B1><LW>kutoku<RW>eko/N+15+Inf+Loc+Neg |
+          <LW>kutoku<RW>mo/N+15+Inf+Loc+Neg | <B1><LW>kutoku<RW>emo/N+15+Inf+Loc+Neg |
+          <LW>ku/V+sg2IMP | <B1><LW>ku<RW>eni/V+pl2IMP;
+# KUJA
+JA = <LW>ku/N+15+Inf | <LW>kutoku/N+15+Inf+Neg | <B1>/V+MS+NW+THEMA+EBA | <B1><LW>ku/V+NW+SBK+THEMA+EBA |
+         <B1>o<LW>n/V+NW+THEMA-EBA;
+# KWENDA
+ENDA = <LW>kw/N+15+Inf | <LW>kutokw/N+15+Inf+Neg | <B1>/V+MS+NW+THEMA+EBA | <B1><LW>kw/V+NW+SBK+THEMA+EBA |
+         <B1><LW>n/V+NW+THEMA+EBA;
+# KWISHA
+ISHA= <LW>kw/N+15+Inf | <LW>kutokw/N+15+Inf+Neg | <B1>/V+NW+THEMA+EBA | <B1><LW>kw/V+NW+SBK+THEMA+EBA;
+
+############################
+# POLYSYLLABIC VERBAL ROOTS OR THEMA  #
+############################
+# PENDA
+PENDA = <PW><LW>ku/N+15+Inf | <PW><LW>kuto/N+15+Inf+Neg | <B1>/V+NW+THEMA+EBA;
+
+# SAFIRI
+SAFIRI = <PW><LW>ku/N+15+Inf | <PW><LW>kuto/N+15+Inf+Neg | <B1>/V+NW+THEMA-EBA;
+

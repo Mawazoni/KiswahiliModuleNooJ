@@ -1,0 +1,56 @@
+# NooJ V5
+# Inflectional/Derivational description
+#
+# Language is: sw
+#
+# Generic Commands:
+# <B>: keyboard Backspace
+# <C>: change Case
+# <D>: Duplicate current char
+# <E>: Empty string
+# <L>: keyboard Left arrow
+# <N>: go to end of Next word form
+# <P>: go to end of Previous word form
+# <R>: keyboard Right arrow
+# <S>: delete/Suppress current char
+# Arguments for commands <B>, <L>, <N>, <P>, <R>, <S>:
+# xx number: repeat xx times
+# W: whole word
+# Examples
+# <R3>: go right 3 times
+# <PW><LW>: go to beg. of word
+#
+# Language-Specific Commands:
+# (None)
+#
+# Special Characters: '=' '<' '>' '\' '"' ':' '|' '+' '-' '/' '$' '_' ';' '#'
+#
+
+##########
+# PRONOUNS  #
+##########
+AMBA = <RW>ye/PRO+1+An | <RW>o/PRO+2+An |
+        <RW>o/PRO+3 | <RW>yo/PRO+4 | 
+        <RW>lo/PRO+5 | <RW>yo/PRO+6 | 
+        <RW>cho/PRO+7 | <RW>vyo/PRO+8 | 
+        <RW>yo/PRO+9 | <RW>zo/PRO+10 | 
+        <RW>o/PRO+11 | 
+        <RW>ko/PRO+15+Inf | 
+        <RW>po/PRO+16+Loc | <RW>ko/PRO+17+Loc | <RW>mo/PRO+18+Loc;
+
+NGAPI= <PW><LW>wa/PRO+2+An | <PW><LW>mi/PRO+4 | <PW><LW>ma/PRO+6 | <PW><LW>vi/PRO+8 | <E>/PRO+10;
+              
+######################
+# THE EXTRA DEPENDENCY PREFIX #
+######################
+A =  <PW><LW>w/EDP+1+An | <PW><LW>w/EDP+2+An |
+        <PW><LW>w/EDP+3 | <PW><LW>y/EDP+4 | 
+        <PW><LW>l/EDP+5 | <PW><LW>y/EDP+6 | 
+        <PW><LW>ch/EDP+7 | <PW><LW>vy/EDP+8 | 
+        <PW><LW>y/EDP+9 | <PW><LW>z/EDP+10 | 
+        <PW><LW>w/EDP+11 | 
+        <PW><LW>kw/EDP+15+Inf | 
+        <PW><LW>p/EDP+16+Loc | <PW><LW>kw/EDP+17+Loc | <PW><LW>mw/EDP+18+Loc;
+
+
+

@@ -1,0 +1,2790 @@
+# NooJ V5
+# Dictionary
+#
+# Language is: sw
+#
+# Alphabetical order is not required.
+#
+# Use inflectional & derivational paradigms' description files (.nof), e.g.:
+# Special Command: #use paradigms.nof
+#
+# Special Features: +NW (non-word) +FXC (frozen expression component) +UNAMB (unambiguous lexical entry)
+#                   +FLX= (inflectional paradigm) +DRV= (derivational paradigm)
+#
+# Special Characters: '\' '"' ' ' ',' '+' '-' '#'
+#
+# This dictionary was automatically built from C:\Users\thieu\Documents\NooJ\sw\Lexical Analysis\swahili_other_categories.dic
+#
+#use swahili_other_categories_flx.nof
+#
+baada,baada,PREP+EN=after
+baada,baada,PREP+EN=behind
+baadhi,baadhi,PREP+EN=among
+baghairi,baghairi,PREP+EN=without
+bi,bi,PREP+EN=by
+bi,bi,PREP+EN=in
+bi,bi,PREP+EN=with
+bi,bi,PREP+EN=by means of
+bighairi,bighairi,PREP+EN=without
+chambega,chambega,PREP+EN=on the shoulders
+chini ya,chini ya,PREP+EN=under
+dhidi ya,dhidi ya,PREP+EN=against
+fi,fi,PREP+EN=in
+fi,fi,PREP+EN=on
+fi,fi,PREP+EN=by
+fi,fi,PREP+EN=with
+ghairi ya,ghairi ya,PREP+EN=apart
+ghairi ya,ghairi ya,PREP+EN=except
+ghairi ya,ghairi ya,PREP+EN=exclusive
+ghairi ya,ghairi ya,PREP+EN=without
+hata,hata,PREP+EN=as far as
+hata,hata,PREP+EN=since
+hata,hata,PREP+EN=until
+hivi,hivi,PREP+EN=about
+pasipo hofu,pasipo hofu,PREP+EN=without fear
+hukumu ya,hukumu ya,PREP+EN=about
+isipokuwa,isipokuwa,PREP+EN=with the exception of
+isipokuwa,isipokuwa,PREP+EN=except
+juu ya,juu ya,PREP+EN=about
+juu ya,juu ya,PREP+EN=in spite of
+juu ya,juu ya,PREP+EN=up to
+kabla ya,kabla ya,PREP+EN=before
+kabla ya,kabla ya,PREP+EN=ago
+kadiri ya,kadiri ya,PREP+EN=about
+kadiri ya,kadiri ya,PREP+EN=as many as
+kwa kadiri,kwa kadiri,PREP+EN=in accordance with
+kando ya,kando ya,PREP+EN=beside
+kati ya,kati ya,PREP+EN=among
+kati ya,kati ya,PREP+EN=between
+kati ya,kati ya,PREP+EN=in the middle of
+kati ya,kati ya,PREP+EN=in the midst of
+katika,katika,PREP+EN=in
+katika,katika,PREP+EN=at
+katika,katika,PREP+EN=with
+katika,katika,PREP+EN=from
+katika,katika,PREP+EN=to
+katika,katika,PREP+EN=on
+katika,katika,PREP+EN=into
+katika,katika,PREP+EN=during
+katika kuenda,katika kuenda,PREP+EN=while going
+katika,katika,PREP+EN=concerning
+katikati,katikati,PREP+EN=between
+katikati,katikati,PREP+EN=in the middle
+kote,kote,PREP+EN=throughout
+kuanzia,kuanzia,PREP+EN=from
+kuelekea,kuelekea,PREP+EN=towards
+kuelekea,kuelekea,PREP+EN=to
+kufika,kufika,PREP+EN=to
+kufika,kufika,PREP+EN=as far as
+kuhusu,kuhusu,PREP+EN=concerning
+kutoka,kutoka,PREP+EN=from
+kutoka,kutoka,PREP+EN=out of
+kutoka,kutoka,PREP+EN=away from
+kutoka,kutoka,PREP+EN=since
+kwa,kwa,PREP+EN=with
+kwa,kwa,PREP+EN=by
+kwa,kwa,PREP+EN=by means of
+kwa,kwa,PREP+EN=from
+kwa,kwa,PREP+EN=because of
+kwa,kwa,PREP+EN=as a result of
+kwa,kwa,PREP+EN=to (a person)
+kwa,kwa,PREP+EN=at the home of
+kwa,kwa,PREP+EN=to the home of
+kwa,kwa,PREP+EN=in
+kwa,kwa,PREP+EN=for
+kwa,kwa,PREP+EN=in a period of time
+kwa,kwa,PREP+EN=for a period of time
+kwa,kwa,PREP+EN=according to
+kwa,kwa,PREP+EN=in respect to
+kwa,kwa,PREP+EN=of
+kwazo,kwazo,PREP+EN=by means of (class 10)
+kwenda,kwenda,PREP+EN=to
+kwenda,kwenda,PREP+EN=going to
+maadam ya,maadam ya,PREP+EN=according to
+maadam ya,maadam ya,PREP+EN=in consequence of
+min,min,PREP+EN=from
+min,min,PREP+EN=of various kinds
+minajili,minajili,PREP+EN=in order that
+minajili,minajili,PREP+EN=sake of
+minajili,minajili,PREP+EN=since
+minajili,minajili,PREP+EN=so that
+minajili,minajili,PREP+EN=without
+minajili,minajili,PREP+EN=apart from
+minajili,minajili,PREP+EN=because of
+minajili,minajili,PREP+EN=except
+minajili,minajili,PREP+EN=as a result of
+minajili,minajili,PREP+EN=without
+mkabala na,mkabala na,PREP+EN=facing
+mkabala na,mkabala na,PREP+EN=in front of
+mkabala na,mkabala na,PREP+EN=opposite
+mnamo,mnamo,PREP+EN=in (temporal)
+mpaka,mpaka,PREP+EN=until
+mpaka,mpaka,PREP+EN=up to
+mpaka,mpaka,PREP+EN=to
+kwa mujibu wa,kwa mujibu wa,PREP+EN=in accordance with
+kwa mujibu wa,kwa mujibu wa,PREP+EN=according to
+na,na,PREP+EN=with
+na,na,PREP+PAS+EN=by
+ndani ya,ndani ya,PREP+EN=in
+ndani ya,ndani ya,PREP+EN=inside (of)
+ng'ambo ya,ng'ambo ya,PREP+EN=on the other side of
+ni,ni,PREP+EN=by
+kwa niaba ya,kwa niaba ya,PREP+EN=on behalf of
+kwa niaba ya,kwa niaba ya,PREP+EN=in the name of
+kwa niaba ya,kwa niaba ya,PREP+EN=in the place of
+kwa niabu ya,kwa niabu ya,PREP+EN=on behalf of
+kwa niabu ya,kwa niabu ya,PREP+EN=in the name of
+kwa niabu ya,kwa niabu ya,PREP+EN=in the place of
+nje ya,nje ya,PREP+EN=outside of
+nje ya,nje ya,PREP+EN=on the surface of
+kwa njia ya,kwa njia ya,PREP+EN=through
+palikuwa,palikuwa,PREP+EN=Once upon a time...
+pasi,pasi,PREP+EN=without
+pasina,pasina,PREP+EN=without
+pasipo,pasipo,PREP+EN=without
+pasipo shaka,pasipo shaka,PREP+EN=without a doubt
+tangu,tangu,PREP+EN=from
+tangu,tangu,PREP+EN=since
+toka,toka,PREP+EN=from
+toka,toka,PREP+EN=out of
+toka,toka,PREP+EN=away from
+toka,toka,PREP+EN=since
+tokea,tokea,PREP+EN=away from
+tokea,tokea,PREP+EN=from
+tokea,tokea,PREP+EN=out of
+tokea,tokea,PREP+EN=since
+upande,upande,PREP+EN=by
+upande,upande,PREP+EN=near
+upande,upande,PREP+EN=beside
+usoni pa,usoni pa,PREP+EN=in front of
+zi,zi,PREP+EN=not
+wa,a,EDP+FLX=A+EN=of+EDP+1+An
+wa,a,EDP+FLX=A+EN=of+EDP+2+An
+wa,a,EDP+FLX=A+EN=of+EDP+3
+ya,a,EDP+FLX=A+EN=of+EDP+4
+la,a,EDP+FLX=A+EN=of+EDP+5
+ya,a,EDP+FLX=A+EN=of+EDP+6
+cha,a,EDP+FLX=A+EN=of+EDP+7
+vya,a,EDP+FLX=A+EN=of+EDP+8
+ya,a,EDP+FLX=A+EN=of+EDP+9
+za,a,EDP+FLX=A+EN=of+EDP+10
+wa,a,EDP+FLX=A+EN=of+EDP+11
+kwa,a,EDP+FLX=A+EN=of+EDP+15+Inf
+pa,a,EDP+FLX=A+EN=of+EDP+16+Loc
+kwa,a,EDP+FLX=A+EN=of+EDP+17+Loc
+mwa,a,EDP+FLX=A+EN=of+EDP+18+Loc
+aidha,aidha,CONJ+EN=and
+aidha,aidha,CONJ+EN=besides
+aidha,aidha,CONJ+EN=further
+aidha,aidha,CONJ+EN=moreover
+aidha,aidha,CONJ+EN=or
+aidha,aidha,CONJ+EN=then
+aidha,aidha,CONJ+EN=thereupon
+aidha,aidha,CONJ+EN=either
+kwa ajili,kwa ajili,CONJ+EN=because of
+kwa ajili,kwa ajili,CONJ+EN=on the strength of
+kwa ajili,kwa ajili,CONJ+EN=therefore
+kwa ajili ya,kwa ajili ya,CONJ+EN=due to
+kwa ajili ya,kwa ajili ya,CONJ+EN=as a result of
+kwa ajili ya,kwa ajili ya,CONJ+EN=thanks to
+ala kulli hali,ala kulli hali,CONJ+EN=anyhow
+ala kulli hali,ala kulli hali,CONJ+EN=anyway
+alau,alau,CONJ+EN=although
+alimradhi,alimradhi,CONJ+EN=accordingly
+alimradhi,alimradhi,CONJ+EN=hence
+alimradhi,alimradhi,CONJ+EN=and so
+alimradhi,alimradhi,CONJ+EN=and then
+alimradhi,alimradhi,CONJ+EN=therefore
+alimradi,alimradi,CONJ+EN=accordingly
+alimradi,alimradi,CONJ+EN=hence
+alimradi,alimradi,CONJ+EN=and so
+alimradi,alimradi,CONJ+EN=and then
+alimradi,alimradi,CONJ+EN=therefore
+almuradi,almuradi,CONJ+EN=accordingly
+almuradi,almuradi,CONJ+EN=consequently
+almuradi,almuradi,CONJ+EN=hence
+almuradi,almuradi,CONJ+EN=and so
+almuradi,almuradi,CONJ+EN=and then
+almuradi,almuradi,CONJ+EN=then
+almuradi,almuradi,CONJ+EN=therefore
+almuradi,almuradi,CONJ+EN=thereupon
+ama,ama,CONJ+EN=or
+ama,ama,CONJ+EN=either
+wa ama,wa ama,CONJ+EN=yet
+wa ama,wa ama,CONJ+EN=however
+ambapo,ambapo,CONJ+EN=whereas
+ambapo,ambapo,CONJ+EN=while
+angalao,angalao,CONJ+EN=although
+angalao,angalao,CONJ+EN=in order that
+angalao,angalao,CONJ+EN=so that
+angalao,angalao,CONJ+EN=even if
+angao,angao,CONJ+EN=although
+angao,angao,CONJ+EN=even if
+angao,angao,CONJ+EN=in order that
+angao,angao,CONJ+EN=so that
+ao,ao,CONJ+EN=either or
+ao,ao,CONJ+EN=or
+asaa,asaa,CONJ+EN=if (only)
+asaa,asaa,CONJ+EN=perhaps
+au,au,CONJ+EN=either... or...
+au,au,CONJ+EN=or
+baadaye,baadaye,CONJ+EN=then
+baghairi,baghairi,CONJ+EN=apart from
+baghairi,baghairi,CONJ+EN=except
+bali,bali,CONJ+EN=but
+bali,bali,CONJ+EN=on the contrary
+bali,bali,CONJ+EN=however
+bali,bali,CONJ+EN=moreover
+bali,bali,CONJ+EN=rather
+bas,bas,CONJ+EN=agreed
+bas,bas,CONJ+EN=OK
+bas,bas,CONJ+EN=so
+bas,bas,CONJ+EN=stop
+bas,bas,CONJ+EN=and then
+bas,bas,CONJ+EN=well
+basi,basi,CONJ+EN=agreed
+basi,basi,CONJ+EN=OK
+basi,basi,CONJ+EN=so
+basi,basi,CONJ+EN=stop
+basi,basi,CONJ+EN=and then
+basi,basi,CONJ+EN=very well
+basi,basi,CONJ+EN=well
+bassi,bassi,CONJ+EN=agreed
+bassi,bassi,CONJ+EN=OK
+bassi,bassi,CONJ+EN=so
+bassi,bassi,CONJ+EN=stop
+bassi,bassi,CONJ+EN=and then
+bassi,bassi,CONJ+EN=very well
+bassi,bassi,CONJ+EN=well
+bighairi,bighairi,CONJ+EN=apart from
+bighairi,bighairi,CONJ+EN=except
+endapo,endapo,CONJ+EN=in the event that...
+endapo,endapo,CONJ+EN=in case
+eti,eti,CONJ+EN=as if
+haddi,haddi,CONJ+EN=as far as
+haddi,haddi,CONJ+EN=so far as to
+haddi,haddi,CONJ+EN=in order that
+haddi,haddi,CONJ+EN=so then
+haddi,haddi,CONJ+EN=until
+haddi,haddi,CONJ+EN=so as to
+haddi,haddi,CONJ+EN=so that
+hadi,hadi,CONJ+EN=until
+hadi,hadi,CONJ+EN=up to
+haidhuru,haidhuru,CONJ+EN=no harm
+halafu,halafu,CONJ+EN=then
+kwa kila hali,kwa kila hali,CONJ+EN=under all circumstances
+kwa kila hali,kwa kila hali,CONJ+EN=in any case
+hata,hata,CONJ+EN=even if
+hata,hata,CONJ+EN=in order that
+hata,hata,CONJ+EN=so
+hata,hata,CONJ+EN=so that
+hatima,hatima,CONJ+EN=after
+kwa hiari yake,kwa hiari yake,CONJ+EN=of one's own will
+kwa hiari yake,kwa hiari yake,CONJ+EN=willingly
+huko,huko,CONJ+EN=as when
+huko,huko,CONJ+EN=while
+ijapo,ijapo,CONJ+EN=although
+ijapo,ijapo,CONJ+EN=in case
+ijapo,ijapo,CONJ+EN=even if
+ijapo,ijapo,CONJ+EN=if
+ijapo,ijapo,CONJ+EN=supposing that
+ijapo,ijapo,CONJ+EN=although
+ijapo,ijapo,CONJ+EN=even if
+ijapokuwa,ijapokuwa,CONJ+EN=although
+ijapokuwa,ijapokuwa,CONJ+EN=even though
+ikiwa,ikiwa,CONJ+EN=if
+ila,ila,CONJ+EN=except
+ila,ila,CONJ+EN=apart from
+ila,ila,CONJ+EN=unless
+ila,ila,CONJ+EN=but
+ila,ila,CONJ+EN=otherwise
+ila,ila,CONJ+EN=or else
+ilhali,ilhali,CONJ+EN=whereas
+ilhali,ilhali,CONJ+EN=while
+ili,ili,CONJ+EN=in order that
+ili,ili,CONJ+EN=in order to
+ili,ili,CONJ+EN=so that
+ingawa,ingawa,CONJ+EN=although
+ingawa,ingawa,CONJ+EN=though
+ingawa,ingawa,CONJ+EN=even if
+ingawa,ingawa,CONJ+EN=notwithstanding
+ingawa,ingawa,CONJ+EN=albeit
+isipokuwa,isipokuwa,CONJ+EN=except
+isipokuwa,isipokuwa,CONJ+EN=if not
+isipokuwa,isipokuwa,CONJ+EN=unless
+isipokuwa,isipokuwa,CONJ+EN=unless
+iwapo,iwapo,CONJ+EN=in case
+iwapo,iwapo,CONJ+EN=if
+iwapo,iwapo,CONJ+EN=when
+iwapo,iwapo,CONJ+EN=although
+iwapo,iwapo,CONJ+EN=even if
+iwapo,iwapo,CONJ+EN=if
+japo,japo,CONJ+EN=although
+japo,japo,CONJ+EN=even if
+jaribio la mhariri,jaribio la mhariri,CONJ+EN=jar jar banks
+kwa kila jiha,kwa kila jiha,CONJ+EN=in every direction
+kwa kila jiha,kwa kila jiha,CONJ+EN=in every respect
+juu ya,juu ya,CONJ+EN=upon
+juu ya,juu ya,CONJ+EN=as for
+juu ya hivyo,juu ya hivyo,CONJ+EN=moreover
+juu ya hivyo,juu ya hivyo,CONJ+EN=nevertheless
+juu ya hivyo,juu ya hivyo,CONJ+EN=in spite of that
+kabla,kabla,CONJ+EN=before
+kadhalika,kadhalika,CONJ+EN=so forth
+kadiri,kadiri,CONJ+EN=in accordance with
+kadiri,kadiri,CONJ+EN=on the average
+kadiri,kadiri,CONJ+EN=to the extent that
+kama,kama,CONJ+EN=if
+kama,kama,CONJ+EN=as
+kama,kama,CONJ+EN=like
+kama,kama,CONJ+EN=such as
+kama hivi,kama hivi,CONJ+EN=like this
+kama hivi,kama hivi,CONJ+EN=for example
+kama,kama,CONJ+EN=about
+kama,kama,CONJ+EN=around
+kama,kama,CONJ+EN=than
+kama,kama,CONJ+EN=that
+kama,kama,CONJ+EN=whether
+kama ... kama,kama ... kama,CONJ+EN=whether ... or
+kana kwamba,kana kwamba,CONJ+EN=as if
+kana kwamba,kana kwamba,CONJ+EN=as though
+kasoro,kasoro,CONJ+EN=unless
+katika kipindi hicho,katika kipindi hicho,CONJ+EN=in the mean time
+kitambo kidogo,kitambo kidogo,CONJ+EN=soon thereafter
+k.m.,k.m.,CONJ+EN=e.g.
+k.m.,k.m.,CONJ+EN=for example
+kuanzia,kuanzia,CONJ+EN=to begin with
+kuanzia,kuanzia,CONJ+EN=from a point of time onward
+kuliko,kuliko,CONJ+EN=than (in comparisons)
+kuliko,kuliko,CONJ+EN=more than
+kuliko,kuliko,CONJ+EN=greater than
+kuliko,kuliko,CONJ+EN=surpassing
+kuliko,kuliko,CONJ+EN=as to
+kuliko,kuliko,CONJ+EN=as regards
+kulingana na,kulingana na,CONJ+EN=according to
+kupita,kupita,CONJ+EN=than (in comparison)
+kushinda,kushinda,CONJ+EN=more than
+kutokana na,kutokana na,CONJ+EN=as a result of
+kuwa,kuwa,CONJ+EN=that
+ya kuwa,ya kuwa,CONJ+EN=so that
+ya kuwa,ya kuwa,CONJ+EN=in order that
+hali ya kuwa,hali ya kuwa,CONJ+EN=seeing that
+hali ya kuwa,hali ya kuwa,CONJ+EN=whereas
+kwa kuwa,kwa kuwa,CONJ+EN=because
+kwacho,kwacho,CONJ+EN=by means of (class 7)
+kwalo,kwalo,CONJ+EN=by means of (class 5)
+kwamba,kwamba,CONJ+EN=that
+kwamba,kwamba,CONJ+EN=in order that
+kwamba,kwamba,CONJ+EN=in order to
+kama kwamba,kama kwamba,CONJ+EN=as if
+kwamba ... kwamba,kwamba ... kwamba,CONJ+EN=whether ... or
+kwani,kwani,CONJ+EN=because
+kwani,kwani,CONJ+EN=since
+kwao,kwao,CONJ+EN=by means of (class 2 or 3 or 11)
+kwavyo,kwavyo,CONJ+EN=by means of (class 8)
+kwaye,kwaye,CONJ+EN=by means of (class 1)
+kwayo,kwayo,CONJ+EN=by means of (class 4 or 6 or 9)
+kwenye,kwenye,CONJ+EN=to
+kwenye,kwenye,CONJ+EN=towards
+laiti,laiti,CONJ+EN=if only
+lakini,lakini,CONJ+EN=but
+lakini,lakini,CONJ+EN=however
+lakini,lakini,CONJ+EN=nevertheless
+kama laula,kama laula,CONJ+EN=if not
+kama laula,kama laula,CONJ+EN=unless
+licha ya,licha ya,CONJ+EN=despite
+maadam,maadam,CONJ+EN=as long as
+maadam,maadam,CONJ+EN=since
+maadam,maadam,CONJ+EN=when
+maadam,maadam,CONJ+EN=while
+maadam,maadam,CONJ+EN=because
+maadam,maadam,CONJ+EN=as long as
+maadam,maadam,CONJ+EN=since
+maadam,maadam,CONJ+EN=when
+maadam,maadam,CONJ+EN=while
+maadamu,maadamu,CONJ+EN=as
+maadamu,maadamu,CONJ+EN=since
+maadamu,maadamu,CONJ+EN=when
+maadamu,maadamu,CONJ+EN=while
+maana,maana,CONJ+EN=since
+maana,maana,CONJ+EN=because
+maana,maana,CONJ+EN=in order that
+maana yake,maana yake,CONJ+EN=namely
+maana yake,maana yake,CONJ+EN=that is
+madhali,madhali,CONJ+EN=because
+madhali,madhali,CONJ+EN=seeing that
+madhali,madhali,CONJ+EN=since
+madhali,madhali,CONJ+EN=when
+madhali,madhali,CONJ+EN=while
+madhali,madhali,CONJ+EN=in case that
+madhali,madhali,CONJ+EN=if
+mathalan,mathalan,CONJ+EN=for example
+kwa mfano,kwa mfano,CONJ+EN=for example
+minghairi,minghairi,CONJ+EN=apart
+minghairi,minghairi,CONJ+EN=except
+minghairi,minghairi,CONJ+EN=without
+mintaraf,mintaraf,CONJ+EN=on behalf
+mintaraf,mintaraf,CONJ+EN=concerning
+mintarafu,mintarafu,CONJ+EN=concerning
+mintarafu,mintarafu,CONJ+EN=with regard to
+mintarafu,mintarafu,CONJ+EN=as a result of
+mithili ya,mithili ya,CONJ+EN=similar to
+mpaka sasa,mpaka sasa,CONJ+EN=up to now
+mradi,mradi,CONJ+EN=hence
+mradi,mradi,CONJ+EN=so long as
+mradi,mradi,CONJ+EN=provided that
+mradi,mradi,CONJ+EN=and then
+mradi,mradi,CONJ+EN=therefore
+mradi,mradi,CONJ+EN=accordingly
+mradi,mradi,CONJ+EN=because
+mradi,mradi,CONJ+EN=provided that
+mradi,mradi,CONJ+EN=since
+mradi,mradi,CONJ+EN=and so
+muradi,muradi,CONJ+EN=because
+murudi,murudi,CONJ+EN=provided that
+mwa,mwa,CONJ+EN=inside the place of
+na,na,CONJ+EN=and
+na,na,CONJ+EN=with
+na,na,CONJ+EN=have (preceeded by verb)
+na,na,CONJ+EN=by
+na,na,CONJ+EN=also
+na,na,CONJ+EN=but
+na,na,CONJ+EN=however
+na kadhalika,na kadhalika,CONJ+EN=and so on
+na kadhalika,na kadhalika,CONJ+EN=et cetera
+kwa nafsi yangu,kwa nafsi yangu,CONJ+EN=as for myself
+nako,nako,CONJ+EN=and here
+nami,nami,CONJ+EN=and l
+nami,nami,CONJ+EN=I too
+nanyi,nanyi,CONJ+EN=and you (pl.)
+nanyi,nanyi,CONJ+EN=you too (pl.)
+nao,nao,CONJ+EN=and they
+nao,nao,CONJ+EN=they too
+nasi,nasi,CONJ+EN=and we
+nasi,nasi,CONJ+EN=we too
+kwa nasibu,kwa nasibu,CONJ+EN=perhaps
+nawe,nawe,CONJ+EN=and you (sing.)
+nawe,nawe,CONJ+EN=you too (sing)
+naye,naye,CONJ+EN=he too
+naye,naye,CONJ+EN=it too
+naye,naye,CONJ+EN=she too
+ndaniye,ndaniye,CONJ+EN=inside it
+ndaniye,ndaniye,CONJ+EN=within it
+ndipo,ndipo,CONJ+EN=it is then
+ndipo,ndipo,CONJ+EN=it is there
+ndiposa,ndiposa,CONJ+EN=consequently
+ndiposa,ndiposa,CONJ+EN=consequently
+ndivyo,ndivyo,CONJ+EN=thus
+ndivyo,ndivyo,CONJ+EN=in that way
+ndivyo,ndivyo,CONJ+EN=in this way
+ndivyo,ndivyo,CONJ+EN=in this manner
+ndiyo maana,ndiyo maana,CONJ+EN=that's why
+ndiyo ndiyo,ndiyo ndiyo,CONJ+EN=yes it is so
+pengine na pengine,pengine na pengine,CONJ+EN=perhaps
+pindi,pindi,CONJ+EN=when
+pindi,pindi,CONJ+EN=if
+pindi,pindi,CONJ+EN=although
+pindi,pindi,CONJ+EN=supposing
+kwa sababu,kwa sababu,CONJ+EN=because
+kwa sababu gani,kwa sababu gani,CONJ+EN=for what reason
+ndio sababu,ndio sababu,CONJ+EN=for that reason
+ndio sababu,ndio sababu,CONJ+EN=therefore
+sembuse,sembuse,CONJ+EN=apart from ...
+sembuse,sembuse,CONJ+EN=not to mention ...
+sembuse,sembuse,CONJ+EN=to say nothing of ...
+taaraa,taaraa,CONJ+EN=if
+takribani,takribani,CONJ+EN=about
+takribani,takribani,CONJ+EN=almost
+tangu leo,tangu leo,CONJ+EN=from today
+taraa,taraa,CONJ+EN=if
+kwa ujumla,kwa ujumla,CONJ+EN=in general
+kwa ujumla,kwa ujumla,CONJ+EN=all together
+kwa vile,kwa vile,CONJ+EN=because
+wa,wa,CONJ+EN=and
+waaidha,waaidha,CONJ+EN=futhermore
+waaidha,waaidha,CONJ+EN=moreover
+waaidha,waaidha,CONJ+EN=then
+waaidha,waaidha,CONJ+EN=thereupon
+waama,waama,CONJ+EN=afterwards
+waama,waama,CONJ+EN=further
+waama,waama,CONJ+EN=moreover
+waama,waama,CONJ+EN=then
+waima,waima,CONJ+EN=if not
+waima,waima,CONJ+EN=otherwise
+wakati wowote,wakati wowote,CONJ+EN=whenever
+wala,wala,CONJ+EN=nor
+wala,wala,CONJ+EN=and not
+wala,wala,CONJ+EN=but not
+walahi,walahi,CONJ+EN=indeed
+walahi,walahi,CONJ+EN=really
+walakini,walakini,CONJ+EN=but
+walakini,walakini,CONJ+EN=however
+walakini,walakini,CONJ+EN=nevertheless
+walakini,walakini,CONJ+EN=notwithstanding
+walau,walau,CONJ+EN=although
+walau,walau,CONJ+EN=anyhow
+walau,walau,CONJ+EN=even
+walau,walau,CONJ+EN=at least
+walau,walau,CONJ+EN=at any rate
+kwa wastani,kwa wastani,CONJ+EN=on average
+yaani,yaani,CONJ+EN=that is
+yaani,yaani,CONJ+EN=i.e.
+yasini,yasini,CONJ+EN=What's the use  Why should l   l want nothing to do with it
+zaidi ya hayo,zaidi ya hayo,CONJ+EN=moreover
+zaidi ya hayo,zaidi ya hayo,CONJ+EN=besides this
+nani,nani,PRO+EN=who
+gani,gani,PRO+EN=which
+ndiko,ndiko,PRO+17+Loc+EN=this when where
+ndiye,ndiye,PRO+1+An+EN=this is him
+sivyo,sivyo,PRO+8+EN=this is not like
+ambaye,amba,PRO+FLX=AMBA+EN=that+PRO+1+An
+ambao,amba,PRO+FLX=AMBA+EN=that+PRO+2+An
+ambao,amba,PRO+FLX=AMBA+EN=that+PRO+3
+ambayo,amba,PRO+FLX=AMBA+EN=that+PRO+4
+ambalo,amba,PRO+FLX=AMBA+EN=that+PRO+5
+ambayo,amba,PRO+FLX=AMBA+EN=that+PRO+6
+ambacho,amba,PRO+FLX=AMBA+EN=that+PRO+7
+ambavyo,amba,PRO+FLX=AMBA+EN=that+PRO+8
+ambayo,amba,PRO+FLX=AMBA+EN=that+PRO+9
+ambazo,amba,PRO+FLX=AMBA+EN=that+PRO+10
+ambao,amba,PRO+FLX=AMBA+EN=that+PRO+11
+ambako,amba,PRO+FLX=AMBA+EN=that+PRO+15+Inf
+ambapo,amba,PRO+FLX=AMBA+EN=that+PRO+16+Loc
+ambako,amba,PRO+FLX=AMBA+EN=that+PRO+17+Loc
+ambamo,amba,PRO+FLX=AMBA+EN=that+PRO+18+Loc
+wa nani,a nani,PRO+FLX=A+EN=whose+EDP+1+An
+wa nani,a nani,PRO+FLX=A+EN=whose+EDP+2+An
+wa nani,a nani,PRO+FLX=A+EN=whose+EDP+3
+ya nani,a nani,PRO+FLX=A+EN=whose+EDP+4
+la nani,a nani,PRO+FLX=A+EN=whose+EDP+5
+ya nani,a nani,PRO+FLX=A+EN=whose+EDP+6
+cha nani,a nani,PRO+FLX=A+EN=whose+EDP+7
+vya nani,a nani,PRO+FLX=A+EN=whose+EDP+8
+ya nani,a nani,PRO+FLX=A+EN=whose+EDP+9
+za nani,a nani,PRO+FLX=A+EN=whose+EDP+10
+wa nani,a nani,PRO+FLX=A+EN=whose+EDP+11
+kwa nani,a nani,PRO+FLX=A+EN=whose+EDP+15+Inf
+pa nani,a nani,PRO+FLX=A+EN=whose+EDP+16+Loc
+kwa nani,a nani,PRO+FLX=A+EN=whose+EDP+17+Loc
+mwa nani,a nani,PRO+FLX=A+EN=whose+EDP+18+Loc
+ngapi,ngapi,PRO+FLX=NGAPI+EN="how many"+PRO+10
+wangapi,ngapi,PRO+FLX=NGAPI+EN="how many"+PRO+2+An
+mingapi,ngapi,PRO+FLX=NGAPI+EN="how many"+PRO+4
+mangapi,ngapi,PRO+FLX=NGAPI+EN="how many"+PRO+6
+vingapi,ngapi,PRO+FLX=NGAPI+EN="how many"+PRO+8
+ngapi,ngapi,PRO+FLX=NGAPI+EN="how much"+PRO+10
+wangapi,ngapi,PRO+FLX=NGAPI+EN="how much"+PRO+2+An
+mingapi,ngapi,PRO+FLX=NGAPI+EN="how much"+PRO+4
+mangapi,ngapi,PRO+FLX=NGAPI+EN="how much"+PRO+6
+vingapi,ngapi,PRO+FLX=NGAPI+EN="how much"+PRO+8
+saa ngapi,saa ngapi,PRO+EN=what time is it
+je,je,PRO+EN=question indicator
+je,je,PRO+EN=how
+je,je,PRO+EN=what
+karibu,karibu,PREP+EN=please (to one person)
+karibuni,karibuni,PREP+EN=please (to more than one person)
+kem,kem,PRO+EN=how much
+kem,kem,PRO+EN=what
+kumbe,kumbe,PRO+EN=(interjection expressing surprise)
+kumradhi,kumradhi,PRO+EN=excuse me
+kumradhi,kumradhi,PRO+EN=pardon me
+kunradhi,kunradhi,PRO+EN=Pardon me
+kwaje,kwaje,PRO+EN=how
+kwaje,kwaje,PRO+EN=in what way
+kwani,kwani,PRO+EN=for
+la,la,PRO+EN=no
+la,la,PRO+EN=not so
+laiti,laiti,PRO+EN=oh that
+lini,lini,PRO+EN=at what time
+lini,lini,PRO+EN=when
+mbona,mbona,PRO+EN=for what reason
+mie,mie,PRO+1+An+sg1+EN=I (myself)
+mimi,mimi,PRO+1+An+sg1+EN=I
+mimi,mimi,PRO+1+An+sg1+EN=me
+miye,miye,PRO+1+An+sg1+EN=I
+miye,miye,PRO+1+An+sg1+EN=me
+miye,miye,PRO+1+An+sg1+EN=mine
+mle,mle,PRO+Loc+EN=within
+mle,mle,PRO+Loc+EN=inside there
+mwanangu,mwanangu,PRO+1+An+EN=my child
+ndio,ndio,PRO+EN=yes
+hapana,hapana,PRO+EN=no
+hakuna,hakuna,PRO+EN=no
+hamna,hamna,PRO+EN=no
+ndiyo,ndiyo,PRO+EN=it is so
+ndiyo,ndiyo,PRO+EN=yes
+nini,nini,PRO+EN=what
+ninyi,ninyi,PRO+2+An+pl2+EN=you (pl)
+nyinyi,nyinyi,PRO+2+An+pl2+EN=ya'll
+nyinyi,nyinyi,PRO+2+An+pl2+EN=you (pl)
+nyoko,nyoko,PRO+EN=term of abuse
+sisi,sisi,PRO+2+An+pl1+EN=us
+sisi,sisi,PRO+2+An+pl1+EN=we
+sisi wenyewe,sisi wenyewe,PRO+2+An+pl1+EN=we ourselves
+siye,siye,PRO+2+An+pl1+EN=us
+sote,sote,PRO+2+An+pl1+EN=all of us
+soteni,soteni,PRO+2+An+pl1+EN=all of us
+Starehe,Starehe,PRO+EN=(in response to the greeting karibu  Come in) Don't disturb yourself  Keep your seat
+vipi,vipi,PRO+EN=how
+vipi,vipi,PRO+EN=what
+wao,wao,PRO+2+An+pl3+EN=them
+we,we,PRO+1+An+sg2+EN=you
+wee,wee,PRO+1+An+sg2+EN=you
+wewe,wewe,PRO+1+An+sg2+EN=you
+wengine,wengine,PRO+An+EN=others
+wote,wote,PRO+An+EN=everybody
+wote,wote,PRO+An+EN=everyone
+wote,wote,PRO+An+EN=all people
+yeye,yeye,PRO+1+An+sg3+EN=he
+yeye,yeye,PRO+1+An+sg3+EN=it (animate)
+yeye,yeye,PRO+1+An+sg3+EN=she
+yeyote,yeyote,PRO+An+EN=anybody
+yeyote,yeyote,PRO+An+EN=anyone
+a,a,INTERJ+EN=(expresses surprise)
+a,a,INTERJ+EN=(expresses pain)
+a,a,INTERJ+EN=(expresses joy)
+aa,aa,INTERJ+EN=(expresses joy)
+aa,aa,INTERJ+EN=(expresses pain)
+aa,aa,INTERJ+EN=(expresses surprise)
+abadan,abadan,INTERJ+EN=Make way
+abadani,abadani,INTERJ+EN=not at all
+abadani,abadani,INTERJ+EN=never
+abcde,abcde,INTERJ+EN=abcde
+abe,abe,INTERJ+EN=At your service
+abe,abe,INTERJ+EN=Yes ma'am
+abe,abe,INTERJ+EN=Yes sir
+abedari,abedari,INTERJ+EN=Look out
+abedari,abedari,INTERJ+EN=Take care
+abedari,abedari,INTERJ+EN=Watch out
+abee,abee,INTERJ+EN=at your service
+abee,abee,INTERJ+EN=I am coming
+abee,abee,INTERJ+EN=Yes sir
+abee,abee,INTERJ+EN=Yes ma'am
+abos,abos,INTERJ+EN=exclamation of admiration
+ado ado,ado ado,INTERJ+EN=slowly
+ah,ah,INTERJ+EN=(expresses joy)
+ah,ah,INTERJ+EN=(expresses pain)
+ah,ah,INTERJ+EN=(expresses surprise)
+aisee,aisee,INTERJ+EN=hello
+aisee,aisee,INTERJ+EN=I say
+Aisee,Aisee,INTERJ+EN=Oh really
+aka,aka,INTERJ+EN=expresses negation
+aka,aka,INTERJ+EN=expresses amazement
+aka,aka,INTERJ+EN=expression of annoyance
+aka,aka,INTERJ+EN=expression of astonishment
+aka,aka,INTERJ+EN=expression of impatience
+ala,ala,INTERJ+EN=expresses impatience
+ala,ala,INTERJ+EN=expresses amazement
+alaa,alaa,INTERJ+EN=is that so
+alamsiki,alamsiki,INTERJ+EN=farewell
+alamsiki,alamsiki,INTERJ+EN=good bye
+Alhamdulillahi,Alhamdulillahi,INTERJ+EN=Praise be to Allah
+ama,ama,INTERJ+EN=wow
+ama,ama,INTERJ+EN=expresses impatience
+ama,ama,INTERJ+EN=expression used to introduce a question
+amina,amina,INTERJ+EN=amen
+amina,amina,INTERJ+EN=so be it
+asante,asante,INTERJ+EN=thank you
+asante,asante,INTERJ+EN=thanks
+askut,askut,INTERJ+EN=Silence
+askut,askut,INTERJ+EN=Be still
+assalala,assalala,INTERJ+EN=exclamation of astonishment
+astaghafiru,astaghafiru,INTERJ+EN=God forbid
+ati,ati,INTERJ+EN=exclamation implying disagreement
+ati,ati,INTERJ+EN=Listen  (exclamation introducing a statement)
+ati,ati,INTERJ+EN=Say (exclamation introducing a statement)
+ati,ati,INTERJ+EN=Hey  (exclamation to attract attention)
+aye,aye,INTERJ+EN=thank you
+barabara,barabara,INTERJ+EN=quite right
+barabara,barabara,INTERJ+EN=all right
+bas,bas,INTERJ+EN=well then
+bedari,bedari,INTERJ+EN=Look out
+bedari,bedari,INTERJ+EN=take care
+bedari,bedari,INTERJ+EN=Watch out
+bee,bee,INTERJ+EN=At your service
+bee,bee,INTERJ+EN=Yes sir (ma'am)
+bee,bee,INTERJ+EN=yes (used by females)
+bilahi,bilahi,INTERJ+EN=by Allah
+billahi,billahi,INTERJ+EN=by Allah
+binuru,binuru,INTERJ+EN=reply to the greeting alamsiki (cf.)
+bismillahi,bismillahi,INTERJ+EN=in the name of Allah
+buu,buu,INTERJ+EN=Be quiet
+Bwana Mpendwa,Bwana Mpendwa,INTERJ+EN=Dear Sir
+chereko  chereko,chereko  chereko,INTERJ+EN=wishes of fecundity that are also expressed on the occasion of the first menstruation
+chub,chub,INTERJ+EN=Be quiet
+chut,chut,INTERJ+EN=it is not worth mentioning
+dike,dike,INTERJ+EN=good
+dike,dike,INTERJ+EN=right
+do,do,INTERJ+EN=exclamation of surprise
+duh,duh,INTERJ+EN=expression of disdain
+dah,dah,INTERJ+EN=expression of disdain
+ebee,ebee,INTERJ+EN=at your service
+ebee,ebee,INTERJ+EN=yes sir (ma'am)  (formerly used by slaves)
+ebho,ebho,INTERJ+EN=hey
+ebo,ebo,INTERJ+EN=yeah
+ebu,ebu,INTERJ+EN=yeah
+ebu,ebu,INTERJ+EN=well
+ebu,ebu,INTERJ+EN=come now
+ee,ee,INTERJ+EN=oh
+ee,ee,INTERJ+EN=all right
+ee,ee,INTERJ+EN=certainly
+eeh,eeh,INTERJ+EN=uh-huh
+eeh,eeh,INTERJ+EN=yeah
+eeh,eeh,INTERJ+EN=yes
+eewaa,eewaa,INTERJ+EN=yes (interjection of assent or approval)
+eewala,eewala,INTERJ+EN=yes (interjection of assent or approval)
+ehee,ehee,INTERJ+EN=yes (interjection of assent or approval)
+enhee,enhee,INTERJ+EN=yes (interjection of assent or approval)
+Enyi,Enyi,INTERJ+EN=You
+enyi,enyi,INTERJ+EN=exclamation referring to 2nd pers.  pl.  Hey you there
+eti,eti,INTERJ+EN=hey  (exclamation to attract attention)
+eti,eti,INTERJ+EN=in requests for repetition
+ewaa,ewaa,INTERJ+EN=yes (interjection of assent or approval)
+ewe,ewe,INTERJ+EN=oh you
+ewe,ewe,INTERJ+EN=Hey there
+Ewe,Ewe,INTERJ+EN=You there
+fauwa,fauwa,INTERJ+EN=all right
+fauwa,fauwa,INTERJ+EN=good
+habari,habari,INTERJ+EN=what's the news
+habedari,habedari,INTERJ+EN=Take care
+habedari,habedari,INTERJ+EN=Look out
+habedari,habedari,INTERJ+EN=Watch out
+haikosi,haikosi,INTERJ+EN=undoubtedly
+haikosi,haikosi,INTERJ+EN=doubtless
+hajambo,hajambo,INTERJ+EN=he is fine
+hajambo,hajambo,INTERJ+EN=she is fine
+halahala,halahala,INTERJ+EN=don't forget
+halahala,halahala,INTERJ+EN=immediately
+hasha,hasha,INTERJ+EN=certainly not
+hasha,hasha,INTERJ+EN=of course not
+hasha,hasha,INTERJ+EN=impossible
+hasha,hasha,INTERJ+EN=by no means
+la hasha,la hasha,INTERJ+EN=no never
+la hasha,la hasha,INTERJ+EN=no way
+hatujambo,hatujambo,INTERJ+EN=we are fine
+hawajambo,hawajambo,INTERJ+EN=they are fine
+haya,haya,INTERJ+EN=Come on
+haya,haya,INTERJ+EN=Now then
+haya,haya,INTERJ+EN=Get a move on
+haya,haya,INTERJ+EN=all right
+haya,haya,INTERJ+EN=OK
+haya,haya,INTERJ+EN=goodbye
+haya,haya,INTERJ+EN=bye
+hebu,hebu,INTERJ+EN=yeah
+hebu,hebu,INTERJ+EN=come now
+hebu,hebu,INTERJ+EN=well
+heko,heko,INTERJ+EN=well done
+heko,heko,INTERJ+EN=hurrah
+heko,heko,INTERJ+EN=bravo
+heko,heko,INTERJ+EN=congratulations
+kwa hiari,kwa hiari,INTERJ+EN=suit yourself
+hiari yako,hiari yako,INTERJ+EN=as you see fit
+hiari yako,hiari yako,INTERJ+EN=at your discretion
+hiari yako,hiari yako,INTERJ+EN=just as you like
+hobe,hobe,INTERJ+EN=Go
+hobe,hobe,INTERJ+EN=Get out
+hobe,hobe,INTERJ+EN=Get started
+hodi,hodi,INTERJ+EN=May I come in  (before entering a house or room)
+hodi,hodi,INTERJ+EN=hello (called when knocking on someone's door)
+hodi,hodi,INTERJ+EN=May I come in  Ans.  karibu (welcome)
+hongera,hongera,INTERJ+EN=congratulations
+howa,howa,INTERJ+EN=word used to quiet a crying infant
+inshallah,inshallah,INTERJ+EN=God willing
+inshallah,inshallah,INTERJ+EN=Yes certainly.  (If Allah wills it)
+jamani,jamani,INTERJ+EN=friends
+jamani,jamani,INTERJ+EN=let us go
+jambo,jambo,INTERJ+EN=hello
+jambo,jambo,INTERJ+EN=hi
+jambo,jambo,INTERJ+EN=good day
+jambo,jambo,INTERJ+EN=greetings
+jambo,jambo,INTERJ+EN=salutation
+jamboni,jamboni,INTERJ+EN=hello (to more than one person)
+juu yako,juu yako,INTERJ+EN=up to you
+karibu,karibu,INTERJ+EN=welcome  (to one person)
+karibu,karibu,INTERJ+EN=come in  (to one person in response to the query 'Hodi')
+karibu,karibu,INTERJ+EN=you're welcome (to one person)
+karibuni,karibuni,INTERJ+EN=welcome  (to more than one person)
+karibuni,karibuni,INTERJ+EN=come in  (to more than one person in response to query 'Hodi')
+karibuni,karibuni,INTERJ+EN=you're welcome (to more than one person)
+katu,katu,INTERJ+EN=no  (emph.)
+kee,kee,INTERJ+EN=really
+kee,kee,INTERJ+EN=what
+kefu,kefu,INTERJ+EN=It is not worth mentioning
+kefu,kefu,INTERJ+EN=You scoundrel
+kefu,kefu,INTERJ+EN=Shame
+kumbe,kumbe,INTERJ+EN=My
+kunradhi,kunradhi,INTERJ+EN=Excuse me
+kwa heri,kwa heri,INTERJ+EN=goodbye
+kwa herini,kwa herini,INTERJ+EN=goodbye (said to more than one person)
+la,la,INTERJ+EN=no
+la,la,INTERJ+EN=never
+la,la,INTERJ+EN=not at all
+Labeka,Labeka,INTERJ+EN=Yes sir
+Labeka,Labeka,INTERJ+EN=Yes ma'am
+lahaula,lahaula,INTERJ+EN=expletive often expressing shock or dismay
+lahaula,lahaula,INTERJ+EN=Well I never
+lahaula,lahaula,INTERJ+EN=God forbid
+laiti,laiti,INTERJ+EN=would that
+lamsiki,lamsiki,INTERJ+EN=good bye
+lo,lo,INTERJ+EN=oh  well  (interjection of joy or amazement)
+lo,lo,INTERJ+EN=My
+loo,loo,INTERJ+EN=oh  well  (interjection of joy or amazement)
+makiwani,makiwani,INTERJ+EN=Condolences  (formula of greeting when one enters a house where a death has recently occurred)
+mambo,mambo,INTERJ+EN=what's up
+marahaba,marahaba,INTERJ+EN=greeting (response by elder or superior greeted with shikamoo)
+marahaba,marahaba,INTERJ+EN=good
+marahaba,marahaba,INTERJ+EN=thank you (in response to salutation 'Shikamoo')
+marahaba,marahaba,INTERJ+EN=very well (in response to the salutation 'shikamoo')
+masalala,masalala,INTERJ+EN=goodness  (interjection of amazement)
+mawe,mawe,INTERJ+EN=nonsense
+Mungubariki,Mungubariki,INTERJ+EN=God bless
+Mungubariki,Mungubariki,INTERJ+EN=thanks to God
+Mzima,Mzima,INTERJ+EN=Are you well
+Mzima,Mzima,INTERJ+EN=Fine
+mzima,mzima,INTERJ+EN=I am well
+naam,naam,INTERJ+EN=certainly
+naam,naam,INTERJ+EN=of course
+naam,naam,INTERJ+EN=I'm sorry  (would you mind repeating what you said I didn't understand)
+naam,naam,INTERJ+EN=yes (said by males)
+ndi,ndi,INTERJ+EN=it is indeed
+ndilo,ndilo,INTERJ+EN=that is it
+ndimi,ndimi,INTERJ+EN=I'm the one
+ndimo,ndimo,INTERJ+EN=In there is where it is
+ndinyi,ndinyi,INTERJ+EN=Especially you (pl)
+ndinyi,ndinyi,INTERJ+EN=You are the ones
+ndio,ndio,INTERJ+EN=That is the way it is  Yes
+ndio,ndio,INTERJ+EN=They are the ones
+ndisi,ndisi,INTERJ+EN=Especially us
+ndisi,ndisi,INTERJ+EN=We are the ones
+ndivyo,ndivyo,INTERJ+EN=is it so
+ndiyo,ndiyo,INTERJ+EN=yes
+ndiyo,ndiyo,INTERJ+EN=That is the way it is  Yes
+ng'o,ng'o,INTERJ+EN=expression of contempt
+ng'o,ng'o,INTERJ+EN=expression of derision
+ng'o,ng'o,INTERJ+EN=expression of refusal
+ngoja,ngoja,INTERJ+EN=wait
+ng'oo,ng'oo,INTERJ+EN=expression of contempt
+ng'oo,ng'oo,INTERJ+EN=expression of derision
+ng'oo,ng'oo,INTERJ+EN=expression of refusal
+njema,njema,INTERJ+EN=good
+njema,njema,INTERJ+EN=certainly
+nobe,nobe,INTERJ+EN=exclamation of contempt
+nyoo,nyoo,INTERJ+EN=interj of contempt
+nyoo,nyoo,INTERJ+EN=interj of derision
+ole,ole,INTERJ+EN=Woe is me
+pole,pole,INTERJ+EN=sorry
+pole,pole,INTERJ+EN=Excuse me
+pole,pole,INTERJ+EN=I pity you
+pole,pole,INTERJ+EN=expression of compassion
+pole,pole,INTERJ+EN=expression of sympathy
+saa,saa,INTERJ+EN=expression of impatience
+saa,saa,INTERJ+EN=expression of amazement
+sabalheri,sabalheri,INTERJ+EN=good morning
+sabalkheri,sabalkheri,INTERJ+EN=good morning
+Safi,Safi,INTERJ+EN=Great
+salala,salala,INTERJ+EN=exclamation of astonishment (God forbid)
+salala,salala,INTERJ+EN=God forbid
+salale,salale,INTERJ+EN=exclamation of astonishment
+samahani,samahani,INTERJ+EN=excuse me
+samahani,samahani,INTERJ+EN=pardon me
+samahani,samahani,INTERJ+EN=forgive me
+samahani,samahani,INTERJ+EN=sorry
+sampletest_swa2,sampletest_swa2,INTERJ+EN=sampletest_eng2
+sasa,sasa,INTERJ+EN=Well what do you know
+sawa,sawa,INTERJ+EN=yes
+sefule,sefule,INTERJ+EN=Shame
+sema saa,sema saa,INTERJ+EN=Well say something will you
+shime,shime,INTERJ+EN=participate (used as an appeal for collective effort)
+shime,shime,INTERJ+EN=encouragement to increased effort
+sijambo,sijambo,INTERJ+EN=I am fine
+sijambo,sijambo,INTERJ+EN=I am okay
+simile,simile,INTERJ+EN=Gangway
+simile,simile,INTERJ+EN=Make way
+similla,similla,INTERJ+EN=Gangway
+similla,similla,INTERJ+EN=Make way
+subalkheri,subalkheri,INTERJ+EN=good morning
+sukutu,sukutu,INTERJ+EN=Silence
+sukutu,sukutu,INTERJ+EN=Be still
+sumile,sumile,INTERJ+EN=Gangway
+sumile,sumile,INTERJ+EN=Make way
+taadabu,taadabu,INTERJ+EN=Behave yourself
+tafadhali,tafadhali,INTERJ+EN=please
+tahamaki,tahamaki,INTERJ+EN=Behold
+tahamaki,tahamaki,INTERJ+EN=Look
+tahyati,tahyati,INTERJ+EN=(in salutation) ( l wish you) a long life
+taileni,taileni,INTERJ+EN=Help  (a cry introducing and concluding the ceremony for exorcising spirits)
+tailetai,tailetai,INTERJ+EN=Help  (a cry introducing and concluding the ceremony for exorcising spirits)
+tayib,tayib,INTERJ+EN=Good
+tayib,tayib,INTERJ+EN=Very well
+tike,tike,INTERJ+EN=good
+tike,tike,INTERJ+EN=right
+tutu,tutu,INTERJ+EN=leave it alone
+tutu,tutu,INTERJ+EN=restrain yourself
+usijali,usijali,INTERJ+EN=never mind
+uss,uss,INTERJ+EN=hush
+uss,uss,INTERJ+EN=quiet
+wabadahu,wabadahu,INTERJ+EN=and now (introducing the body of a letter after the salutation)
+wallah,wallah,INTERJ+EN=By God
+wallai,wallai,INTERJ+EN=indeed
+wallai,wallai,INTERJ+EN=really
+yasini,yasini,INTERJ+EN=scornful expression used by women
+yasini,yasini,INTERJ+EN=it's not worth the trouble
+yo yo,yo yo,INTERJ+EN=fine
+abadan,abadan,ADV+EN=never
+abadi,abadi,ADV+EN=always
+abadi,abadi,ADV+EN=constantly
+abidi,abidi,ADV+EN=always
+abidi,abidi,ADV+EN=constantly
+adhimu,adhimu,ADV+EN=greatly
+adhimu,adhimu,ADV+EN=importantly
+adhimu,adhimu,ADV+EN=significantly
+afadhali,afadhali,ADV+EN=better
+afadhali,afadhali,ADV+EN=particularly
+afadhali,afadhali,ADV+EN=preferably
+afadhali,afadhali,ADV+EN=rather
+afdhali,afdhali,ADV+EN=better
+afdhali,afdhali,ADV+EN=particularly
+afdhali,afdhali,ADV+EN=preferably
+afdhali,afdhali,ADV+EN=rather
+afudhali,afudhali,ADV+EN=better
+afudhali,afudhali,ADV+EN=particularly
+afudhali,afudhali,ADV+EN=preferably
+afudhali,afudhali,ADV+EN=rather
+aghalabu,aghalabu,ADV+EN=chiefly
+aghalabu,aghalabu,ADV+EN=mainly
+aghalabu,aghalabu,ADV+EN=more often
+aghalabu,aghalabu,ADV+EN=mostly
+aghalabu,aghalabu,ADV+EN=ordinarily
+aghalabu,aghalabu,ADV+EN=as a rule
+aghalabu,aghalabu,ADV+EN=usually
+aghlabu,aghlabu,ADV+EN=chiefly
+aghlabu,aghlabu,ADV+EN=mainly
+aghlabu,aghlabu,ADV+EN=more often
+aghlabu,aghlabu,ADV+EN=mostly
+aghlabu,aghlabu,ADV+EN=ordinarily
+aghlabu,aghlabu,ADV+EN=as a rule
+aghlabu,aghlabu,ADV+EN=usually
+aidha,aidha,ADV+EN=furthermore
+aidha,aidha,ADV+EN=next
+wa ajabu,a ajabu,ADV+FLX=A+EN=wonderfully+EDP+1+An
+wa ajabu,a ajabu,ADV+FLX=A+EN=wonderfully+EDP+2+An
+wa ajabu,a ajabu,ADV+FLX=A+EN=wonderfully+EDP+3
+ya ajabu,a ajabu,ADV+FLX=A+EN=wonderfully+EDP+4
+la ajabu,a ajabu,ADV+FLX=A+EN=wonderfully+EDP+5
+ya ajabu,a ajabu,ADV+FLX=A+EN=wonderfully+EDP+6
+cha ajabu,a ajabu,ADV+FLX=A+EN=wonderfully+EDP+7
+vya ajabu,a ajabu,ADV+FLX=A+EN=wonderfully+EDP+8
+ya ajabu,a ajabu,ADV+FLX=A+EN=wonderfully+EDP+9
+za ajabu,a ajabu,ADV+FLX=A+EN=wonderfully+EDP+10
+wa ajabu,a ajabu,ADV+FLX=A+EN=wonderfully+EDP+11
+kwa ajabu,a ajabu,ADV+FLX=A+EN=wonderfully+EDP+15+Inf
+pa ajabu,a ajabu,ADV+FLX=A+EN=wonderfully+EDP+16+Loc
+kwa ajabu,a ajabu,ADV+FLX=A+EN=wonderfully+EDP+17+Loc
+mwa ajabu,a ajabu,ADV+FLX=A+EN=wonderfully+EDP+18+Loc
+wa ajabu,a ajabu,ADV+FLX=A+EN=extraordinarily+EDP+1+An
+wa ajabu,a ajabu,ADV+FLX=A+EN=extraordinarily+EDP+2+An
+wa ajabu,a ajabu,ADV+FLX=A+EN=extraordinarily+EDP+3
+ya ajabu,a ajabu,ADV+FLX=A+EN=extraordinarily+EDP+4
+la ajabu,a ajabu,ADV+FLX=A+EN=extraordinarily+EDP+5
+ya ajabu,a ajabu,ADV+FLX=A+EN=extraordinarily+EDP+6
+cha ajabu,a ajabu,ADV+FLX=A+EN=extraordinarily+EDP+7
+vya ajabu,a ajabu,ADV+FLX=A+EN=extraordinarily+EDP+8
+ya ajabu,a ajabu,ADV+FLX=A+EN=extraordinarily+EDP+9
+za ajabu,a ajabu,ADV+FLX=A+EN=extraordinarily+EDP+10
+wa ajabu,a ajabu,ADV+FLX=A+EN=extraordinarily+EDP+11
+kwa ajabu,a ajabu,ADV+FLX=A+EN=extraordinarily+EDP+15+Inf
+pa ajabu,a ajabu,ADV+FLX=A+EN=extraordinarily+EDP+16+Loc
+kwa ajabu,a ajabu,ADV+FLX=A+EN=extraordinarily+EDP+17+Loc
+mwa ajabu,a ajabu,ADV+FLX=A+EN=extraordinarily+EDP+18+Loc
+wa ajabu,a ajabu,ADV+FLX=A+EN=astonishingly+EDP+1+An
+wa ajabu,a ajabu,ADV+FLX=A+EN=astonishingly+EDP+2+An
+wa ajabu,a ajabu,ADV+FLX=A+EN=astonishingly+EDP+3
+ya ajabu,a ajabu,ADV+FLX=A+EN=astonishingly+EDP+4
+la ajabu,a ajabu,ADV+FLX=A+EN=astonishingly+EDP+5
+ya ajabu,a ajabu,ADV+FLX=A+EN=astonishingly+EDP+6
+cha ajabu,a ajabu,ADV+FLX=A+EN=astonishingly+EDP+7
+vya ajabu,a ajabu,ADV+FLX=A+EN=astonishingly+EDP+8
+ya ajabu,a ajabu,ADV+FLX=A+EN=astonishingly+EDP+9
+za ajabu,a ajabu,ADV+FLX=A+EN=astonishingly+EDP+10
+wa ajabu,a ajabu,ADV+FLX=A+EN=astonishingly+EDP+11
+kwa ajabu,a ajabu,ADV+FLX=A+EN=astonishingly+EDP+15+Inf
+pa ajabu,a ajabu,ADV+FLX=A+EN=astonishingly+EDP+16+Loc
+kwa ajabu,a ajabu,ADV+FLX=A+EN=astonishingly+EDP+17+Loc
+mwa ajabu,a ajabu,ADV+FLX=A+EN=astonishingly+EDP+18+Loc
+akhuyari,akhuyari,ADV+EN=better
+akhuyari,akhuyari,ADV+EN=well
+alau,alau,ADV+EN=at any rate
+alau,alau,ADV+EN=anyhow
+alau,alau,ADV+EN=at last
+alau,alau,ADV+EN=even
+alhasil,alhasil,ADV+EN=consequently
+alhasil,alhasil,ADV+EN=hence
+alhasil,alhasil,ADV+EN=similarly
+alhasil,alhasil,ADV+EN=then
+alhasil,alhasil,ADV+EN=thereupon
+alhasil,alhasil,ADV+EN=in this way
+alhasil,alhasil,ADV+EN=thus
+alhasir,alhasir,ADV+EN=consequently
+alhasir,alhasir,ADV+EN=hence
+alhasir,alhasir,ADV+EN=similarly
+alhasir,alhasir,ADV+EN=then
+alhasir,alhasir,ADV+EN=thereupon
+alhasir,alhasir,ADV+EN=in this way
+alhasir,alhasir,ADV+EN=thus
+alili,alili,ADV+EN=very
+ana kwa ana,ana kwa ana,ADV+EN=face to face
+angalau,angalau,ADV+EN=at least
+angalau,angalau,ADV+EN=not even
+asili,asili,ADV+EN=from the beginning
+asili,asili,ADV+EN=in old times
+asili,asili,ADV+EN=originally
+aste,aste,ADV+EN=slowly
+awali,awali,ADV+EN=originally
+awali,awali,ADV+EN=initially
+awali,awali,ADV+EN=at first
+awali,awali,ADV+EN=in the beginning
+awali,awali,ADV+EN=formerly
+awali,awali,ADV+EN=almost
+awali,awali,ADV+EN=nearly
+awali,awali,ADV+EN=long time ago
+baada ya,baada ya,ADV+EN=after
+baadae,baadae,ADV+EN=afterwards
+baadaye,baadaye,ADV+EN=afterwards
+baadaye,baadaye,ADV+EN=later
+baadaye,baadaye,ADV+EN=next
+baadaye,baadaye,ADV+EN=then
+baadaye,baadaye,ADV+EN=thereafter
+baadhi ya,baadhi ya,ADV+EN=some of
+babale,babale,ADV+EN=just
+babale,babale,ADV+EN=then
+badala ya,badala ya,ADV+EN=instead of
+badili ya,badili ya,ADV+EN=instead of
+bado,bado,ADV+EN=not ready
+bado,bado,ADV+EN=not yet
+bado,bado,ADV+EN=still
+bado,bado,ADV+EN=yet
+ngali,ngali,ADV+EN=still
+baghairi,baghairi,ADV+EN=exclusively
+baghala,baghala,ADV+EN=any old way
+baghala,baghala,ADV+EN=haphazardly
+baghala,baghala,ADV+EN=indiscriminately
+baghala,baghala,ADV+EN=at random
+kwa bahati,kwa bahati,ADV+EN=by chance
+baidi,baidi,ADV+EN=far away
+baina,baina,ADV+EN=between
+baina ya,baina ya,ADV+EN=among
+baina ya,baina ya,ADV+EN=between
+baina ya,baina ya,ADV+EN=in the midst of
+barabara,barabara,ADV+EN=properly
+barabara,barabara,ADV+EN=rightly
+barabara,barabara,ADV+EN=appropriately
+barabara,barabara,ADV+EN=correctly
+barabara,barabara,ADV+EN=regularly
+barabara,barabara,ADV+EN=exactly
+barabara,barabara,ADV+EN=accurately
+barabara,barabara,ADV+EN=perfectly
+barabara,barabara,ADV+EN=fully
+basi,basi,ADV+EN=then
+basi,basi,ADV+EN=well
+bavuni,bavuni,ADV+EN=along
+bavuni,bavuni,ADV+EN=alongside
+bavuni,bavuni,ADV+EN=at the side
+bavuni,bavuni,ADV+EN=on the other side
+bavuni,bavuni,ADV+EN=sidewards
+bidhalika,bidhalika,ADV+EN=again
+bidhalika,bidhalika,ADV+EN=at the same time
+bidhalika,bidhalika,ADV+EN=similarly
+bidhalika,bidhalika,ADV+EN=likewise
+kwa bidii,kwa bidii,ADV+EN=energetically
+kwa bidii,kwa bidii,ADV+EN=diligently
+kwa bidii,kwa bidii,ADV+EN=industriously
+kwa bidii,kwa bidii,ADV+EN=assiduously
+bila,bila,ADV+EN=without
+bila kukawia,bila kukawia,ADV+EN=without delay
+bila shaka,bila shaka,ADV+EN=undoubtedly
+bilashi,bilashi,ADV+EN=gratuitously
+bilashi,bilashi,ADV+EN=in vain
+bilashi,bilashi,ADV+EN=for nothing
+bilashi,bilashi,ADV+EN=for no reason
+bileshi,bileshi,ADV+EN=gratuitously
+bileshi,bileshi,ADV+EN=in vain
+bileshi,bileshi,ADV+EN=for nothing
+binafsi,binafsi,ADV+EN=personally
+binafsi,binafsi,ADV+EN=privately
+binafsi,binafsi,ADV+EN=herself
+binafsi,binafsi,ADV+EN=himself
+binafsi,binafsi,ADV+EN=itself
+binafsi,binafsi,ADV+EN=myself
+binafsi,binafsi,ADV+EN=oneself
+binafsi,binafsi,ADV+EN=ourselves
+binafsi,binafsi,ADV+EN=themselves
+binafsi,binafsi,ADV+EN=yourself
+binafsi,binafsi,ADV+EN=yourselves
+bure,bure,ADV+EN=for nothing
+bure,bure,ADV+EN=purposelessly
+bure,bure,ADV+EN=fruitlessly
+bure,bure,ADV+EN=uselessly
+bure,bure,ADV+EN=in vain
+bure,bure,ADV+EN=without cause
+bure,bure,ADV+EN=without reason
+bure,bure,ADV+EN=rashly
+bure,bure,ADV+EN=frivolously
+chachawi,chachawi,ADV+EN=confused speech
+chakari,chakari,ADV+EN=to a high degree
+chakari,chakari,ADV+EN=much
+chakari,chakari,ADV+EN=very
+chali,chali,ADV+EN=on the back
+chali,chali,ADV+EN=backwards
+chanda na pete,chanda na pete,ADV+EN=amicably
+chanjari,chanjari,ADV+EN=column formation
+chanjari,chanjari,ADV+EN=in line
+chanjari,chanjari,ADV+EN=in single file
+chanjari,chanjari,ADV+EN=follow in succession
+chanjari,chanjari,ADV+EN=move in a line or column
+chanjari,chanjari,ADV+EN=in column formation.
+chanjari,chanjari,ADV+EN=in single file
+chapa chapa,chapa chapa,ADV+EN=in great quantity
+chapa chapa,chapa chapa,ADV+EN=much
+chapu chapu,chapu chapu,ADV+EN=quickly
+chapuchapu,chapuchapu,ADV+EN=briskly
+chapuchapu,chapuchapu,ADV+EN=hurry up  (interj.)
+chapuchapu,chapuchapu,ADV+EN=speedily
+chapuchapu,chapuchapu,ADV+EN=quick
+chapuchapu,chapuchapu,ADV+EN=make haste
+chapuchapu,chapuchapu,ADV+EN=Hurry up
+chemba,chemba,ADV+EN=apart
+chemba,chemba,ADV+EN=aside
+chengachenga,chengachenga,ADV+EN=granular
+chini,chini,ADV+EN=down
+chini,chini,ADV+EN=below
+chini,chini,ADV+EN=under
+chini,chini,ADV+EN=underneath
+chini,chini,ADV+EN=on the ground
+chini,chini,ADV+EN=downstairs
+chini,chini,ADV+EN=at the bottom
+chini,chini,ADV+EN=at the feet
+chini,chini,ADV+EN=close to
+chini,chini,ADV+EN=nearby
+chini,chini,ADV+EN=on foot
+chini kwa chini,chini kwa chini,ADV+EN=secretly
+chini (kwa) chini,chini (kwa) chini,ADV+EN=on the sly
+chungu nzima,chungu nzima,ADV+EN=a lot
+chunguchungu,chunguchungu,ADV+EN=in great quantity
+chunguchungu,chunguchungu,ADV+EN=in great number
+chupuchupu,chupuchupu,ADV+EN=narrowly
+chupuchupu,chupuchupu,ADV+EN=scarcely
+dabal moja,dabal moja,ADV+EN=incessantly
+dabal moja,dabal moja,ADV+EN=non-stop
+dafrao,dafrao,ADV+EN=face to face
+dafurao,dafurao,ADV+EN=face to face
+dahari,dahari,ADV+EN=always
+dahari,dahari,ADV+EN=constantly
+dahili,dahili,ADV+EN=informed well about a person
+daima,daima,ADV+EN=always
+daima,daima,ADV+EN=forever
+daima,daima,ADV+EN=permanently
+daima,daima,ADV+EN=constantly
+daima,daima,ADV+EN=continually
+daima,daima,ADV+EN=perpetually
+daima,daima,ADV+EN=eternally
+kwa dakika moja,kwa dakika moja,ADV+EN=in a moment
+kwa dakika moja,kwa dakika moja,ADV+EN=immediately
+kwa dakika moja,kwa dakika moja,ADV+EN=at once
+dalji,dalji,ADV+EN=amble (of horses)
+dalki,dalki,ADV+EN=quickly
+dalki,dalki,ADV+EN=trot (pace)
+dalki,dalki,ADV+EN=quickly
+dalki,dalki,ADV+EN=at a trot
+danganyifu,danganyifu,ADV+EN=deceitful
+danganyifu,danganyifu,ADV+EN=fraudulent
+darmadaru,darmadaru,ADV+EN=whirling
+dede,dede,ADV+EN=stand unsteadily (as an infant first learning to walk)
+dhahiri,dhahiri,ADV+EN=exact
+dhahiri,dhahiri,ADV+EN=undoubtedly
+dhahiri,dhahiri,ADV+EN=openly
+dhalika,dhalika,ADV+EN=again
+dhalika,dhalika,ADV+EN=likewise
+dhalika,dhalika,ADV+EN=at the same time
+dhalika,dhalika,ADV+EN=similarly
+kwa dharura,kwa dharura,ADV+EN=urgently
+dhati,dhati,ADV+EN=definitely
+dhati,dhati,ADV+EN=doubtless
+dhidi,dhidi,ADV+EN=anti-
+dike,dike,ADV+EN=precisely
+dike,dike,ADV+EN=exactly
+dufu,dufu,ADV+EN=worthless
+dunda,dunda,ADV+EN=stike forcibly against something
+toka enzi,toka enzi,ADV+EN=for a long time
+espesheli,espesheli,ADV+EN=especially
+fahuwa,fahuwa,ADV+EN=all right
+fahuwa,fahuwa,ADV+EN=fine
+fajaa,fajaa,ADV+EN=unexpectedly
+fakaika,fakaika,ADV+EN=much less
+fakaika,fakaika,ADV+EN=much more
+fakefu,fakefu,ADV+EN=much less
+fakefu,fakefu,ADV+EN=much more
+faraghani,faraghani,ADV+EN=in private
+fathali,fathali,ADV+EN=excellently
+fika,fika,ADV+EN=absolutely
+fika,fika,ADV+EN=completely
+filisisha,filisisha,ADV+EN=bankrupt a person
+fofofo,fofofo,ADV+EN=absolutely
+fofofo,fofofo,ADV+EN=completely
+fofofo,fofofo,ADV+EN=totally
+foko ya,foko ya,ADV+EN=more than
+fori,fori,ADV+EN=abundantly
+fori,fori,ADV+EN=in great quantities
+fudifudi,fudifudi,ADV+EN=face down
+fudifudi,fudifudi,ADV+EN=on the face
+fudifudi,fudifudi,ADV+EN=upside down
+ghafla,ghafla,ADV+EN=abruptly
+ghafla,ghafla,ADV+EN=suddenly
+ghafla,ghafla,ADV+EN=unexpectedly
+ghafla,ghafla,ADV+EN=without warning
+ghafula,ghafula,ADV+EN=abruptly
+ghafula,ghafula,ADV+EN=suddenly
+ghafula,ghafula,ADV+EN=unexpectedly
+ghafula,ghafula,ADV+EN=without warning
+ghairi ya,ghairi ya,ADV+EN=without
+hadhara,hadhara,ADV+EN=in public
+hadhara,hadhara,ADV+EN=openly
+hadhara ya,hadhara ya,ADV+EN=in the presence of
+hadharani,hadharani,ADV+EN=publicly
+hadi,hadi,ADV+EN=beyond measure
+haidhuru,haidhuru,ADV+EN=all right
+haidhuru,haidhuru,ADV+EN=it does not matter
+haidhuru,haidhuru,ADV+EN=OK
+haijambo,haijambo,ADV+EN=luckily
+hakika,hakika,ADV+EN=for certain
+hakika,hakika,ADV+EN=of course
+hakika,hakika,ADV+EN=positively
+hakika,hakika,ADV+EN=undoubtedly
+halafu,halafu,ADV+EN=afterwards
+halafu,halafu,ADV+EN=later
+halafu,halafu,ADV+EN=subsequently
+halafu,halafu,ADV+EN=in future
+halan,halan,ADV+EN=immediately
+halan,halan,ADV+EN=at once
+halani,halani,ADV+EN=immediately
+halani,halani,ADV+EN=at once
+hali kadhalika,hali kadhalika,ADV+EN=similarly
+hapa,hapa,ADV+EN=here
+hapa,hapa,ADV+EN=to this place
+hapana,hapana,ADV+EN=no
+hapo,hapo,ADV+EN=to that place
+hapo,hapo,ADV+EN=then
+hapo,hapo,ADV+EN=there
+kwa haraka,kwa haraka,ADV+EN=hurriedly
+kwa haraka,kwa haraka,ADV+EN=quickly
+kwa haraka,kwa haraka,ADV+EN=rapidly
+haraka,haraka,ADV+EN=soonest
+kwa haraka,kwa haraka,ADV+EN=urgently
+hasa,hasa,ADV+EN=completely
+hasa,hasa,ADV+EN=especially
+hasa,hasa,ADV+EN=exactly
+hasa,hasa,ADV+EN=just
+hasa,hasa,ADV+EN=very much
+hasa,hasa,ADV+EN=wholly
+haswa,haswa,ADV+EN=especially
+hata,hata,ADV+EN=even
+hata,hata,ADV+EN=up to
+hata,hata,ADV+EN=at all
+hata,hata,ADV+EN=in the least
+hatima,hatima,ADV+EN=afterwards
+hatima,hatima,ADV+EN=finally
+hatima,hatima,ADV+EN=later
+hatima,hatima,ADV+EN=then
+hatimaye,hatimaye,ADV+EN=finally
+hatimaye,hatimaye,ADV+EN=at last
+hayamkini,hayamkini,ADV+EN=impossible
+hayumkini,hayumkini,ADV+EN=impossible
+henezi,henezi,ADV+EN=gradually
+henezi,henezi,ADV+EN=slowly
+heri,heri,ADV+EN=better
+heri,heri,ADV+EN=rather
+kwa hiari,kwa hiari,ADV+EN=by choice
+hiari yangu,hiari yangu,ADV+EN=the way I want
+kwa hiari,kwa hiari,ADV+EN=at one's own discretion
+kwa hiari,kwa hiari,ADV+EN=voluntarily
+hidima,hidima,ADV+EN=carefully
+hidima,hidima,ADV+EN=diligently
+hidima,hidima,ADV+EN=promptly
+hidima,hidima,ADV+EN=quickly
+wa hima,a hima,ADV+FLX=A+EN=hastily+EDP+1+An
+wa hima,a hima,ADV+FLX=A+EN=hastily+EDP+2+An
+wa hima,a hima,ADV+FLX=A+EN=hastily+EDP+3
+ya hima,a hima,ADV+FLX=A+EN=hastily+EDP+4
+la hima,a hima,ADV+FLX=A+EN=hastily+EDP+5
+ya hima,a hima,ADV+FLX=A+EN=hastily+EDP+6
+cha hima,a hima,ADV+FLX=A+EN=hastily+EDP+7
+vya hima,a hima,ADV+FLX=A+EN=hastily+EDP+8
+ya hima,a hima,ADV+FLX=A+EN=hastily+EDP+9
+za hima,a hima,ADV+FLX=A+EN=hastily+EDP+10
+wa hima,a hima,ADV+FLX=A+EN=hastily+EDP+11
+kwa hima,a hima,ADV+FLX=A+EN=hastily+EDP+15+Inf
+pa hima,a hima,ADV+FLX=A+EN=hastily+EDP+16+Loc
+kwa hima,a hima,ADV+FLX=A+EN=hastily+EDP+17+Loc
+mwa hima,a hima,ADV+FLX=A+EN=hastily+EDP+18+Loc
+wa hima,a hima,ADV+FLX=A+EN=in a hurry+EDP+1+An
+wa hima,a hima,ADV+FLX=A+EN=in a hurry+EDP+2+An
+wa hima,a hima,ADV+FLX=A+EN=in a hurry+EDP+3
+ya hima,a hima,ADV+FLX=A+EN=in a hurry+EDP+4
+la hima,a hima,ADV+FLX=A+EN=in a hurry+EDP+5
+ya hima,a hima,ADV+FLX=A+EN=in a hurry+EDP+6
+cha hima,a hima,ADV+FLX=A+EN=in a hurry+EDP+7
+vya hima,a hima,ADV+FLX=A+EN=in a hurry+EDP+8
+ya hima,a hima,ADV+FLX=A+EN=in a hurry+EDP+9
+za hima,a hima,ADV+FLX=A+EN=in a hurry+EDP+10
+wa hima,a hima,ADV+FLX=A+EN=in a hurry+EDP+11
+kwa hima,a hima,ADV+FLX=A+EN=in a hurry+EDP+15+Inf
+pa hima,a hima,ADV+FLX=A+EN=in a hurry+EDP+16+Loc
+kwa hima,a hima,ADV+FLX=A+EN=in a hurry+EDP+17+Loc
+mwa hima,a hima,ADV+FLX=A+EN=in a hurry+EDP+18+Loc
+wa hima,a hima,ADV+FLX=A+EN=persistently+EDP+1+An
+wa hima,a hima,ADV+FLX=A+EN=persistently+EDP+2+An
+wa hima,a hima,ADV+FLX=A+EN=persistently+EDP+3
+ya hima,a hima,ADV+FLX=A+EN=persistently+EDP+4
+la hima,a hima,ADV+FLX=A+EN=persistently+EDP+5
+ya hima,a hima,ADV+FLX=A+EN=persistently+EDP+6
+cha hima,a hima,ADV+FLX=A+EN=persistently+EDP+7
+vya hima,a hima,ADV+FLX=A+EN=persistently+EDP+8
+ya hima,a hima,ADV+FLX=A+EN=persistently+EDP+9
+za hima,a hima,ADV+FLX=A+EN=persistently+EDP+10
+wa hima,a hima,ADV+FLX=A+EN=persistently+EDP+11
+kwa hima,a hima,ADV+FLX=A+EN=persistently+EDP+15+Inf
+pa hima,a hima,ADV+FLX=A+EN=persistently+EDP+16+Loc
+kwa hima,a hima,ADV+FLX=A+EN=persistently+EDP+17+Loc
+mwa hima,a hima,ADV+FLX=A+EN=persistently+EDP+18+Loc
+wa hima,a hima,ADV+FLX=A+EN=quickly+EDP+1+An
+wa hima,a hima,ADV+FLX=A+EN=quickly+EDP+2+An
+wa hima,a hima,ADV+FLX=A+EN=quickly+EDP+3
+ya hima,a hima,ADV+FLX=A+EN=quickly+EDP+4
+la hima,a hima,ADV+FLX=A+EN=quickly+EDP+5
+ya hima,a hima,ADV+FLX=A+EN=quickly+EDP+6
+cha hima,a hima,ADV+FLX=A+EN=quickly+EDP+7
+vya hima,a hima,ADV+FLX=A+EN=quickly+EDP+8
+ya hima,a hima,ADV+FLX=A+EN=quickly+EDP+9
+za hima,a hima,ADV+FLX=A+EN=quickly+EDP+10
+wa hima,a hima,ADV+FLX=A+EN=quickly+EDP+11
+kwa hima,a hima,ADV+FLX=A+EN=quickly+EDP+15+Inf
+pa hima,a hima,ADV+FLX=A+EN=quickly+EDP+16+Loc
+kwa hima,a hima,ADV+FLX=A+EN=quickly+EDP+17+Loc
+mwa hima,a hima,ADV+FLX=A+EN=quickly+EDP+18+Loc
+hima,hima,ADV+EN=hastily
+hima,hima,ADV+EN=hurriedly
+hima,hima,ADV+EN=quickly
+kwa hima,kwa hima,ADV+EN=quickly
+hivi,hivi,ADV+EN=approximately
+hivi,hivi,ADV+EN=just
+hivi,hivi,ADV+EN=of this sort
+hivi,hivi,ADV+EN=in this way
+hivi,hivi,ADV+EN=thus
+hivi,hivi,ADV+EN=so so
+hivi hivi,hivi hivi,ADV+EN=hastily
+hivi hivi,hivi hivi,ADV+EN=scarcely
+hivi hivi,hivi hivi,ADV+EN=superficially
+hivi hivi tu,hivi hivi tu,ADV+EN=just so so
+hivi karibuni,hivi karibuni,ADV+EN=recently
+hivi karibuni,hivi karibuni,ADV+EN=soon
+hivyo,hivyo,ADV+EN=just so
+hivyo,hivyo,ADV+EN=in this very way
+kwa hivyo,kwa hivyo,ADV+EN=therefore
+hiyo,hiyo,ADV+EN=in this way
+hobela,hobela,ADV+EN=any old way
+hobela,hobela,ADV+EN=badly
+hobela,hobela,ADV+EN=hastily
+hobela,hobela,ADV+EN=somehow or other
+kwa hofu,kwa hofu,ADV+EN=worriedly
+holela,holela,ADV+EN=haphazardly
+holela,holela,ADV+EN=carelessly
+huenda,huenda,ADV+EN=maybe
+huenda,huenda,ADV+EN=perhaps
+huenda,huenda,ADV+EN=possibly
+huko,huko,ADV+EN=here
+huko,huko,ADV+EN=to that place
+huko,huko,ADV+EN=to this place
+huko,huko,ADV+EN=there
+huku,huku,ADV+EN=here (unspecified)
+huku,huku,ADV+EN=hereabouts
+huku,huku,ADV+EN=here
+huku,huku,ADV+EN=to this place
+humo,humo,ADV+EN=here
+humo,humo,ADV+EN=in this place
+humu,humu,ADV+EN=inside here
+humu,humu,ADV+EN=here
+humu,humu,ADV+EN=in this place
+huria,huria,ADV+EN=freely
+husiana,husiana,ADV+EN=according to
+hususa,hususa,ADV+EN=completely
+hususa,hususa,ADV+EN=especially
+hususa,hususa,ADV+EN=exactly
+hususa,hususa,ADV+EN=extremely
+hususa,hususa,ADV+EN=fully
+hususan,hususan,ADV+EN=especially
+huwa,huwa,ADV+EN=ordinarily
+huwa,huwa,ADV+EN=perhaps
+huwa,huwa,ADV+EN=possibly
+huwa,huwa,ADV+EN=as a rule
+huwa,huwa,ADV+EN=usually
+ikhiari,ikhiari,ADV+EN=better
+imaima,imaima,ADV+EN=erect
+imaima,imaima,ADV+EN=head up
+imaima,imaima,ADV+EN=straight
+imaima,imaima,ADV+EN=top
+imaima,imaima,ADV+EN=uppermost
+imaima,imaima,ADV+EN=in an upright position
+imaima,imaima,ADV+EN=vertical
+imara,imara,ADV+EN=firmly
+ina,ina,ADV+EN=certainly
+ina,ina,ADV+EN=positively
+ina,ina,ADV+EN=surely
+ina,ina,ADV+EN=truly
+jadi,jadi,ADV+EN=very much
+jadi,jadi,ADV+EN=exorbitantly
+jamii,jamii,ADV+EN=en masse
+jamii,jamii,ADV+EN=together
+jana,jana,ADV+EN=yesterday
+jana,jana,ADV+EN=previous
+kwa jeuri,kwa jeuri,ADV+EN=arbitrarily
+kwa jeuri,kwa jeuri,ADV+EN=high-handedly
+kwa jeuri,kwa jeuri,ADV+EN=outrageously
+kwa jeuri,kwa jeuri,ADV+EN=obstinately
+jirani,jirani,ADV+EN=close by
+jirani,jirani,ADV+EN=near
+joshi,joshi,ADV+EN=at a gallop
+jumla,jumla,ADV+EN=all together
+jumla,jumla,ADV+EN=as a whole
+kwa jumla,kwa jumla,ADV+EN=altogether
+juu kwa juu,juu kwa juu,ADV+EN=forcefully
+juu kwa juu,juu kwa juu,ADV+EN=intrusively
+juu kwa juu,juu kwa juu,ADV+EN=impolitely
+juu kwa juu,juu kwa juu,ADV+EN=rudely
+juu ya,juu ya,ADV+EN=above
+juu ya,juu ya,ADV+EN=concerning
+juu ya,juu ya,ADV+EN=concerning
+juu ya,juu ya,ADV+EN=on
+juu ya,juu ya,ADV+EN=in respect of
+juujuu,juujuu,ADV+EN=superficially
+juzi hivi,juzi hivi,ADV+EN=recently
+juzi hivi,juzi hivi,ADV+EN=not long ago
+kabisa,kabisa,ADV+EN=totally
+kabisa,kabisa,ADV+EN=absolutely
+kabisa,kabisa,ADV+EN=completely
+kabisa,kabisa,ADV+EN=definitely
+kabisa,kabisa,ADV+EN=extremely
+kabisa,kabisa,ADV+EN=totally
+kabisa,kabisa,ADV+EN=very
+kabla,kabla,ADV+EN=previously
+kabla,kabla,ADV+EN=position in front of
+kabla ya,kabla ya,ADV+EN=before
+kadamnasi,kadamnasi,ADV+EN=in front of people
+kadamnasi,kadamnasi,ADV+EN=in public
+kadamnasi,kadamnasi,ADV+EN=in public
+kadamnasi,kadamnasi,ADV+EN=publicly
+kadamu,kadamu,ADV+EN=before
+kadha ya kadha,kadha ya kadha,ADV+EN=and so on
+kadha ya kadha,kadha ya kadha,ADV+EN=et cetera
+kadhaa,kadhaa,ADV+EN=few
+kadhaa,kadhaa,ADV+EN=several
+kadhaa,kadhaa,ADV+EN=unspecified number
+kadhalika,kadhalika,ADV+EN=et cetera
+kadhalika,kadhalika,ADV+EN=likewise
+kadhalika,kadhalika,ADV+EN=similarly
+kadhalika,kadhalika,ADV+EN=and so on
+kadhalika,kadhalika,ADV+EN=again
+kadhalika,kadhalika,ADV+EN=likewise
+kadhalika,kadhalika,ADV+EN=at the same time
+kadhalika,kadhalika,ADV+EN=similarly
+kwa kadiri,kwa kadiri,ADV+EN=appropriately
+kwa kadiri,kwa kadiri,ADV+EN=on average
+kadiri ya,kadiri ya,ADV+EN=according to
+kadogo,kadogo,ADV+EN=to a very slight extent
+kakakaka,kakakaka,ADV+EN=in a hurry
+kale,kale,ADV+EN=earlier
+kale,kale,ADV+EN=formerly
+kale na kale,kale na kale,ADV+EN=for ever and ever
+kale na kale,kale na kale,ADV+EN=eternal
+kale na kale,kale na kale,ADV+EN=everlasting
+kama,kama,ADV+EN=approximately
+kama nini,kama nini,ADV+EN=extraordinarily
+kamambe,kamambe,ADV+EN=intense
+kamambe,kamambe,ADV+EN=intensive
+kamambe,kamambe,ADV+EN=strong
+kamili,kamili,ADV+EN=completely
+kamwe,kamwe,ADV+EN=at all
+kamwe,kamwe,ADV+EN=ever
+kamwe,kamwe,ADV+EN=in the least
+kamwe,kamwe,ADV+EN=by no means
+kamwe,kamwe,ADV+EN=never
+kamwe,kamwe,ADV+EN=once
+kamwe,kamwe,ADV+EN=absolutely not (at the end of neg.  sentences)
+kamwe,kamwe,ADV+EN=by no means (at the end of neg.  sentences)
+kamwe,kamwe,ADV+EN=never (at the end of neg.  sentences)
+kamwe,kamwe,ADV+EN=not at all (at the end of neg.  sentences)
+kamwe,kamwe,ADV+EN=not at all
+kando,kando,ADV+EN=aside
+kando,kando,ADV+EN=close to
+kando,kando,ADV+EN=next to
+kando,kando,ADV+EN=along
+kando,kando,ADV+EN=by
+kando,kando,ADV+EN=sideways
+kando ya,kando ya,ADV+EN=alongside
+kando ya,kando ya,ADV+EN=by the side
+kandokando,kandokando,ADV+EN=along
+karibu na,karibu na,ADV+EN=nearby
+karibu,karibu,ADV+EN=almost
+karibu,karibu,ADV+EN=nearly
+karibu,karibu,ADV+EN=around
+karibuni,karibuni,ADV+EN=soon
+hivi karibuni,hivi karibuni,ADV+EN=recently
+hivi karibuni,hivi karibuni,ADV+EN=not long ago
+kasa,kasa,ADV+EN=less (than)
+kasa,kasa,ADV+EN=shorter (than)
+kasi,kasi,ADV+EN=forcefully
+kasi,kasi,ADV+EN=hastily
+kasi,kasi,ADV+EN=vehemently
+kasi,kasi,ADV+EN=energetically
+kasi,kasi,ADV+EN=quickly
+kasi,kasi,ADV+EN=speedily
+kasi,kasi,ADV+EN=vigorously
+kasidi,kasidi,ADV+EN=in order to
+kasoro,kasoro,ADV+EN=but
+kasoro,kasoro,ADV+EN=except
+kasoro,kasoro,ADV+EN=less
+katabahu,katabahu,ADV+EN=written by (at the end of letters preceding the signature)
+katakata,katakata,ADV+EN=flatly
+kati,kati,ADV+EN=between
+kati,kati,ADV+EN=in the middle
+katiti,katiti,ADV+EN=very little
+katiti,katiti,ADV+EN=not much
+katu,katu,ADV+EN=by no means
+katu,katu,ADV+EN=not at all
+kwa kawaida,kwa kawaida,ADV+EN=usually
+kwa kawaida,kwa kawaida,ADV+EN=normally
+kwa kawaida,kwa kawaida,ADV+EN=regularly
+kwa kawaida,kwa kawaida,ADV+EN=ordinarily
+kwa kawaida,kwa kawaida,ADV+EN=customarily
+kem,kem,ADV+EN=what amount
+kem,kem,ADV+EN=how many
+kem,kem,ADV+EN=how much
+kem kem,kem kem,ADV+EN=a lot of
+kenyekenye,kenyekenye,ADV+EN=absolutely
+kenyekenye,kenyekenye,ADV+EN=complete
+kenyekenye,kenyekenye,ADV+EN=unconditionally
+kesha kazi,kesha kazi,ADV+EN=completely
+kesho,kesho,ADV+EN=tomorrow
+kesho yake,kesho yake,ADV+EN=the next day
+kesho kutwa,kesho kutwa,ADV+EN=day after tomorrow
+keshoye,keshoye,ADV+EN=the next day
+kiada,kiada,ADV+EN=distinctly
+kiada,kiada,ADV+EN=schematically
+kiada,kiada,ADV+EN=orderly
+kiada,kiada,ADV+EN=carefully
+kiada,kiada,ADV+EN=customarily
+Kiafrika,Kiafrika,ADV+EN=African manner
+Kiafrika,Kiafrika,ADV+EN=African way
+Kiajemi,Kiajemi,ADV+EN=in the Persian manner
+Kiarabu,Kiarabu,ADV+EN=in the Arab manner
+kiasi cha,kiasi cha,ADV+EN=amount of
+kiasi cha,kiasi cha,ADV+EN=approximately
+kwa kiasi,kwa kiasi,ADV+EN=moderately
+kwa kiasi,kwa kiasi,ADV+EN=temperately
+kwa kiasi,kwa kiasi,ADV+EN=appropriate to
+kiasi,kiasi,ADV+EN=a little
+kiasi,kiasi,ADV+EN=somewhat
+kiasi,kiasi,ADV+EN=for a short time
+wa kiasili,a kiasili,ADV+FLX=A+EN=ancestral+EDP+1+An
+wa kiasili,a kiasili,ADV+FLX=A+EN=ancestral+EDP+2+An
+wa kiasili,a kiasili,ADV+FLX=A+EN=ancestral+EDP+3
+ya kiasili,a kiasili,ADV+FLX=A+EN=ancestral+EDP+4
+la kiasili,a kiasili,ADV+FLX=A+EN=ancestral+EDP+5
+ya kiasili,a kiasili,ADV+FLX=A+EN=ancestral+EDP+6
+cha kiasili,a kiasili,ADV+FLX=A+EN=ancestral+EDP+7
+vya kiasili,a kiasili,ADV+FLX=A+EN=ancestral+EDP+8
+ya kiasili,a kiasili,ADV+FLX=A+EN=ancestral+EDP+9
+za kiasili,a kiasili,ADV+FLX=A+EN=ancestral+EDP+10
+wa kiasili,a kiasili,ADV+FLX=A+EN=ancestral+EDP+11
+kwa kiasili,a kiasili,ADV+FLX=A+EN=ancestral+EDP+15+Inf
+pa kiasili,a kiasili,ADV+FLX=A+EN=ancestral+EDP+16+Loc
+kwa kiasili,a kiasili,ADV+FLX=A+EN=ancestral+EDP+17+Loc
+mwa kiasili,a kiasili,ADV+FLX=A+EN=ancestral+EDP+18+Loc
+wa kiasili,a kiasili,ADV+FLX=A+EN=original way+EDP+1+An
+wa kiasili,a kiasili,ADV+FLX=A+EN=original way+EDP+2+An
+wa kiasili,a kiasili,ADV+FLX=A+EN=original way+EDP+3
+ya kiasili,a kiasili,ADV+FLX=A+EN=original way+EDP+4
+la kiasili,a kiasili,ADV+FLX=A+EN=original way+EDP+5
+ya kiasili,a kiasili,ADV+FLX=A+EN=original way+EDP+6
+cha kiasili,a kiasili,ADV+FLX=A+EN=original way+EDP+7
+vya kiasili,a kiasili,ADV+FLX=A+EN=original way+EDP+8
+ya kiasili,a kiasili,ADV+FLX=A+EN=original way+EDP+9
+za kiasili,a kiasili,ADV+FLX=A+EN=original way+EDP+10
+wa kiasili,a kiasili,ADV+FLX=A+EN=original way+EDP+11
+kwa kiasili,a kiasili,ADV+FLX=A+EN=original way+EDP+15+Inf
+pa kiasili,a kiasili,ADV+FLX=A+EN=original way+EDP+16+Loc
+kwa kiasili,a kiasili,ADV+FLX=A+EN=original way+EDP+17+Loc
+mwa kiasili,a kiasili,ADV+FLX=A+EN=original way+EDP+18+Loc
+wa kiasili,a kiasili,ADV+FLX=A+EN=traditional+EDP+1+An
+wa kiasili,a kiasili,ADV+FLX=A+EN=traditional+EDP+2+An
+wa kiasili,a kiasili,ADV+FLX=A+EN=traditional+EDP+3
+ya kiasili,a kiasili,ADV+FLX=A+EN=traditional+EDP+4
+la kiasili,a kiasili,ADV+FLX=A+EN=traditional+EDP+5
+ya kiasili,a kiasili,ADV+FLX=A+EN=traditional+EDP+6
+cha kiasili,a kiasili,ADV+FLX=A+EN=traditional+EDP+7
+vya kiasili,a kiasili,ADV+FLX=A+EN=traditional+EDP+8
+ya kiasili,a kiasili,ADV+FLX=A+EN=traditional+EDP+9
+za kiasili,a kiasili,ADV+FLX=A+EN=traditional+EDP+10
+wa kiasili,a kiasili,ADV+FLX=A+EN=traditional+EDP+11
+kwa kiasili,a kiasili,ADV+FLX=A+EN=traditional+EDP+15+Inf
+pa kiasili,a kiasili,ADV+FLX=A+EN=traditional+EDP+16+Loc
+kwa kiasili,a kiasili,ADV+FLX=A+EN=traditional+EDP+17+Loc
+mwa kiasili,a kiasili,ADV+FLX=A+EN=traditional+EDP+18+Loc
+kwa kiasili,kwa kiasili,ADV+EN=originally
+kwa kiasili,kwa kiasili,ADV+EN=traditionally
+kibavu,kibavu,ADV+EN=on the side
+kibavu,kibavu,ADV+EN=sideways
+kibaya,kibaya,ADV+EN=bad
+kibaya,kibaya,ADV+EN=wrong
+Kichagga,Kichagga,ADV+EN=in the Chagga manner
+kichali,kichali,ADV+EN=backwards
+kichali,kichali,ADV+EN=on the back
+kichanga,kichanga,ADV+EN=sandy
+kichele,kichele,ADV+EN=nakedly
+kichele,kichele,ADV+EN=barely
+kichele,kichele,ADV+EN=baldly
+kichele,kichele,ADV+EN=transparent
+kichele,kichele,ADV+EN=transparently
+kichele,kichele,ADV+EN=clearly
+kichele,kichele,ADV+EN=plainly
+kichinichini,kichinichini,ADV+EN=underhandedly
+kichinichini,kichinichini,ADV+EN=secretively
+kichinichini,kichinichini,ADV+EN=disingenuously
+kichinichini,kichinichini,ADV+EN=stealthily
+kichokozi,kichokozi,ADV+EN=inquisitively
+kichungu,kichungu,ADV+EN=sharply
+kichungu,kichungu,ADV+EN=bitterly
+kichungu,kichungu,ADV+EN=caustically
+kichwa kichwa,kichwa kichwa,ADV+EN=head over heels
+kichwa kichwa,kichwa kichwa,ADV+EN=headlong
+Kidachi,Kidachi,ADV+EN=in the German manner
+kidemokrasia,kidemokrasia,ADV+EN=democratically
+kidete,kidete,ADV+EN=firmly
+kidete,kidete,ADV+EN=solidly
+kidogo,kidogo,ADV+EN=few
+kidogo,kidogo,ADV+EN=a little
+kidogo,kidogo,ADV+EN=not much
+kidogo,kidogo,ADV+EN=some
+kidogo kidogo,kidogo kidogo,ADV+EN=gradually
+kidogo kidogo,kidogo kidogo,ADV+EN=little by little
+kidugu,kidugu,ADV+EN=in a brotherly manner
+kidume,kidume,ADV+EN=in a manful way
+kidume,kidume,ADV+EN=manfully
+kienyeji,kienyeji,ADV+EN=native way
+kifalme,kifalme,ADV+EN=royally
+Kifaransa,Kifaransa,ADV+EN=in the French manner
+kifichoficho,kifichoficho,ADV+EN=in secret
+kifichoficho,kifichoficho,ADV+EN=stealthily
+kifisifisi,kifisifisi,ADV+EN=like a hyena
+kifisifisi,kifisifisi,ADV+EN=secretly
+kifisifisi,kifisifisi,ADV+EN=surreptitiously
+kifu,kifu,ADV+EN=as if dead
+kifungoni,kifungoni,ADV+EN=imprisoned
+kifungoni,kifungoni,ADV+EN=in prison
+kifupi,kifupi,ADV+EN=in brief
+kifupi,kifupi,ADV+EN=briefly
+kifurifuri,kifurifuri,ADV+EN=brimming over
+kifurifuri,kifurifuri,ADV+EN=full
+Kiganda,Kiganda,ADV+EN=in a Ugandan manner
+kigogo,kigogo,ADV+EN=sleep very soundly
+kigugu,kigugu,ADV+EN=in confusion
+kigugu,kigugu,ADV+EN=weedlike
+kigugu,kigugu,ADV+EN=wild
+kiguu na njia,kiguu na njia,ADV+EN=walking
+kiinsha,kiinsha,ADV+EN=by means of an essay
+kiisha,kiisha,ADV+EN=thereafter
+kiisha,kiisha,ADV+EN=thereafter
+kijani,kijani,ADV+EN=like grass
+Kijapani,Kijapani,ADV+EN=in the Japanese manner
+Kijerumani,Kijerumani,ADV+EN=in the German manner
+kijivi,kijivi,ADV+EN=underhandedly
+kijivi,kijivi,ADV+EN=thievishly
+wa kijivu,a kijivu,ADV+FLX=A+EN=ashen+EDP+1+An
+wa kijivu,a kijivu,ADV+FLX=A+EN=ashen+EDP+2+An
+wa kijivu,a kijivu,ADV+FLX=A+EN=ashen+EDP+3
+ya kijivu,a kijivu,ADV+FLX=A+EN=ashen+EDP+4
+la kijivu,a kijivu,ADV+FLX=A+EN=ashen+EDP+5
+ya kijivu,a kijivu,ADV+FLX=A+EN=ashen+EDP+6
+cha kijivu,a kijivu,ADV+FLX=A+EN=ashen+EDP+7
+vya kijivu,a kijivu,ADV+FLX=A+EN=ashen+EDP+8
+ya kijivu,a kijivu,ADV+FLX=A+EN=ashen+EDP+9
+za kijivu,a kijivu,ADV+FLX=A+EN=ashen+EDP+10
+wa kijivu,a kijivu,ADV+FLX=A+EN=ashen+EDP+11
+kwa kijivu,a kijivu,ADV+FLX=A+EN=ashen+EDP+15+Inf
+pa kijivu,a kijivu,ADV+FLX=A+EN=ashen+EDP+16+Loc
+kwa kijivu,a kijivu,ADV+FLX=A+EN=ashen+EDP+17+Loc
+mwa kijivu,a kijivu,ADV+FLX=A+EN=ashen+EDP+18+Loc
+kijizi,kijizi,ADV+EN=in a sneaking manner
+kijizi,kijizi,ADV+EN=underhandedly
+kijogoo,kijogoo,ADV+EN=like cocks
+kijogoo,kijogoo,ADV+EN=like roosters
+kijuujuu,kijuujuu,ADV+EN=above
+kijuujuu,kijuujuu,ADV+EN=superficially
+kijuujuu,kijuujuu,ADV+EN=on top
+kijuujuu,kijuujuu,ADV+EN=up
+kijuujuu,kijuujuu,ADV+EN=upwards
+kikambo,kikambo,ADV+EN=like a stepparent
+kikamilifu,kikamilifu,ADV+EN=accurately
+kikamilifu,kikamilifu,ADV+EN=adequately
+kikamilifu,kikamilifu,ADV+EN=completely
+kikamilifu,kikamilifu,ADV+EN=precisely
+kikariri,kikariri,ADV+EN=again
+kikariri,kikariri,ADV+EN=over and over
+kikariri,kikariri,ADV+EN=repeatedly
+kikariri,kikariri,ADV+EN=for the umpteenth time
+kikiki,kikiki,ADV+EN=firmly
+kikiki,kikiki,ADV+EN=tightly
+kikombo,kikombo,ADV+EN=in a bent way
+kikombo,kikombo,ADV+EN=in a curved way
+kikombo,kikombo,ADV+EN=crookedly
+kikombo,kikombo,ADV+EN=unintelligibly
+kikondoo,kikondoo,ADV+EN=like a sheep
+kikondoo,kikondoo,ADV+EN=unresistingly
+kikondoo,kikondoo,ADV+EN=patiently
+kikondoo,kikondoo,ADV+EN=meekly
+kikuukuu,kikuukuu,ADV+EN=uselessly
+kikuukuu,kikuukuu,ADV+EN=worthlessly
+kikwata,kikwata,ADV+EN=on foot
+kila,kila,ADV+EN=ever
+kimacho,kimacho,ADV+EN=alert
+kimacho,kimacho,ADV+EN=watchful
+kimagamaga,kimagamaga,ADV+EN=very fast
+kimagamaga,kimagamaga,ADV+EN=in a hurry
+kimbio,kimbio,ADV+EN=on the double
+kimbio,kimbio,ADV+EN=hastily
+kimbio,kimbio,ADV+EN=hurriedly
+kimbio,kimbio,ADV+EN=quickly
+kimbio,kimbio,ADV+EN=at full speed
+kimbiombio,kimbiombio,ADV+EN=quickly
+kimoyomoyo,kimoyomoyo,ADV+EN=inwardly
+kimoyomoyo,kimoyomoyo,ADV+EN=silently
+kimoyomoyo,kimoyomoyo,ADV+EN=secretly
+kimoyomoyo,kimoyomoyo,ADV+EN=by heart
+kimwili,kimwili,ADV+EN=carnally
+kimwili,kimwili,ADV+EN=sexually
+wa kimwitu,a kimwitu,ADV+FLX=A+EN=of the jungle+EDP+1+An
+wa kimwitu,a kimwitu,ADV+FLX=A+EN=of the jungle+EDP+2+An
+wa kimwitu,a kimwitu,ADV+FLX=A+EN=of the jungle+EDP+3
+ya kimwitu,a kimwitu,ADV+FLX=A+EN=of the jungle+EDP+4
+la kimwitu,a kimwitu,ADV+FLX=A+EN=of the jungle+EDP+5
+ya kimwitu,a kimwitu,ADV+FLX=A+EN=of the jungle+EDP+6
+cha kimwitu,a kimwitu,ADV+FLX=A+EN=of the jungle+EDP+7
+vya kimwitu,a kimwitu,ADV+FLX=A+EN=of the jungle+EDP+8
+ya kimwitu,a kimwitu,ADV+FLX=A+EN=of the jungle+EDP+9
+za kimwitu,a kimwitu,ADV+FLX=A+EN=of the jungle+EDP+10
+wa kimwitu,a kimwitu,ADV+FLX=A+EN=of the jungle+EDP+11
+kwa kimwitu,a kimwitu,ADV+FLX=A+EN=of the jungle+EDP+15+Inf
+pa kimwitu,a kimwitu,ADV+FLX=A+EN=of the jungle+EDP+16+Loc
+kwa kimwitu,a kimwitu,ADV+FLX=A+EN=of the jungle+EDP+17+Loc
+mwa kimwitu,a kimwitu,ADV+FLX=A+EN=of the jungle+EDP+18+Loc
+wa kimwitu,a kimwitu,ADV+FLX=A+EN=wild+EDP+1+An
+wa kimwitu,a kimwitu,ADV+FLX=A+EN=wild+EDP+2+An
+wa kimwitu,a kimwitu,ADV+FLX=A+EN=wild+EDP+3
+ya kimwitu,a kimwitu,ADV+FLX=A+EN=wild+EDP+4
+la kimwitu,a kimwitu,ADV+FLX=A+EN=wild+EDP+5
+ya kimwitu,a kimwitu,ADV+FLX=A+EN=wild+EDP+6
+cha kimwitu,a kimwitu,ADV+FLX=A+EN=wild+EDP+7
+vya kimwitu,a kimwitu,ADV+FLX=A+EN=wild+EDP+8
+ya kimwitu,a kimwitu,ADV+FLX=A+EN=wild+EDP+9
+za kimwitu,a kimwitu,ADV+FLX=A+EN=wild+EDP+10
+wa kimwitu,a kimwitu,ADV+FLX=A+EN=wild+EDP+11
+kwa kimwitu,a kimwitu,ADV+FLX=A+EN=wild+EDP+15+Inf
+pa kimwitu,a kimwitu,ADV+FLX=A+EN=wild+EDP+16+Loc
+kwa kimwitu,a kimwitu,ADV+FLX=A+EN=wild+EDP+17+Loc
+mwa kimwitu,a kimwitu,ADV+FLX=A+EN=wild+EDP+18+Loc
+kimwitu,kimwitu,ADV+EN=in a wild uncultivated manner
+kimya,kimya,ADV+EN=quietly
+kimya,kimya,ADV+EN=silently
+kimya,kimya,ADV+EN=calmly
+kinadhifu,kinadhifu,ADV+EN=neatly
+kinaga-ubaga,kinaga-ubaga,ADV+EN=frankly
+kinaga-ubaga,kinaga-ubaga,ADV+EN=openly
+kinaga-ubaga,kinaga-ubaga,ADV+EN=plainly
+kinaganaga,kinaganaga,ADV+EN=in detail
+kinaganaga,kinaganaga,ADV+EN=frankly
+kinaganaga,kinaganaga,ADV+EN=oneself
+kinaganaga,kinaganaga,ADV+EN=openly
+kinaganaga,kinaganaga,ADV+EN=personally
+kinaganaga,kinaganaga,ADV+EN=plainly
+kinaganaga,kinaganaga,ADV+EN=thoroughly
+kindakindaki,kindakindaki,ADV+EN=above
+kindakindaki,kindakindaki,ADV+EN=aloft
+kindakindaki,kindakindaki,ADV+EN=aristocratic
+kindakindaki,kindakindaki,ADV+EN=of noble birth
+kindakindaki,kindakindaki,ADV+EN=upwards
+kindanindani,kindanindani,ADV+EN=furtively
+kindanindani,kindanindani,ADV+EN=secretly
+kindanindani,kindanindani,ADV+EN=surreptitiously
+kindugu,kindugu,ADV+EN=as comrades
+kingalingali,kingalingali,ADV+EN=backwards
+kingalingali,kingalingali,ADV+EN=on the back (face upwards)
+Kingazija,Kingazija,ADV+EN=in a Comoran manner
+kingoringori,kingoringori,ADV+EN=lengthwise
+kingoringori,kingoringori,ADV+EN=longitudinally
+Kinubi,Kinubi,ADV+EN=in a Nubian manner
+kinyemela,kinyemela,ADV+EN=quietly
+kinyemela,kinyemela,ADV+EN=secretly
+kinyemi,kinyemi,ADV+EN=well
+kinyemi,kinyemi,ADV+EN=pleasantly
+kinyerenyere,kinyerenyere,ADV+EN=calmly
+kinyerenyere,kinyerenyere,ADV+EN=gently
+kinyerenyere,kinyerenyere,ADV+EN=slowly
+kinyong'onyo,kinyong'onyo,ADV+EN=weakly
+kinyong'onyo,kinyong'onyo,ADV+EN=wearily
+kinyonge,kinyonge,ADV+EN=miserably
+kinyonge,kinyonge,ADV+EN=wretchedly
+kinyume,kinyume,ADV+EN=backwards
+kinyume,kinyume,ADV+EN=behind
+kinyume cha,kinyume cha,ADV+EN=opposite of
+kwa kinywa,kwa kinywa,ADV+EN=orally
+kiomo,kiomo,ADV+EN=straight ahead
+kipindi,kipindi,ADV+EN=for the time being
+kipindupindu,kipindupindu,ADV+EN=head over heels
+kipindupindu,kipindupindu,ADV+EN=headlong
+kipofu,kipofu,ADV+EN=blindly
+kipofu,kipofu,ADV+EN=heedlessly
+kipofu,kipofu,ADV+EN=recklessly
+kipokee,kipokee,ADV+EN=alternately
+kipokee,kipokee,ADV+EN=in succession
+kipokee,kipokee,ADV+EN=by turns
+kipua,kipua,ADV+EN=through the nose
+kipua,kipua,ADV+EN=nasally
+kipuku,kipuku,ADV+EN=in abundance
+kipuku,kipuku,ADV+EN=in great quantity
+kirafiki,kirafiki,ADV+EN=in a friendly manner
+kiraia,kiraia,ADV+EN=as a citizen
+kiraia,kiraia,ADV+EN=like a citizen
+kirembo,kirembo,ADV+EN=elegantly
+Kireno,Kireno,ADV+EN=in the Portuguese manner
+Kiromania,Kiromania,ADV+EN=in a Romanian manner
+Kirumi,Kirumi,ADV+EN=in a Roman manner
+Kirusi,Kirusi,ADV+EN=in a Russian manner
+kisaki,kisaki,ADV+EN=firmly
+kisaki,kisaki,ADV+EN=tightly
+kisengesenge,kisengesenge,ADV+EN=forward and backward like a crab
+kiisha,kiisha,ADV+EN=afterwards
+kiisha,kiisha,ADV+EN=then
+kisha,kisha,ADV+EN=afterwards
+kisha,kisha,ADV+EN=then
+kisha,kisha,ADV+EN=thereafter
+kishenzi,kishenzi,ADV+EN=in a barbarous way
+kishenzi,kishenzi,ADV+EN=in a savage way
+kisiasa,kisiasa,ADV+EN=politically
+kisikusiku,kisikusiku,ADV+EN=at night
+kisikusiku,kisikusiku,ADV+EN=in the nighttime
+kisiri,kisiri,ADV+EN=secretly
+kisiri,kisiri,ADV+EN=covertly
+Kiswahili,Kiswahili,ADV+EN=in a Swahili manner
+kiteolojia,kiteolojia,ADV+EN=theologically
+kititi,kititi,ADV+EN=vertically
+kitongo,kitongo,ADV+EN=sideways
+kitongo,kitongo,ADV+EN=from the side
+kitongo,kitongo,ADV+EN=obliquely
+kitongo,kitongo,ADV+EN=diagonally
+kitongo,kitongo,ADV+EN=on a slant
+kitumwa,kitumwa,ADV+EN=servilely
+kitumwa,kitumwa,ADV+EN=slavishly
+Kituruki,Kituruki,ADV+EN=in a Turkish manner
+Kiunguja,Kiunguja,ADV+EN=in the manner usual in Zanzibar
+kiungwana,kiungwana,ADV+EN=with class
+kiungwana,kiungwana,ADV+EN=smartly
+kiungwana,kiungwana,ADV+EN=in a well-bred manner
+kiungwana,kiungwana,ADV+EN=in a well-bred manner
+kivinyovinyo,kivinyovinyo,ADV+EN=tremblingly
+kivivu,kivivu,ADV+EN=in a lazy manner
+kivivu,kivivu,ADV+EN=in a bored manner
+kivivu,kivivu,ADV+EN=in an indolent manner
+kiwafuwafu,kiwafuwafu,ADV+EN=sideways
+kiwete,kiwete,ADV+EN=in a limping way
+kiwete,kiwete,ADV+EN=like a cripple
+kiwimawima,kiwimawima,ADV+EN=erect
+kiwimawima,kiwimawima,ADV+EN=head up
+kiwimawima,kiwimawima,ADV+EN=straight
+kiwimawima,kiwimawima,ADV+EN=top
+kiwimawima,kiwimawima,ADV+EN=uppermost
+kiwimawima,kiwimawima,ADV+EN=in an upright position
+kiwimawima,kiwimawima,ADV+EN=vertical
+Kiyahudi,Kiyahudi,ADV+EN=in the Jewish manner
+kizamani,kizamani,ADV+EN=earlier
+kizamani,kizamani,ADV+EN=in an earlier way
+kizamani,kizamani,ADV+EN=formerly
+kizembe,kizembe,ADV+EN=in an idle manner
+kizembe,kizembe,ADV+EN=in an indolent
+kizembe,kizembe,ADV+EN=in an negligent manner
+Kizungu,Kizungu,ADV+EN=in the European manner
+kochokochoko,kochokochoko,ADV+EN=in great abundance
+kochokochoko,kochokochoko,ADV+EN=number less
+kombo,kombo,ADV+EN=bend
+kombo,kombo,ADV+EN=crookedness
+kombo,kombo,ADV+EN=curve
+kombo,kombo,ADV+EN=hook
+kombo,kombo,ADV+EN=twist
+kombo,kombo,ADV+EN=wrong
+koro,koro,ADV+EN=altogether
+koro,koro,ADV+EN=throughout
+kosakosa,kosakosa,ADV+EN=almost
+kosakosa,kosakosa,ADV+EN=nearly
+kote,kote,ADV+EN=always
+kote,kote,ADV+EN=everywhere
+kufikia,kufikia,ADV+EN=until
+kufuatana na,kufuatana na,ADV+EN=according to
+kufumba na kufumbua,kufumba na kufumbua,ADV+EN=at once
+kufumba na kufumbua,kufumba na kufumbua,ADV+EN=suddenly
+kuhusu,kuhusu,ADV+EN=about
+kwa kujua,kwa kujua,ADV+EN=intentionally
+kwa kujua,kwa kujua,ADV+EN=on purpose
+kuko,kuko,ADV+EN=in that place
+kuko,kuko,ADV+EN=to that place
+kuko,kuko,ADV+EN=there
+kuku huku,kuku huku,ADV+EN=in that very place
+kuku huku,kuku huku,ADV+EN=right there
+kule,kule,ADV+EN=in that place
+kule,kule,ADV+EN=to that place
+kule,kule,ADV+EN=in that place
+kule,kule,ADV+EN=there (at a distance)
+kule,kule,ADV+EN=there
+kulihali,kulihali,ADV+EN=in any case
+kulihali,kulihali,ADV+EN=in all events
+kululu,kululu,ADV+EN=something of little value
+kululu,kululu,ADV+EN=bupkiss
+kumbe,kumbe,ADV+EN=but
+kumbe,kumbe,ADV+EN=instead
+kwa kupitia,kwa kupitia,ADV+EN=by means of
+kupukupu,kupukupu,ADV+EN=excessively
+kupukupu,kupukupu,ADV+EN=in torrents
+kusini,kusini,ADV+EN=south
+kwa kusudi,kwa kusudi,ADV+EN=intentionally
+kusudi,kusudi,ADV+EN=on purpose
+kusudi,kusudi,ADV+EN=in order to
+kutahamaki,kutahamaki,ADV+EN=suddenly
+kutahamaki,kutahamaki,ADV+EN=unexpectedly
+kutwa,kutwa,ADV+EN=all day
+kuukeni,kuukeni,ADV+EN=in the female line
+kuumeni,kuumeni,ADV+EN=in the male line
+kuwili,kuwili,ADV+EN=double sided
+kuwili,kuwili,ADV+EN=in two ways
+kuwili,kuwili,ADV+EN=two-sided
+kwa kujua,kwa kujua,ADV+EN=deliberately
+kwa nini,kwa nini,ADV+EN=why
+kwaje,kwaje,ADV+EN=why
+kwanza,kwanza,ADV+EN=first
+kwanza,kwanza,ADV+EN=at first
+kwanza,kwanza,ADV+EN=in the beginning
+kwa kweli,kwa kweli,ADV+EN=frankly
+kwa kweli,kwa kweli,ADV+EN=honestly
+kwa kweli,kwa kweli,ADV+EN=truly
+kwa kweli,kwa kweli,ADV+EN=in truth
+kweli,kweli,ADV+EN=honestly
+kweli,kweli,ADV+EN=indeed
+kweli,kweli,ADV+EN=really
+kwa kwikwi,kwa kwikwi,ADV+EN=sobbing convulsively
+kwa kwikwi,kwa kwikwi,ADV+EN=tearfully
+kwingineko,kwingineko,ADV+EN=elsewhere
+kwisha,kwisha,ADV+EN=subsequently
+kwisha,kwisha,ADV+EN=then
+labda,labda,ADV+EN=maybe
+labda,labda,ADV+EN=perhaps
+labda,labda,ADV+EN=possibly
+labda,labda,ADV+EN=probably
+labuda,labuda,ADV+EN=perhaps
+labuda,labuda,ADV+EN=possibly
+labuda,labuda,ADV+EN=probably
+launilauni,launilauni,ADV+EN=different
+lazima,lazima,ADV+EN=irrevocably
+leo,leo,ADV+EN=today
+lopoka,lopoka,ADV+EN=speak without thinking
+lopoka,lopoka,ADV+EN=talk nonsense
+maalum,maalum,ADV+EN=certainly
+maalum,maalum,ADV+EN=definitely
+maalum,maalum,ADV+EN=permanently
+maalum,maalum,ADV+EN=regularly
+maalumu,maalumu,ADV+EN=certainly
+maalumu,maalumu,ADV+EN=definitely
+maalumu,maalumu,ADV+EN=permanently
+maalumu,maalumu,ADV+EN=regularly
+madhubuti,madhubuti,ADV+EN=carefully
+madhubuti,madhubuti,ADV+EN=firm
+madhubuti,madhubuti,ADV+EN=precisely
+madhubuti,madhubuti,ADV+EN=reliable
+wa mafamba,a mafamba,ADV+FLX=A+EN=at random+EDP+1+An
+wa mafamba,a mafamba,ADV+FLX=A+EN=at random+EDP+2+An
+wa mafamba,a mafamba,ADV+FLX=A+EN=at random+EDP+3
+ya mafamba,a mafamba,ADV+FLX=A+EN=at random+EDP+4
+la mafamba,a mafamba,ADV+FLX=A+EN=at random+EDP+5
+ya mafamba,a mafamba,ADV+FLX=A+EN=at random+EDP+6
+cha mafamba,a mafamba,ADV+FLX=A+EN=at random+EDP+7
+vya mafamba,a mafamba,ADV+FLX=A+EN=at random+EDP+8
+ya mafamba,a mafamba,ADV+FLX=A+EN=at random+EDP+9
+za mafamba,a mafamba,ADV+FLX=A+EN=at random+EDP+10
+wa mafamba,a mafamba,ADV+FLX=A+EN=at random+EDP+11
+kwa mafamba,a mafamba,ADV+FLX=A+EN=at random+EDP+15+Inf
+pa mafamba,a mafamba,ADV+FLX=A+EN=at random+EDP+16+Loc
+kwa mafamba,a mafamba,ADV+FLX=A+EN=at random+EDP+17+Loc
+mwa mafamba,a mafamba,ADV+FLX=A+EN=at random+EDP+18+Loc
+kwa mahadhi,kwa mahadhi,ADV+EN=respectfully
+mahonyo,mahonyo,ADV+EN=free
+mahonyo,mahonyo,ADV+EN=gratis
+mahonyo,mahonyo,ADV+EN=for nothing
+mahsusi,mahsusi,ADV+EN=especially
+majuzi,majuzi,ADV+EN=a few days ago
+majuzi,majuzi,ADV+EN=recently
+majuzi,majuzi,ADV+EN=not long ago
+makataa,makataa,ADV+EN=definitely
+makataa,makataa,ADV+EN=categorically
+makataa,makataa,ADV+EN=firmly
+makataa,makataa,ADV+EN=resolutely
+kwa makini,kwa makini,ADV+EN=careful
+kwa makini,kwa makini,ADV+EN=carefully
+makundi makundi,makundi makundi,ADV+EN=in large groups
+makundi makundi,makundi makundi,ADV+EN=in crowds
+makusudi,makusudi,ADV+EN=deliberately
+makusudi,makusudi,ADV+EN=specially
+kwa mamia,kwa mamia,ADV+EN=by the hundreds
+mamoja,mamoja,ADV+EN=all alike
+mamoja,mamoja,ADV+EN=immaterial
+mamoja,mamoja,ADV+EN=all one
+mamoja,mamoja,ADV+EN=all the same
+mamoja,mamoja,ADV+EN=all the same
+mamoja,mamoja,ADV+EN=one and the same
+mang'ungumu,mang'ungumu,ADV+EN=confidentially
+mang'ungumu,mang'ungumu,ADV+EN=surreptitiously
+mapema,mapema,ADV+EN=early
+mapema,mapema,ADV+EN=early in good time
+mara,mara,ADV+EN=immediately
+mara,mara,ADV+EN=at once
+mara,mara,ADV+EN=once
+mara,mara,ADV+EN=suddenly
+mara,mara,ADV+EN=unexpectedly
+mara hii,mara hii,ADV+EN=at once
+mara hii,mara hii,ADV+EN=so soon
+mara hii,mara hii,ADV+EN=this time
+mara ile,mara ile,ADV+EN=at once
+mara ile,mara ile,ADV+EN=that time
+mara ile,mara ile,ADV+EN=this time
+mara moja,mara moja,ADV+EN=immediately
+mara moja,mara moja,ADV+EN=at once
+mara tu,mara tu,ADV+EN=as soon as
+maradufu,maradufu,ADV+EN=twice
+maradufu,maradufu,ADV+EN=doubly
+maridhawa,maridhawa,ADV+EN=profusion
+masalan,masalan,ADV+EN=for example
+masalan,masalan,ADV+EN=for example
+kati ya mataifa,kati ya mataifa,ADV+EN=international
+kwa matao,kwa matao,ADV+EN=proudly
+kwa matao ya chini,kwa matao ya chini,ADV+EN=with compassion
+kwa matao ya chini,kwa matao ya chini,ADV+EN=humbly
+kwa matao ya chini,kwa matao ya chini,ADV+EN=modestly
+mathalan,mathalan,ADV+EN=for example
+mathalani,mathalani,ADV+EN=for example
+mbali,mbali,ADV+EN=aloof
+mbali,mbali,ADV+EN=completely
+mbali,mbali,ADV+EN=at a distance
+mbali,mbali,ADV+EN=distant
+mbali,mbali,ADV+EN=entirely
+mbali,mbali,ADV+EN=far
+mbali,mbali,ADV+EN=from a distance
+mbali,mbali,ADV+EN=for a long time
+mbali,mbali,ADV+EN=long since
+mbali,mbali,ADV+EN=remote
+mbali,mbali,ADV+EN=utterly
+mbaroni,mbaroni,ADV+EN=in custody
+mbele,mbele,ADV+EN=in front
+mbele,mbele,ADV+EN=forward
+mbele,mbele,ADV+EN=further
+mbele,mbele,ADV+EN=beyond
+mbele,mbele,ADV+EN=before
+mbele,mbele,ADV+EN=earlier
+mbele,mbele,ADV+EN=previously
+mbele,mbele,ADV+EN=long ago
+mbele,mbele,ADV+EN=later
+mbele,mbele,ADV+EN=subsequently
+mbele,mbele,ADV+EN=in the future
+mbele,mbele,ADV+EN=on the other hand
+mbele,mbele,ADV+EN=on the contrary
+mbona,mbona,ADV+EN=why
+mbona,mbona,ADV+EN=how
+methalan,methalan,ADV+EN=for example
+mfululizo,mfululizo,ADV+EN=successively
+mfululizo,mfululizo,ADV+EN=one after the other
+mfululizo,mfululizo,ADV+EN=unceasingly
+mfululizo,mfululizo,ADV+EN=continuously
+mfululizo,mfululizo,ADV+EN=without a break
+mfululizo,mfululizo,ADV+EN=respectively
+kwa miguu,kwa miguu,ADV+EN=by foot
+milele,milele,ADV+EN=always
+milele,milele,ADV+EN=constantly
+miongoni,miongoni,ADV+EN=among
+mithili,mithili,ADV+EN=like
+mithili,mithili,ADV+EN=similarly
+mkabala,mkabala,ADV+EN=on the contrary
+mkabala,mkabala,ADV+EN=face to face
+mkataa,mkataa,ADV+EN=definitely
+mkataa,mkataa,ADV+EN=finally
+mkataa,mkataa,ADV+EN=irrevocably
+mkataa,mkataa,ADV+EN=unalterably
+mnamo,mnamo,ADV+EN=at about
+mnamo,mnamo,ADV+EN=approximately
+mnamo,mnamo,ADV+EN=by
+mnamo,mnamo,ADV+EN=within (time period)
+mno,mno,ADV+EN=more than enough
+mno,mno,ADV+EN=especially
+mno,mno,ADV+EN=excessively (Sometimes used in conjunction with other words of similar senses)
+mno,mno,ADV+EN=extremely
+mno,mno,ADV+EN=inordinately
+mno,mno,ADV+EN=too much
+mno,mno,ADV+EN=unusually
+mno,mno,ADV+EN=very
+moto mmoja,moto mmoja,ADV+EN=incessantly
+kwa moyo,kwa moyo,ADV+EN=with heart
+mradi,mradi,ADV+EN=intentionally
+msago,msago,ADV+EN=continuously
+msago,msago,ADV+EN=without interruption
+msago,msago,ADV+EN=continuously
+mtawalia,mtawalia,ADV+EN=continuously
+mtawalia,mtawalia,ADV+EN=persistently
+mtawalia,mtawalia,ADV+EN=respectively
+mtawalia,mtawalia,ADV+EN=consecutively
+mtawalia,mtawalia,ADV+EN=in succession
+mteo,mteo,ADV+EN=by boiling
+mtindo mmoja,mtindo mmoja,ADV+EN=continuously
+mtindo mmoja,mtindo mmoja,ADV+EN=straight on
+kwa muda kidogo,kwa muda kidogo,ADV+EN=for a little while
+muda si muda,muda si muda,ADV+EN=suddenly
+muda si muda,muda si muda,ADV+EN=thereafter
+muhimu,muhimu,ADV+EN=especially
+muhimu,muhimu,ADV+EN=particularly
+muhimu,muhimu,ADV+EN=significantly
+kwa mujibu wa,kwa mujibu wa,ADV+EN=according to
+kwa mujibu wa,kwa mujibu wa,ADV+EN=because of
+kwa mujibu wa,kwa mujibu wa,ADV+EN=in conformity with
+mumo,mumo,ADV+EN=in(side) here
+mumu humu,mumu humu,ADV+EN=in this very place
+muujibu,muujibu,ADV+EN=in accordance with
+muujibu,muujibu,ADV+EN=according to
+kila mwaka,kila mwaka,ADV+EN=annually
+kila mwaka,kila mwaka,ADV+EN=yearly
+mwaka kwa mwaka,mwaka kwa mwaka,ADV+EN=annually
+mwaka kwa mwaka,mwaka kwa mwaka,ADV+EN=yearly
+mwakani,mwakani,ADV+EN=next year
+mwakani,mwakani,ADV+EN=in the following year
+mwakani,mwakani,ADV+EN=in a year's time
+mwakani,mwakani,ADV+EN=within a year
+mwakani,mwakani,ADV+EN=in the course of a year
+mwakani,mwakani,ADV+EN=sooner or later
+mwanzoni,mwanzoni,ADV+EN=at first
+kila mwezi,kila mwezi,ADV+EN=monthly
+mwisho,mwisho,ADV+EN=finally
+mwisho,mwisho,ADV+EN=conclusively
+mwisho,mwisho,ADV+EN=irrevocably
+mwishowe,mwishowe,ADV+EN=conclusively
+mwishowe,mwishowe,ADV+EN=finally
+mwishowe,mwishowe,ADV+EN=finally
+mwishowe,mwishowe,ADV+EN=irrevocably
+mzofafa,mzofafa,ADV+EN=strut
+mzofafa,mzofafa,ADV+EN=walk on tiptoe
+nadra,nadra,ADV+EN=rarely
+kwa nafsi yangu,kwa nafsi yangu,ADV+EN=personally
+nami,nami,ADV+EN=with me
+nami,nami,ADV+EN=by me
+nanyi,nanyi,ADV+EN=by you (pl.)
+nanyi,nanyi,ADV+EN=with you (pl.)
+nao,nao,ADV+EN=by them
+nao,nao,ADV+EN=with them
+nasi,nasi,ADV+EN=with us
+nasi,nasi,ADV+EN=by us
+kwa nasibu,kwa nasibu,ADV+EN=by chance
+kwa nasibu,kwa nasibu,ADV+EN=accidentally
+kwa nasibu,kwa nasibu,ADV+EN=unintentionally
+nawe,nawe,ADV+EN=with you (sing.)
+nawe,nawe,ADV+EN=by you (sing.)
+naye,naye,ADV+EN=with her
+naye,naye,ADV+EN=by her
+naye,naye,ADV+EN=with him
+naye,naye,ADV+EN=by him
+naye,naye,ADV+EN=with it
+naye,naye,ADV+EN=by it
+ncha,ncha,ADV+EN=extremity
+ndani,ndani,ADV+EN=in
+ndani,ndani,ADV+EN=inside
+ndani,ndani,ADV+EN=within
+ndani,ndani,ADV+EN=inwardly
+ndani,ndani,ADV+EN=secretly
+kwa ndege,kwa ndege,ADV+EN=by air
+kwa ndege,kwa ndege,ADV+EN=via airmail
+ndezi,ndezi,ADV+EN=drowsiness
+ndezi,ndezi,ADV+EN=indolence
+ndezi,ndezi,ADV+EN=laxity
+ndi-,ndi-,ADV+EN=it is so
+ndipo,ndipo,ADV+EN=and then
+ndipo,ndipo,ADV+EN=just then
+ndondi,ndondi,ADV+EN=with the fists
+kwa nguvu,kwa nguvu,ADV+EN=with authority
+kwa nguvu,kwa nguvu,ADV+EN=under compulsion
+kwa nguvu,kwa nguvu,ADV+EN=earnestly
+kwa nguvu,kwa nguvu,ADV+EN=energetically
+kwa nguvu,kwa nguvu,ADV+EN=by force
+kwa nguvu,kwa nguvu,ADV+EN=passionately
+kwa nguvu,kwa nguvu,ADV+EN=reluctantly
+kwa nguvu,kwa nguvu,ADV+EN=strongly
+kwa nguvu,kwa nguvu,ADV+EN=vehemently
+kwa nia,kwa nia,ADV+EN=intentionally
+bila nia,bila nia,ADV+EN=unintentionally
+pasipo nia,pasipo nia,ADV+EN=unintentionally
+pasipo nia,pasipo nia,ADV+EN=without intention
+pasipo nia,pasipo nia,ADV+EN=by accident
+kwa niaba ya,kwa niaba ya,ADV+EN=on behalf of
+kwa nini,kwa nini,ADV+EN=why
+nje,nje,ADV+EN=out
+nje,nje,ADV+EN=outside
+njiani,njiani,ADV+EN=along the way
+njongwanjongwa,njongwanjongwa,ADV+EN=quietly
+njongwanjongwa,njongwanjongwa,ADV+EN=softly
+njongwanjongwa,njongwanjongwa,ADV+EN=stealthily
+njongwanjongwa,njongwanjongwa,ADV+EN=surreptitiously
+njongwanjongwa,njongwanjongwa,ADV+EN=on tiptoe
+nomi,nomi,ADV+EN=brimful
+nusra,nusra,ADV+EN=about
+nusra,nusra,ADV+EN=almost
+nusra,nusra,ADV+EN=approximately
+nusra,nusra,ADV+EN=nearly
+nusu,nusu,ADV+EN=in small number
+nusu... nusu,nusu... nusu,ADV+EN=partly.. partly
+nusura,nusura,ADV+EN=about
+nusura,nusura,ADV+EN=almost
+nusura,nusura,ADV+EN=approximately
+nusura,nusura,ADV+EN=nearly
+nyatunyatu,nyatunyatu,ADV+EN=very quietly (of walking)
+nyatunyatu,nyatunyatu,ADV+EN=softly
+nyatunyatu,nyatunyatu,ADV+EN=stealthily
+kwa nyongo,kwa nyongo,ADV+EN=unwillingly
+nyuma,nyuma,ADV+EN=back
+nyuma,nyuma,ADV+EN=backwards
+nyuma ya...,nyuma ya...,ADV+EN=after
+nyuma ya...,nyuma ya...,ADV+EN=behind
+ovyo,ovyo,ADV+EN=carelessly
+ovyo,ovyo,ADV+EN=negligently
+ovyo,ovyo,ADV+EN=haphazardly
+ovyo,ovyo,ADV+EN=disorderly
+ovyo,ovyo,ADV+EN=aimlessly
+ovyo,ovyo,ADV+EN=at random
+ovyo,ovyo,ADV+EN=excessively
+ovyo,ovyo,ADV+EN=wasteful
+ovyo,ovyo,ADV+EN=foolishly
+ovyo,ovyo,ADV+EN=anyhow
+ovyoovyo,ovyoovyo,ADV+EN=anyhow
+ovyoovyo,ovyoovyo,ADV+EN=disorderly
+ovyoovyo,ovyoovyo,ADV+EN=foolishly
+ovyoovyo,ovyoovyo,ADV+EN=negligently
+ovyoovyo,ovyoovyo,ADV+EN=at random
+pale pale,pale pale,ADV+EN=just then
+pale pale,pale pale,ADV+EN=just there
+palepale,palepale,ADV+EN=in that very place
+palepale,palepale,ADV+EN=in the same place
+papa hapa,papa hapa,ADV+EN=in this very place
+papa hapa,papa hapa,ADV+EN=at this very time
+papa hapa,papa hapa,ADV+EN=now
+papa hapa,papa hapa,ADV+EN=in this very place
+papa hapa,papa hapa,ADV+EN=now
+papa hapa,papa hapa,ADV+EN=at this very time
+papara,papara,ADV+EN=hurry
+papara,papara,ADV+EN=rashness
+papo hapo,papo hapo,ADV+EN=then and there
+paruparu,paruparu,ADV+EN=in a hit and miss way
+paruparu,paruparu,ADV+EN=roughly
+paruparu,paruparu,ADV+EN=in a slipshod way
+paya,paya,ADV+EN=rave
+pekee,pekee,ADV+EN=alone
+pekee,pekee,ADV+EN=only
+pendelevu,pendelevu,ADV+EN=biased
+pendelevu,pendelevu,ADV+EN=partial
+pendelevu,pendelevu,ADV+EN=prejudiced (in favor of someone)
+pendevu,pendevu,ADV+EN=affectionate
+pendevu,pendevu,ADV+EN=friendly
+pendevu,pendevu,ADV+EN=kind
+pengine,pengine,ADV+EN=elsewhere
+pengine,pengine,ADV+EN=sometimes
+pengine,pengine,ADV+EN=maybe
+pengine,pengine,ADV+EN=perhaps
+pengine,pengine,ADV+EN=possibly
+pia,pia,ADV+EN=also
+pia,pia,ADV+EN=even
+pia,pia,ADV+EN=completely
+pia,pia,ADV+EN=totally
+pia,pia,ADV+EN=without exception
+kwa pili,kwa pili,ADV+EN=over the page
+kwa pili,kwa pili,ADV+EN=other side
+ya pili,ya pili,ADV+EN=following
+ya pili,ya pili,ADV+EN=next
+ya pili,ya pili,ADV+EN=secondly
+pindu,pindu,ADV+EN=upside down
+pindupindu,pindupindu,ADV+EN=head over heels
+pingine,pingine,ADV+EN=maybe
+pingine,pingine,ADV+EN=perhaps
+pingine,pingine,ADV+EN=sometimes
+pole,pole,ADV+EN=slowly
+polepole,polepole,ADV+EN=slowly
+polepole,polepole,ADV+EN=careful
+polepole,polepole,ADV+EN=cautious
+polepole,polepole,ADV+EN=slow
+pomoni,pomoni,ADV+EN=chock-full
+pomoni,pomoni,ADV+EN=crowded
+pukupuku,pukupuku,ADV+EN=plentifully
+punde,punde,ADV+EN=a little
+punde,punde,ADV+EN=presently
+punde,punde,ADV+EN=soon
+punde,punde,ADV+EN=in a little while
+punde kwa punde,punde kwa punde,ADV+EN=gradually
+punde kwa punde,punde kwa punde,ADV+EN=little by little
+punde si punde,punde si punde,ADV+EN=directly
+punde si punde,punde si punde,ADV+EN=soon
+punde si punde,punde si punde,ADV+EN=thereafter
+kwa purukushani,kwa purukushani,ADV+EN=carelessly
+kwa purukushani,kwa purukushani,ADV+EN=negligently
+rejareja,rejareja,ADV+EN=individually
+kwa sababu gani,kwa sababu gani,ADV+EN=why
+kwa sababu gani,kwa sababu gani,ADV+EN=why
+sago,sago,ADV+EN=continuously
+sago,sago,ADV+EN=without interruption
+salama,salama,ADV+EN=peacefully
+salama,salama,ADV+EN=calmly
+salama,salama,ADV+EN=securely
+salama,salama,ADV+EN=favorably
+salama,salama,ADV+EN=satisfactorily
+salama,salama,ADV+EN=safely
+salama,salama,ADV+EN=in perfectly good order
+salama salimini,salama salimini,ADV+EN=in perfectly good order
+salimini,salimini,ADV+EN=in perfectly good order
+salimini,salimini,ADV+EN=safely
+sambamba,sambamba,ADV+EN=alongside
+sambamba,sambamba,ADV+EN=parallel
+sambamba,sambamba,ADV+EN=shoulder to shoulder
+sambamba,sambamba,ADV+EN=side by side
+sambamba,sambamba,ADV+EN=simultaneously
+sana,sana,ADV+EN=to a great extent
+sana,sana,ADV+EN=extremely
+sana,sana,ADV+EN=a great deal
+sana,sana,ADV+EN=to a high degree
+sana,sana,ADV+EN=at the most
+sana,sana,ADV+EN=very much
+sana,sana,ADV+EN=very
+sanjari,sanjari,ADV+EN=in column formation.
+sanjari,sanjari,ADV+EN=in single file
+sare,sare,ADV+EN=alike
+sare,sare,ADV+EN=equally
+sare,sare,ADV+EN=at the same time
+sare,sare,ADV+EN=simultaneously
+sasa,sasa,ADV+EN=now
+sasa,sasa,ADV+EN=nowadays
+sasa,sasa,ADV+EN=at present
+sasa hivi,sasa hivi,ADV+EN=immediately
+sasa hivi,sasa hivi,ADV+EN=right now
+sasa hivi,sasa hivi,ADV+EN=at once
+sasa hivi,sasa hivi,ADV+EN=soon
+kwa sauti,kwa sauti,ADV+EN=out loud
+kwa sauti kubwa,kwa sauti kubwa,ADV+EN=in a loud voice
+kwa sauti,kwa sauti,ADV+EN=loudly
+sawa,sawa,ADV+EN=equally
+sawa,sawa,ADV+EN=exactly
+sawa,sawa,ADV+EN=fairly
+sawa,sawa,ADV+EN=just the same
+sawasawa,sawasawa,ADV+EN=all right
+sawasawa,sawasawa,ADV+EN=correctly
+sawasawa,sawasawa,ADV+EN=equally
+sawasawa,sawasawa,ADV+EN=exactly
+sawasawa,sawasawa,ADV+EN=fairly
+sawasawa,sawasawa,ADV+EN=okay
+sawasawa,sawasawa,ADV+EN=right
+sawasawa,sawasawa,ADV+EN=the same
+sawia,sawia,ADV+EN=just then
+sawia,sawia,ADV+EN=at that very moment
+sawia,sawia,ADV+EN=on the spot
+sawia,sawia,ADV+EN=then
+sawia,sawia,ADV+EN=at that time
+mang'ungumu,mang'ungumu,ADV+EN=secretly
+sembuse,sembuse,ADV+EN=let alone
+sembuse,sembuse,ADV+EN=much less
+sembuse,sembuse,ADV+EN=much more
+shabaha,shabaha,ADV+EN=like
+shabaha,shabaha,ADV+EN=same as
+shabihi,shabihi,ADV+EN=like
+shabihi,shabihi,ADV+EN=same as
+shaghala,shaghala,ADV+EN=any old way
+shaghala,shaghala,ADV+EN=haphazardly
+shaghala,shaghala,ADV+EN=indiscriminately
+shaghala,shaghala,ADV+EN=at random
+shambiro,shambiro,ADV+EN=for common use
+shambiro,shambiro,ADV+EN=unregulated
+shambiro,shambiro,ADV+EN=unrestricted
+shanjari,shanjari,ADV+EN=in column formation.
+shanjari,shanjari,ADV+EN=in single file
+shanjari,shanjari,ADV+EN=in a line
+sharika,sharika,ADV+EN=in common
+sharika,sharika,ADV+EN=jointly
+sharika,sharika,ADV+EN=together
+kwa sharti,kwa sharti,ADV+EN=as stipulated
+kwa sharti,kwa sharti,ADV+EN=by agreement
+kwa shauku,kwa shauku,ADV+EN=eagerly
+kwa shauri,kwa shauri,ADV+EN=unanimously
+shauri moja,shauri moja,ADV+EN=unanimously
+shelabela,shelabela,ADV+EN=indiscriminately
+shelabela,shelabela,ADV+EN=as is (of merchandise)
+shelabela,shelabela,ADV+EN=as a lot (of merchandise)
+shenhashenga,shenhashenga,ADV+EN=in small particles
+shirika,shirika,ADV+EN=in common
+shirika,shirika,ADV+EN=jointly
+shirika,shirika,ADV+EN=together
+shoto,shoto,ADV+EN=awkwardly
+shoto,shoto,ADV+EN=backwards
+shoto,shoto,ADV+EN=in a left-handed way
+shotoshoto,shotoshoto,ADV+EN=awkwardly
+shotoshoto,shotoshoto,ADV+EN=backwards
+shotoshoto,shotoshoto,ADV+EN=in a left-handed way
+kwa shughuli,kwa shughuli,ADV+EN=in the line of business
+kwa shughuli,kwa shughuli,ADV+EN=professionally
+shuruti,shuruti,ADV+EN=compulsorily
+shuruti,shuruti,ADV+EN=obligatorily
+shuruti,shuruti,ADV+EN=by force
+si kiasi yake,si kiasi yake,ADV+EN=out of his or her reach
+si kiasi yake,si kiasi yake,ADV+EN=about
+si kiasi yake,si kiasi yake,ADV+EN=approximately
+si kiasi yake,si kiasi yake,ADV+EN=hardly
+si kiasi yake,si kiasi yake,ADV+EN=a little
+si kiasi yake,si kiasi yake,ADV+EN=no sooner
+siasa,siasa,ADV+EN=careful
+siasa,siasa,ADV+EN=meticulous
+siasa,siasa,ADV+EN=orderly
+siku hizi,siku hizi,ADV+EN=lately
+siku hizi,siku hizi,ADV+EN=modern times
+siku hizi,siku hizi,ADV+EN=nowadays
+sikuzote,sikuzote,ADV+EN=everyday
+kwa siri,kwa siri,ADV+EN=secretly
+kwa siri,kwa siri,ADV+EN=mysteriously
+sisisi,sisisi,ADV+EN=in a jam-packed manner
+soli,soli,ADV+EN=face to face
+soli,soli,ADV+EN=unexpectedly
+spesheli,spesheli,ADV+EN=specially
+kwa sukumana,kwa sukumana,ADV+EN=with much crowding
+kwa sukumana,kwa sukumana,ADV+EN=with much jostling
+sululu,sululu,ADV+EN=at the same time
+sululu,sululu,ADV+EN=simultaneously
+tabaka moja,tabaka moja,ADV+EN=close together
+tabaka moja,tabaka moja,ADV+EN=nearby
+tabaka moja,tabaka moja,ADV+EN=side by side
+taghafali,taghafali,ADV+EN=suddenly
+taghafali,taghafali,ADV+EN=unawares
+taghafali,taghafali,ADV+EN=unexpectedly
+tahamaki,tahamaki,ADV+EN=suddenly
+taibu,taibu,ADV+EN=well
+taibu,taibu,ADV+EN=right
+taibu,taibu,ADV+EN=rightly
+takriban,takriban,ADV+EN=almost
+takriban,takriban,ADV+EN=approximately
+takriban,takriban,ADV+EN=nearly
+tama,tama,ADV+EN=true
+tama,tama,ADV+EN=final
+tama,tama,ADV+EN=conclusive
+tama,tama,ADV+EN=decisive
+tamu,tamu,ADV+EN=pleasantly
+tanda,tanda,ADV+EN=determinedly
+tanda,tanda,ADV+EN=resolutely
+tanda,tanda,ADV+EN=in a self-possessed manner
+tangu,tangu,ADV+EN=since
+tani,tani,ADV+EN=askew
+tani,tani,ADV+EN=on the back
+tani,tani,ADV+EN=backwards
+tani,tani,ADV+EN=sideways
+taratibu,taratibu,ADV+EN=in an orderly fashion
+taratibu,taratibu,ADV+EN=slowly
+taratibu,taratibu,ADV+EN=carefully
+taratibu,taratibu,ADV+EN=quietly
+taratibu,taratibu,ADV+EN=calmly
+tasa,tasa,ADV+EN=not yet (always w neg.+ another verb)
+tasihili,tasihili,ADV+EN=hastily
+tasihili,tasihili,ADV+EN=quickly
+tasihili,tasihili,ADV+EN=speedily
+taslimu,taslimu,ADV+EN=in cash
+tayari,tayari,ADV+EN=already
+tele,tele,ADV+EN=in great quantity
+telki,telki,ADV+EN=quickly
+telki,telki,ADV+EN=at a trot
+tena,tena,ADV+EN=in addition
+tena,tena,ADV+EN=afterwards
+tena,tena,ADV+EN=again
+tena,tena,ADV+EN=and
+tena,tena,ADV+EN=furthermore
+tena,tena,ADV+EN=moreover
+tena,tena,ADV+EN=next
+tena,tena,ADV+EN=repeatedly
+tena,tena,ADV+EN=then
+thama,thama,ADV+EN=after that
+thama,thama,ADV+EN=also
+thama,thama,ADV+EN=likewise
+thama,thama,ADV+EN=similarly
+thama,thama,ADV+EN=then
+tike,tike,ADV+EN=exactly
+tike,tike,ADV+EN=precisely
+tilatila,tilatila,ADV+EN=well mixed
+tilatila,tilatila,ADV+EN=variegated
+tisti,tisti,ADV+EN=firmly
+tisti,tisti,ADV+EN=immovably
+tofauti,tofauti,ADV+EN=differently
+tokea hapo,tokea hapo,ADV+EN=since then
+tokea hapo,tokea hapo,ADV+EN=until now
+tokea hapo,tokea hapo,ADV+EN=actually
+tokea hapo,tokea hapo,ADV+EN=exactly
+tokea hapo,tokea hapo,ADV+EN=hence
+tokea hapo,tokea hapo,ADV+EN=indeed
+tokea hapo,tokea hapo,ADV+EN=really
+tokea zamani,tokea zamani,ADV+EN=for a long time
+tokeapo,tokeapo,ADV+EN=long ago
+tokeapo,tokeapo,ADV+EN=from time immemorial
+tokeapo,tokeapo,ADV+EN=since
+top,top,ADV+EN=to a high degree
+top,top,ADV+EN=extremely
+tu,tu,ADV+EN=only
+tu,tu,ADV+EN=just
+tu,tu,ADV+EN=merely
+tu,tu,ADV+EN=nothing but
+tu,tu,ADV+EN=completely
+tu,tu,ADV+EN=utterly
+tuli,tuli,ADV+EN=calmly
+tuli,tuli,ADV+EN=inert
+tuli,tuli,ADV+EN=quiet
+tuli,tuli,ADV+EN=still
+tulii,tulii,ADV+EN=calmly
+tulii,tulii,ADV+EN=quietly
+twaa,twaa,ADV+EN=quietly
+twaa,twaa,ADV+EN=silently
+ubavuni (pa au kwa),ubavuni (pa au kwa),ADV+EN=on one's side
+ubele,ubele,ADV+EN=long ago
+ubele,ubele,ADV+EN=before
+ubele,ubele,ADV+EN=beyond
+ubele,ubele,ADV+EN=on the contrary
+ubele,ubele,ADV+EN=earlier
+ubele,ubele,ADV+EN=forward
+ubele,ubele,ADV+EN=in front
+ubele,ubele,ADV+EN=further
+ubele,ubele,ADV+EN=in the future
+ubele,ubele,ADV+EN=later
+ubele,ubele,ADV+EN=on the other hand
+ubele,ubele,ADV+EN=previously
+ubele,ubele,ADV+EN=subsequently
+udohusohu,udohusohu,ADV+EN=economically
+udohusohu,udohusohu,ADV+EN=sparingly
+ukando,ukando,ADV+EN=along
+ukando,ukando,ADV+EN=aside
+ukando,ukando,ADV+EN=by
+ukando,ukando,ADV+EN=next to
+ukando,ukando,ADV+EN=sideways
+umbele,umbele,ADV+EN=long ago
+umbele,umbele,ADV+EN=before
+umbele,umbele,ADV+EN=beyond
+umbele,umbele,ADV+EN=on the contrary
+umbele,umbele,ADV+EN=earlier
+umbele,umbele,ADV+EN=forward
+umbele,umbele,ADV+EN=in front
+umbele,umbele,ADV+EN=further
+umbele,umbele,ADV+EN=future
+umbele,umbele,ADV+EN=later
+umbele,umbele,ADV+EN=on the other hand
+umbele,umbele,ADV+EN=previously
+umbele,umbele,ADV+EN=subsequently
+kwa umoja,kwa umoja,ADV+EN=unanimously
+unyo,unyo,ADV+EN=close together
+unyo,unyo,ADV+EN=in close order
+unyounyo,unyounyo,ADV+EN=close together
+unyounyo,unyounyo,ADV+EN=in close order
+upana,upana,ADV+EN=far and wide
+upana,upana,ADV+EN=inside out
+upana,upana,ADV+EN=thoroughly
+upande,upande,ADV+EN=aside
+upande,upande,ADV+EN=sideways
+upande,upande,ADV+EN=awry
+upeo,upeo,ADV+EN=thoroughly
+upeo,upeo,ADV+EN=to the utmost
+kwa upesi,kwa upesi,ADV+EN=quickly
+upesi,upesi,ADV+EN=fast
+upesi,upesi,ADV+EN=quickly
+upesi,upesi,ADV+EN=speedily
+upya,upya,ADV+EN=afresh
+upya,upya,ADV+EN=again
+upya,upya,ADV+EN=anew
+kwa urahisi,kwa urahisi,ADV+EN=easily
+urahisi,urahisi,ADV+EN=cheaply
+urahisi,urahisi,ADV+EN=easily
+usalimini,usalimini,ADV+EN=safe
+usku,usku,ADV+EN=at night
+vibaya,vibaya,ADV+EN=badly
+vibaya,vibaya,ADV+EN=wickedly
+vibya,vibya,ADV+EN=wickedly
+vibya,vibya,ADV+EN=badly
+vigumu,vigumu,ADV+EN=with difficulty
+vigumu,vigumu,ADV+EN=very hard
+vigumu,vigumu,ADV+EN=hardly
+vilevile,vilevile,ADV+EN=also
+vilevile,vilevile,ADV+EN=too
+vilevile,vilevile,ADV+EN=as well
+vilevile,vilevile,ADV+EN=in addition
+vilevile,vilevile,ADV+EN=likewise
+vilevile,vilevile,ADV+EN=in the same way
+vilevile,vilevile,ADV+EN=so
+vilevile,vilevile,ADV+EN=thus
+vilevile,vilevile,ADV+EN=in that way
+vilevile,vilevile,ADV+EN=how (it can be that)
+vilevile,vilevile,ADV+EN=the way in which
+vilivyo,vilivyo,ADV+EN=very well
+vimoto,vimoto,ADV+EN=energetically
+vimoto,vimoto,ADV+EN=excitedly
+vimoto,vimoto,ADV+EN=hastily
+vimoto,vimoto,ADV+EN=heatedly
+vingi,vingi,ADV+EN=in abundance
+vingi,vingi,ADV+EN=in great numbers
+vingine,vingine,ADV+EN=in another way
+vingine,vingine,ADV+EN=differently
+vingine,vingine,ADV+EN=others
+vingine,vingine,ADV+EN=otherwise
+vingine,vingine,ADV+EN=variously
+vinginevyo,vinginevyo,ADV+EN=differently
+vinginevyo,vinginevyo,ADV+EN=in some other way
+vinginevyo,vinginevyo,ADV+EN=others
+vinginevyo,vinginevyo,ADV+EN=specially
+vinginevyo,vinginevyo,ADV+EN=otherwise
+vinono,vinono,ADV+EN=favorable
+vipi,vipi,ADV+EN=What's up  (greeting)
+visivyo,visivyo,ADV+EN=in a wrong way
+vivi hivi,vivi hivi,ADV+EN=just so
+vivi hivi,vivi hivi,ADV+EN=in this very way
+vivi hivi,vivi hivi,ADV+EN=just so
+vivi hivi,vivi hivi,ADV+EN=in the same way
+vivyo,vivyo,ADV+EN=as before
+vivyo,vivyo,ADV+EN=in just the same way
+vizuri,vizuri,ADV+EN=beautifully
+vizuri,vizuri,ADV+EN=correctly
+vizuri,vizuri,ADV+EN=good
+vizuri,vizuri,ADV+EN=nicely
+vizuri,vizuri,ADV+EN=pleasantly
+vizuri,vizuri,ADV+EN=properly
+vizuri,vizuri,ADV+EN=well
+vyema,vyema,ADV+EN=well
+vyema,vyema,ADV+EN=properly
+vyema,vyema,ADV+EN=correctly
+wahedu,wahedu,ADV+EN=only
+wahedu,wahedu,ADV+EN=solely
+wala,wala,ADV+EN=neither
+wala,wala,ADV+EN=however
+walao,walao,ADV+EN=even
+walao,walao,ADV+EN=at least
+walao,walao,ADV+EN=not even
+walao,walao,ADV+EN=not a single one
+walau,walau,ADV+EN=at least
+walau,walau,ADV+EN=even
+walau,walau,ADV+EN=not even
+walau,walau,ADV+EN=not a single one
+wama,wama,ADV+EN=bend over something (e.g.  a fire)
+wama,wama,ADV+EN=lie down on one's stomach
+wamba,wamba,ADV+EN=spread over
+wamba,wamba,ADV+EN=stretch over
+wamia,wamia,ADV+EN=bend over something (e.g.  a fire)
+wamia,wamia,ADV+EN=lie down on one's stomach
+wanguwangu,wanguwangu,ADV+EN=very quickly
+wanguwangu,wanguwangu,ADV+EN=with a great vehemence
+kwa wasiwasi,kwa wasiwasi,ADV+EN=perplexedly
+wastani,wastani,ADV+EN=about
+wastani,wastani,ADV+EN=approximately
+wastani,wastani,ADV+EN=on the average
+wazi,wazi,ADV+EN=evident
+wazi,wazi,ADV+EN=obvious
+wazi wazi,wazi wazi,ADV+EN=clearly
+wazi wazi,wazi wazi,ADV+EN=openly
+weleka,weleka,ADV+EN=carry (a child on one's back)
+wewedeka,wewedeka,ADV+EN=talk deliriously
+weweseka,weweseka,ADV+EN=talk deliriously
+yahom,yahom,ADV+EN=straight ahead
+yahom,yahom,ADV+EN=with the wind
+yakini,yakini,ADV+EN=definitely
+yamkini,yamkini,ADV+EN=perhaps
+yapata,yapata,ADV+EN=about
+yapata,yapata,ADV+EN=approximately
+yapata,yapata,ADV+EN=maybe
+yapata,yapata,ADV+EN=perhaps
+yumkini,yumkini,ADV+EN=perhaps
+zaidi,zaidi,ADV+EN=more
+zaidi,zaidi,ADV+EN=in greater number
+zaidi ya,zaidi ya,ADV+EN=more than
+zaidi ya,zaidi ya,ADV+EN=further
+zaidi,zaidi,ADV+EN=in excess
+zaidi,zaidi,ADV+EN=besides
+zaidi,zaidi,ADV+EN=in addition
+zamani,zamani,ADV+EN=already
+zamani,zamani,ADV+EN=before
+zamani,zamani,ADV+EN=earlier
+zamani,zamani,ADV+EN=long ago
+kwa zamu,kwa zamu,ADV+EN=in turn
+barabara,barabara,ADV+EN=right
+bure,bure,ADV+EN=free
+chini kwa chini,chini kwa chini,ADV+EN=very far below
+chini kwa chini,chini kwa chini,ADV+EN=underground
+juu,juu,ADV+EN=up
+juu,juu,ADV+EN=on top
+juu,juu,ADV+EN=high
+juu kwa juu,juu kwa juu,ADV+EN=at the top
+juu kwa juu,juu kwa juu,ADV+EN=uppermost
+juu,juu,ADV+EN=over
+juu,juu,ADV+EN=above
+juu,juu,ADV+EN=on
+juujuu,juujuu,ADV+EN=high up
+juujuu,juujuu,ADV+EN=aloft
+kama maji,kama maji,ADV+EN=watery
+kama maji,kama maji,ADV+EN=fluid
+karibu,karibu,ADV+EN=near
+karibu na,karibu na,ADV+EN=close to
+karibu,karibu,ADV+EN=in the vicinity
+karibu na,karibu na,ADV+EN=next to
+bila kiasi,bila kiasi,ADV+EN=without measure
+kiasi,kiasi,ADV+EN=average
+bila kiasi,bila kiasi,ADV+EN=inexact
+kiasi,kiasi,ADV+EN=enough
+bila kiasi,bila kiasi,ADV+EN=immoderate
+kigeugeu,kigeugeu,ADV+EN=inconstant
+kigeugeu,kigeugeu,ADV+EN=changeable
+kigeugeu,kigeugeu,ADV+EN=vacillating
+kigeugeu,kigeugeu,ADV+EN=fickle
+kimya,kimya,ADV+EN=still
+kirembo,kirembo,ADV+EN=with fine clothes
+kirembo,kirembo,ADV+EN=all dressed up
+kititi,kititi,ADV+EN=upright
+kititi,kititi,ADV+EN=erect
+mahsusi,mahsusi,ADV+EN=specific
+mahsusi,mahsusi,ADV+EN=particular
+mahsusi,mahsusi,ADV+EN=precise
+mahsusi,mahsusi,ADV+EN=special
+mshazari,mshazari,ADV+EN=slanting
+mshazari,mshazari,ADV+EN=oblique
+mshazari,mshazari,ADV+EN=lopsided
+mshazari,mshazari,ADV+EN=crooked
+mshazari,mshazari,ADV+EN=out of whack
+mshazari,mshazari,ADV+EN=cylindrical
+kwa taipu,kwa taipu,ADV+EN=typewritten
+vyema,vyema,ADV+EN=fine
+BK,BK,ABBREV+EN=AD
+dyk,dyk,ABBREV+EN=ltd
+KK,KK,ABBREV+EN=BC
+kwk (kadha wa kadha),kwk (kadha wa kadha),ABBREV+EN=etc.  (etcetera)
+n.k.,n.k.,ABBREV+EN=etc.
+n.k.  (na kadhalika),n.k.  (na kadhalika),ABBREV+EN=and so on
+n.k.  (na kadhalika),n.k.  (na kadhalika),ABBREV+EN=et cetera
+S.L.P.,S.L.P.,ABBREV+EN=PO Box
+taz,taz,ABBREV+EN=look at
+taz,taz,ABBREV+EN=see
+TEKNOHAMA,TEKNOHAMA,ABBREV+EN=ICT
+v.h.,v.h.,ABBREV+EN=just so
+v.h.,v.h.,ABBREV+EN=in just the same way
+VVU,VVU,ABBREV+EN=HIV

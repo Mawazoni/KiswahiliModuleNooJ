@@ -1,0 +1,12 @@
+*** Update of December 2018 ***
+This is a minor update that has addressed small problems in the module. 
+-7 broken grammars have been fixed to reject the TI : NPRINDEFREL
+	*swahili_verbs_all_slots_ZeroExt.nom
+ 	*swahili_verbs_sl125.nom
+	*swahili_verbs_sl125ZeroExt.nom
+	*swahili_verb_sl1235.nom
+	*swahili_verb_sl1235ZeroExt.nom
+	*swahili_verb_sl1245.nom
+	*swahili_verb_sl1245ZeroExt.nom
+-open.nop project file has been added to the module to open it with a literary text and the required Kiswahili settings
+-1 .txt file has been deleted (TODO list included by mistake)

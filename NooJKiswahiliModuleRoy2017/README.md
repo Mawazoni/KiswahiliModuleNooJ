@@ -16,7 +16,7 @@ Working with Standard Kiswahili means setting aside the Nairobi Sheng, Kiswahili
 
 The dictionaries entries and English translations are mainly based on the Internet Living Kiswahili Dictionary data whose proper citation is:
 
-2008. M. Benjamin, editor. Swahili-English Kamusi Project Wordlist for Free Non-Commercial Use, Kamusi Project International.
+  2008. M. Benjamin, editor. Swahili-English Kamusi Project Wordlist for Free Non-Commercial Use, Kamusi Project International.
 Distributed under Creative Commons Licence: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
 The Kamusi project was a collaborative, open and international project directed by Martin Benjamin of Yale University, USA (now at Polytechnique, Lausanne, Switzerland). Many top Kiswahili scholars contributed as well as non-academic experts. The Kamusi project mixed various dictionaries, published or working papers, and expanded by continuous updates from East Africa. The documents were available at www.kamusi.org as .txt files.

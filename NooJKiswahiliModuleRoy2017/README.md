@@ -7,9 +7,6 @@ Proper citation may be:
 2017. Mathieu Roy. NooJ Kiswahili Module V. 1.0: electronic Kiswahili-English dictionary and morphological grammar of Kiswahili for Free Non-Commercial Use.
 Distributed under Creative Commons Licence: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
-You can download it freely at http://www.nooj4nlp.net/ or http://www.nooj-association.org/
-(see “Linguistic Resources”).
-
 ## ABOUT THE DICTIONARY
 Which Kiswahili is it?
 Kiswahili is generally described as the bantu language G42 in Malcom Guthrie’s classification. But this continentally spread language is diverse from East Africa to Central Africa. Kiswahili ni nyama ya tembo, kila mtu anachumia pake according to Alphonse Lenselaer in the presentation of his Swahili-Français dictionary. It’s a fact that there are many varieties of Kiswahili, to the point that we can seriously talk of Viswahili. Here we have described the Standard Swahili, or Kiswahili sanifu. This is the more widely understood and spoken variety. This is also the written Kiswahili for the medias, law and East African Schools. Finally, it’s the variety used in Dar es Salaam, the economic capital city of Tanzania. Historically the Standard Swahili has originated with the Kiswahili used in Zanzibar also known as Kiunguja.
